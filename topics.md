@@ -352,6 +352,7 @@
 
 ## c 
 
+- [Ferdi265/wl-mirror](https://github.com/Ferdi265/wl-mirror) - a simple Wayland output mirror client
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
@@ -485,7 +486,6 @@
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
 - [PROxZIMA/Sweet-Pop](https://github.com/PROxZIMA/Sweet-Pop) - Sweet_Pop! Beautify, Customize Firefox. Minimalist animated oneliner theme for Firefox perfectly matching Sweet Dark.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
-- [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
 
 ## cybersecurity 
 
@@ -544,16 +544,11 @@
 - [fufexan/webcord-flake](https://github.com/fufexan/webcord-flake) - WebCord Nix flake
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
-- [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
-- [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [Comfy-Themes/Discord](https://github.com/Comfy-Themes/Discord) - Stay comfy while talking to your friends
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [schnensch0/zelk](https://github.com/schnensch0/zelk) - discord theme inspired by zorin
-- [replugged-org/replugged](https://github.com/replugged-org/replugged) - A lightweight Discord client mod focused on simplicity and performance.
 - [n3oney/discord-update-skip](https://github.com/n3oney/discord-update-skip) - A simple bash script to fix Discord wanting to update to a version that isn't in the repos.
-- [discord-modifications/dark-discord](https://github.com/discord-modifications/dark-discord) - An actual dark mode for discord.
-- [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 
 ## django 
 
@@ -1198,6 +1193,7 @@
 
 ## lua 
 
+- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
@@ -1247,6 +1243,7 @@
 
 ## markdown 
 
+- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -1313,6 +1310,7 @@
 
 ## neovim 
 
+- [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in NeoVim ✈️
 - [jsw08/dots](https://github.com/jsw08/dots) - Jsw's nixos dotfiles.
@@ -1390,6 +1388,7 @@
 
 ## opengl 
 
+- [Ferdi265/wl-mirror](https://github.com/Ferdi265/wl-mirror) - a simple Wayland output mirror client
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
@@ -1406,6 +1405,7 @@
 
 ## others 
 
+- [ag8/isitjoever.com](https://github.com/ag8/isitjoever.com) - 
 - [bucketfish/bucket-webring](https://github.com/bucketfish/bucket-webring) - webring for bucket people :)
 - [Ferdi265/wl-restart](https://github.com/Ferdi265/wl-restart) - restart your compositor when it crashes
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
