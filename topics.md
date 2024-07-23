@@ -292,6 +292,7 @@
 
 ## awesome 
 
+- [coliff/awesome-website-testing-tools](https://github.com/coliff/awesome-website-testing-tools) - Resource of web-based testing and validation tools
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there...
@@ -310,6 +311,7 @@
 
 ## awesome-list 
 
+- [coliff/awesome-website-testing-tools](https://github.com/coliff/awesome-website-testing-tools) - Resource of web-based testing and validation tools
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there...
 - [rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland) - A curated list of Wayland resources
@@ -481,6 +483,7 @@
 
 ## css 
 
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
 - [refact0r/sidefox](https://github.com/refact0r/sidefox) - Some simple css to seamlessly integrate Tree Style Tab into Firefox.
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
@@ -974,6 +977,7 @@
 
 ## html 
 
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 
 ## http 
@@ -1285,6 +1289,7 @@
 
 ## monitoring 
 
+- [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [Icinga/icinga2](https://github.com/Icinga/icinga2) - The core of our monitoring platform with a powerful configuration language and REST API.
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -1405,6 +1410,8 @@
 
 ## others 
 
+- [iynaix/anime-face-detector](https://github.com/iynaix/anime-face-detector) - CLI for hysts/anime-face-detector
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
 - [ag8/isitjoever.com](https://github.com/ag8/isitjoever.com) - 
 - [bucketfish/bucket-webring](https://github.com/bucketfish/bucket-webring) - webring for bucket people :)
 - [Ferdi265/wl-restart](https://github.com/Ferdi265/wl-restart) - restart your compositor when it crashes
@@ -1954,6 +1961,7 @@
 
 ## python 
 
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [mhagger/git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
@@ -2067,6 +2075,7 @@
 
 ## rust 
 
+- [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [donovanglover/hyprdim](https://github.com/donovanglover/hyprdim) - Automatically dim windows in Hyprland when switching between them.
@@ -2282,6 +2291,7 @@
 
 ## testing 
 
+- [coliff/awesome-website-testing-tools](https://github.com/coliff/awesome-website-testing-tools) - Resource of web-based testing and validation tools
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
 
