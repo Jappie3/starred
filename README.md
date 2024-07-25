@@ -190,8 +190,8 @@
 - [spion/adbfs-rootless](https://github.com/spion/adbfs-rootless) - Mount Android phones on Linux with adb. No root required.
 - [shlevy/nix-plugins](https://github.com/shlevy/nix-plugins) - Collection of miscellaneous plugins for the nix expression language
 - [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus) - a focus animation plugin for Hyprland inspired by Flashfocus
-- [jerrymaolong/hycov](https://github.com/jerrymaolong/hycov) - hyprland overview mode plugin,a new tile window workflow
-- [jerrymaolong/hyev](https://github.com/jerrymaolong/hyev) - a hyprland plugin for Animation sound
+- [DreamMaoMao/hycov](https://github.com/DreamMaoMao/hycov) - hyprland overview mode plugin,a new tile window workflow
+- [DreamMaoMao/hyev](https://github.com/DreamMaoMao/hyev) - a hyprland plugin for Animation sound
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang) - The official implementation library for the hypr config language.
 - [levnikmyskin/hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) - A plugin for the Hyprland compositor, implementing virtual-desktop functionality.
