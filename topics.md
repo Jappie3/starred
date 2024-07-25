@@ -487,6 +487,7 @@
 ## css 
 
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
 - [refact0r/sidefox](https://github.com/refact0r/sidefox) - Some simple css to seamlessly integrate Tree Style Tab into Firefox.
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
@@ -700,6 +701,7 @@
 ## firefox 
 
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
 - [refact0r/sidefox](https://github.com/refact0r/sidefox) - Some simple css to seamlessly integrate Tree Style Tab into Firefox.
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
@@ -1451,7 +1453,6 @@
 - [nix-community/raspberry-pi-nix](https://github.com/nix-community/raspberry-pi-nix) - NixOS modules to aid in configuring NixOS for raspberry pi products
 - [Earthcomputer/fluffy-parakeet](https://github.com/Earthcomputer/fluffy-parakeet) - Minecraft worldgen rewritten in Rust
 - [viperML/hover-rs](https://github.com/viperML/hover-rs) - Protective home overlay
-- [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [nicanorflavier/spf-dkim-dmarc-simplified](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified) - Email security is a key part of internet communication. But what are SPF, DKIM, and DMARC, and how do they work? This guide will explain it all in simple terms to make these concepts clearer.
 - [comfysage/coffeetime](https://github.com/comfysage/coffeetime) - tiny cli for creating discord format time strings
 - [hyprwm/standards](https://github.com/hyprwm/standards) - The repo housing the MDs of Hyprland Development standards.
@@ -1585,8 +1586,8 @@
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [end-4/CirnOS](https://github.com/end-4/CirnOS) - NixOS flake from a baka
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
-- [jerrymaolong/hycov](https://github.com/jerrymaolong/hycov) - hyprland overview mode plugin,a new tile window workflow
-- [jerrymaolong/hyev](https://github.com/jerrymaolong/hyev) - a hyprland plugin for Animation sound
+- [DreamMaoMao/hycov](https://github.com/DreamMaoMao/hycov) - hyprland overview mode plugin,a new tile window workflow
+- [DreamMaoMao/hyev](https://github.com/DreamMaoMao/hyev) - a hyprland plugin for Animation sound
 - [LTTLabsOSS/markbench-tests](https://github.com/LTTLabsOSS/markbench-tests) - Home of test harnesses used in LTT Labs MarkBench
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
