@@ -611,6 +611,7 @@
 
 ## Nix 
 
+- [LovingMelody/nix-citizen](https://github.com/LovingMelody/nix-citizen) - Nix configuration for StarCitizen, optionally installs the game package.
 - [numinit/nixpkcs](https://github.com/numinit/nixpkcs) - Declaratively manage keys in hardware tokens, from NixOS.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with battery included.
 - [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
@@ -808,6 +809,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [iynaix/anime-face-detector](https://github.com/iynaix/anime-face-detector) - CLI for hysts/anime-face-detector
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1137,7 +1139,6 @@
 - [morr0ne/cake](https://github.com/morr0ne/cake) - 🍰 The Portal ending screen in your browser
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
-- [ArmCord/ArmCord](https://github.com/ArmCord/ArmCord) - ArmCord is a custom client designed to enhance your Discord experience while keeping everything lightweight.
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 - [Inrixia/neptune-plugins](https://github.com/Inrixia/neptune-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More!
 - [FixTweet/FxTwitter](https://github.com/FixTweet/FxTwitter) - Fix broken Twitter/X embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
