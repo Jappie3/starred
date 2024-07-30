@@ -846,7 +846,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [abenz1267/walker](https://github.com/abenz1267/walker) - wayland-native application runner
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
@@ -1429,6 +1429,8 @@
 
 ## others 
 
+- [danjl1100/typst-dnd-5e](https://github.com/danjl1100/typst-dnd-5e) - 
+- [coljac/typst-dnd5e](https://github.com/coljac/typst-dnd5e) - A typst template for DND 5E content.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 - [LovingMelody/nix-citizen](https://github.com/LovingMelody/nix-citizen) - Nix configuration for StarCitizen, optionally installs the game package.
