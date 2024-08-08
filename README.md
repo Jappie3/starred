@@ -287,6 +287,7 @@
 
 ## Dockerfile 
 
+- [iliana/paws](https://github.com/iliana/paws) - a simple pause container 🐾
 - [snw35/ffsync](https://github.com/snw35/ffsync) - Firefox Sync Server Docker Container
 
 ## Emacs Lisp 
@@ -834,6 +835,8 @@
 
 ## Python 
 
+- [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
