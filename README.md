@@ -486,14 +486,13 @@
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
 - [AMereBagatelle/MCG](https://github.com/AMereBagatelle/MCG) - Stores coordinates in an easy-to-access way.
 - [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [InventivetalentDev/FairySoulHelperMod](https://github.com/InventivetalentDev/FairySoulHelperMod) - Mod to help with finding Fairy Souls on Hypixel Skyblock
 
 ## JavaScript 
 
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) - Backend for HTTP Observatory on MDN
 - [hp27596/secondpage](https://github.com/hp27596/secondpage) - Google Search without media conglomerates
@@ -937,6 +936,7 @@
 
 ## Rust 
 
+- [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [cafkafk/fortune-kind](https://github.com/cafkafk/fortune-kind) - Fortune favors the kind
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [NotAShelf/microfetch](https://github.com/NotAShelf/microfetch) - Microscopic fetch script in Rust, for NixOS systems, with special emphasis on speed
@@ -1172,6 +1172,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
+- [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
