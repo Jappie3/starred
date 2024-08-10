@@ -1489,6 +1489,7 @@
 
 ## others 
 
+- [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
 - [iliana/paws](https://github.com/iliana/paws) - a simple pause container 🐾
