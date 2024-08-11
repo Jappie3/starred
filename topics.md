@@ -1157,6 +1157,7 @@
 
 ## linux 
 
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [NotAShelf/microfetch](https://github.com/NotAShelf/microfetch) - Microscopic fetch script in Rust, for NixOS systems, with special emphasis on speed
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1284,6 +1285,7 @@
 
 ## macos 
 
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -1489,6 +1491,8 @@
 
 ## others 
 
+- [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
 - [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
@@ -2504,6 +2508,7 @@
 
 ## windows 
 
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
