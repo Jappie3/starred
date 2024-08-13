@@ -425,6 +425,7 @@
 
 ## cli 
 
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
@@ -2191,6 +2192,7 @@
 
 ## rust 
 
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [cafkafk/fortune-kind](https://github.com/cafkafk/fortune-kind) - Fortune favors the kind
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
