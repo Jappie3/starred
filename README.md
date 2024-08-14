@@ -944,7 +944,7 @@
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [cafkafk/fortune-kind](https://github.com/cafkafk/fortune-kind) - Fortune favors the kind
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
-- [NotAShelf/microfetch](https://github.com/NotAShelf/microfetch) - Microscopic fetch script in Rust, for NixOS systems, with special emphasis on speed
+- [NotAShelf/microfetch](https://github.com/NotAShelf/microfetch) - Microscopic fetch tool in Rust, for NixOS systems, with special emphasis on speed
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
