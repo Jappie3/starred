@@ -1246,7 +1246,7 @@
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 - [n3oney/discord-update-skip](https://github.com/n3oney/discord-update-skip) - A simple bash script to fix Discord wanting to update to a version that isn't in the repos.
-- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 
@@ -1492,6 +1492,9 @@
 
 ## others 
 
+- [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
+- [mrshmllow/freeze](https://github.com/mrshmllow/freeze) - freeze the tickrate of a server when there are no players online
+- [NotAShelf/bgenix](https://github.com/NotAShelf/bgenix) - The thing that comes after agenix... (Or, optionally, better agenix)
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
