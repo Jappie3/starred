@@ -494,6 +494,8 @@
 
 ## JavaScript 
 
+- [zolagonano/a-ninjas-handbook](https://github.com/zolagonano/a-ninjas-handbook) - A Ninja's Handbook: A book on privacy, security, and anonymity online.
+- [PatrickJS/everyone-ssn-usa](https://github.com/PatrickJS/everyone-ssn-usa) - releasing everyone's SSN and the hacks used to acquire them
 - [codenoid/github-roast](https://github.com/codenoid/github-roast) - Spicy GitHub Roast 🔥
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
