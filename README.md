@@ -57,6 +57,7 @@
 - [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -67,11 +68,13 @@
 
 ## Assembly 
 
+- [Trikkitt/polygen](https://github.com/Trikkitt/polygen) - PolyGen game repository
 - [ErrorNoInternet/unamefetch](https://github.com/ErrorNoInternet/unamefetch) - uname in a nicer format, written in x86 assembly.
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 
 ## C 
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [wins1ey/LibreSplit](https://github.com/wins1ey/LibreSplit) - Free speedrun timer with auto splitting and load removal for Linux.
 - [Ferdi265/wl-mirror](https://github.com/Ferdi265/wl-mirror) - a simple Wayland output mirror client
@@ -79,7 +82,7 @@
 - [jarusll/keydogger](https://github.com/jarusll/keydogger) - Keydogger is a tiny text expander written in C
 - [alwilson/evil](https://github.com/alwilson/evil) - Linux netfilter module to toggle evil bit (RFC 3514) in all outgoing IPv4 packets
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
-- [viperML/noshell](https://github.com/viperML/noshell) - user-configurable login shell
+- [viperML/noshell](https://github.com/viperML/noshell) - User-configurable login shell
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This i
 - [hyprwm/wlroots-hyprland](https://github.com/hyprwm/wlroots-hyprland) - Hyprland fork of the wlroots project
 - [greggersaurus/OpenSteamController](https://github.com/greggersaurus/OpenSteamController) - Steam Controller reverse engineering and customization project.
@@ -280,6 +283,7 @@
 
 ## Dart 
 
+- [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
@@ -638,6 +642,7 @@
 
 ## Nix 
 
+- [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) - Override xdg-open behavior. Because the way it already works is not confusing enough
@@ -673,7 +678,7 @@
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
 - [isabelroses/dotfiles](https://github.com/isabelroses/dotfiles) - My over complex system configurations
 - [oddlama/nix-topology](https://github.com/oddlama/nix-topology) - 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations
-- [viperML/activation-manager](https://github.com/viperML/activation-manager) - 
+- [viperML/activation-manager](https://github.com/viperML/activation-manager) - The missing piece for effectful operations with Nix
 - [NixOS/nixos-wiki-infra](https://github.com/NixOS/nixos-wiki-infra) - This project contains the setup of https://wiki.nixos.org
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
 - [nixpak/nixpak](https://github.com/nixpak/nixpak) - Runtime sandboxing for Nix
@@ -747,6 +752,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [coljac/typst-dnd5e](https://github.com/coljac/typst-dnd5e) - A typst template for DND 5E content.
@@ -1176,6 +1182,10 @@
 ## Swift 
 
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
+
+## TeX 
+
+- [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 
 ## TypeScript 
 
