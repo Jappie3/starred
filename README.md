@@ -19,7 +19,6 @@
 - [Fennel](#fennel)
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
-- [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -68,6 +67,7 @@
 
 ## Assembly 
 
+- [ErrorNoInternet/asmfetch](https://github.com/ErrorNoInternet/asmfetch) - A fetch tool written in x86-64 assembly for Linux
 - [Trikkitt/polygen](https://github.com/Trikkitt/polygen) - PolyGen game repository
 - [ErrorNoInternet/unamefetch](https://github.com/ErrorNoInternet/unamefetch) - uname in a nicer format, written in x86 assembly.
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
@@ -309,10 +309,6 @@
 ## GDScript 
 
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
-
-## GLSL 
-
-- [luyu-wu/Config](https://github.com/luyu-wu/Config) - 
 
 ## Go 
 
@@ -844,6 +840,7 @@
 
 ## Perl 
 
+- [luyu-wu/Config](https://github.com/luyu-wu/Config) - 
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
 
 ## Python 
@@ -1189,6 +1186,7 @@
 
 ## TypeScript 
 
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
