@@ -890,7 +890,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [sweetbbak/hexxy](https://github.com/sweetbbak/hexxy) - a modern and beautiful alternative to xxd and hexdump.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - Sonne tanken ☀️🚘
-- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - A tool to locally mount k8s PVs using SSHFS
+- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - Mount Kubernetes PVs locally using SSHFS
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
@@ -1152,7 +1152,7 @@
 - [arnarg/nixidy](https://github.com/arnarg/nixidy) - Kubernetes GitOps with nix and Argo CD.
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
-- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - A tool to locally mount k8s PVs using SSHFS
+- [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - Mount Kubernetes PVs locally using SSHFS
 - [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [hetznercloud/hcloud-cloud-controller-manager](https://github.com/hetznercloud/hcloud-cloud-controller-manager) - Kubernetes cloud-controller-manager for Hetzner Cloud
@@ -1534,6 +1534,7 @@
 
 ## others 
 
+- [jmwislez/fli3d](https://github.com/jmwislez/fli3d) - Fli3d is a project for Fri3d Camp, to develop and launch an ESP32 payload on top of a microrocket.
 - [IvarK/AntimatterDimensionsSourceCode](https://github.com/IvarK/AntimatterDimensionsSourceCode) - 
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
