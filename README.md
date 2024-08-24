@@ -953,6 +953,7 @@
 
 ## Rust 
 
+- [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
