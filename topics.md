@@ -1535,6 +1535,9 @@
 
 ## others 
 
+- [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
+- [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr) - 
+- [jazzyisj/unavailable-entities-sensor](https://github.com/jazzyisj/unavailable-entities-sensor) - Unavailable entities template sensor for Home Assistant.
 - [Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [jmwislez/fli3d](https://github.com/jmwislez/fli3d) - Fli3d is a project for Fri3d Camp, to develop and launch an ESP32 payload on top of a microrocket.
