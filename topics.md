@@ -1535,6 +1535,8 @@
 
 ## others 
 
+- [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
+- [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
 - [Gabriella439/holepunch](https://github.com/Gabriella439/holepunch) - NixOS configuration for tunneling an inbound SSH connection over an outbound HTTPS connection
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr) - 
