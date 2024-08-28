@@ -958,6 +958,8 @@
 
 ## Rust 
 
+- [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
+- [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
