@@ -182,6 +182,7 @@
 
 ## C++ 
 
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr) - 
 - [jmwislez/fli3d](https://github.com/jmwislez/fli3d) - Fli3d is a project for Fri3d Camp, to develop and launch an ESP32 payload on top of a microrocket.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
@@ -648,6 +649,7 @@
 
 ## Nix 
 
+- [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
 - [Gabriella439/holepunch](https://github.com/Gabriella439/holepunch) - NixOS configuration for tunneling an inbound SSH connection over an outbound HTTPS connection
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
@@ -760,6 +762,7 @@
 
 ## Others 
 
+- [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
 - [jazzyisj/unavailable-entities-sensor](https://github.com/jazzyisj/unavailable-entities-sensor) - Unavailable entities template sensor for Home Assistant.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
@@ -858,6 +861,7 @@
 
 ## Python 
 
+- [Gelbpunkt/IdleRPG](https://github.com/Gelbpunkt/IdleRPG) - A fantasy RPG bot for Discord.
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1202,6 +1206,7 @@
 
 ## TypeScript 
 
+- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
