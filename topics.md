@@ -70,6 +70,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [font](#font)
+- [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
@@ -802,6 +803,10 @@
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [i-tu/Hasklig](https://github.com/i-tu/Hasklig) - Hasklig - a code font with monospaced ligatures
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+## framework 
+
+- [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
 
 ## frontend 
 
@@ -1541,6 +1546,10 @@
 
 ## others 
 
+- [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
+- [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
+- [Gelbpunkt/IdleRPG](https://github.com/Gelbpunkt/IdleRPG) - A fantasy RPG bot for Discord.
+- [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - App to bypass censorship on Android
 - [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
 - [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
