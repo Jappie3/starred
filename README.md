@@ -218,6 +218,7 @@
 - [micha4w/Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) - Hyprland plugin to invert Colors of specific windows!
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [horriblename/hyprgrass](https://github.com/horriblename/hyprgrass) - hyprland plugin for touch gestures
 - [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This wor
@@ -528,7 +529,6 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [victornpb/undiscord](https://github.com/victornpb/undiscord) - Undiscord - Delete all messages in a Discord server / channel or DM (Easy and fast) Bulk delete
-- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [badlogic/heissepreise](https://github.com/badlogic/heissepreise) - Jo eh.
 - [wangrongding/github-old-feed](https://github.com/wangrongding/github-old-feed) - Replace the shit💩 new feed with the old one.
 - [uwu/neptune](https://github.com/uwu/neptune) - an experimental client mod for TIDAL
@@ -651,6 +651,7 @@
 
 ## Nix 
 
+- [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
 - [Gabriella439/holepunch](https://github.com/Gabriella439/holepunch) - NixOS configuration for tunneling an inbound SSH connection over an outbound HTTPS connection
 - [cynicsketch/nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
@@ -783,7 +784,7 @@
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [hyprwm/RFCs](https://github.com/hyprwm/RFCs) - 
 - [Aleksanaa/nyax](https://github.com/Aleksanaa/nyax) - Just a notice for myself, don't guess what it is, don't star
-- [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there...
+- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there...
 - [ad-si/awesome-scanning](https://github.com/ad-si/awesome-scanning) - A curated list of awesome projects to simplify and improve paper and document scanning.
 - [quantrancse/rEFInd-minimal-themes](https://github.com/quantrancse/rEFInd-minimal-themes) - Minimalist themes for the rEFInd UEFI boot manager.
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
