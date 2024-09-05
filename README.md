@@ -967,6 +967,7 @@
 
 ## Rust 
 
+- [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine made with wgpu, a.k.a another attempt at ripping off Minecraft (with multiplayer networking)
 - [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
 - [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
