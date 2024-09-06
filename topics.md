@@ -991,7 +991,6 @@
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -1157,6 +1156,7 @@
 
 ## kotlin 
 
+- [Futsch1/medTimer](https://github.com/Futsch1/medTimer) - MedTimer Android app
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -1552,6 +1552,8 @@
 
 ## others 
 
+- [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
+- [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
 - [joshuabeny1999/unisg-thesis-template-typst](https://github.com/joshuabeny1999/unisg-thesis-template-typst) - 
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
