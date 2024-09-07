@@ -166,7 +166,7 @@
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays (REST API), NuGet or docker container :earth_americas:
 - [Readarr/Readarr](https://github.com/Readarr/Readarr) - Book Manager and Automation (Sonarr for Ebooks)
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
@@ -652,6 +652,7 @@
 
 ## Nix 
 
+- [cafkafk/nix-weather](https://github.com/cafkafk/nix-weather) - Check Cache Availablility of NixOS Configurations
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [SenchoPens/base16.nix](https://github.com/SenchoPens/base16.nix) - Theme applications with your favourite base16 colorschemes in Nix
 - [Gabriella439/holepunch](https://github.com/Gabriella439/holepunch) - NixOS configuration for tunneling an inbound SSH connection over an outbound HTTPS connection
@@ -714,7 +715,6 @@
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
 - [oddlama/nix-config](https://github.com/oddlama/nix-config) - ❄️ My nix config and dotfiles
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-contained source filtering lib
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [menixator/nixos-nftables](https://github.com/menixator/nixos-nftables) - implementing the nixos firewall module with nftables
 - [nix-community/srvos](https://github.com/nix-community/srvos) - NixOS profiles for servers [maintainer=@numtide]
@@ -968,6 +968,7 @@
 
 ## Rust 
 
+- [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine made with wgpu, a.k.a another attempt at ripping off Minecraft (with multiplayer networking)
 - [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
