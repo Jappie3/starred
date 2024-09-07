@@ -994,7 +994,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
-- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - 
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [reactos/reactos](https://github.com/reactos/reactos) - A free Windows-compatible Operating System
@@ -1552,6 +1552,8 @@
 
 ## others 
 
+- [cafkafk/nix-weather](https://github.com/cafkafk/nix-weather) - Check Cache Availablility of NixOS Configurations
+- [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
 - [joshuabeny1999/unisg-thesis-template-typst](https://github.com/joshuabeny1999/unisg-thesis-template-typst) - 
@@ -1780,7 +1782,6 @@
 - [numtide/nix-filter](https://github.com/numtide/nix-filter) - a small self-contained source filtering lib
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
-- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [chaotic-cx/nyx](https://github.com/chaotic-cx/nyx) - Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).
 - [menixator/nixos-nftables](https://github.com/menixator/nixos-nftables) - implementing the nixos firewall module with nftables
 - [mozilla/platform-tilt](https://github.com/mozilla/platform-tilt) - Tracking issues which disadvantage Firefox relative to first-party browsers on major software platforms.
