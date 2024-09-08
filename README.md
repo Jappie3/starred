@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -21,7 +22,6 @@
 - [GDScript](#gdscript)
 - [Go](#go)
 - [Groovy](#groovy)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Hack](#hack)
 - [Haskell](#haskell)
@@ -72,8 +72,13 @@
 - [ErrorNoInternet/unamefetch](https://github.com/ErrorNoInternet/unamefetch) - uname in a nicer format, written in x86 assembly.
 - [briansmith/ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust
 
+## Batchfile 
+
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
 ## C 
 
+- [exploits-forsale/collateral-damage](https://github.com/exploits-forsale/collateral-damage) - Kernel exploit for Xbox SystemOS using CVE-2024-30088
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -318,6 +323,7 @@
 
 ## Go 
 
+- [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
 - [NotAShelf/bgenix](https://github.com/NotAShelf/bgenix) - The thing that comes after agenix... (Or, optionally, better agenix)
@@ -414,10 +420,6 @@
 
 - [SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry) - Repository for the Supersymmetry Minecraft Modpack
 
-## HCL 
-
-- [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
-
 ## HTML 
 
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
@@ -463,6 +465,7 @@
 
 ## Java 
 
+- [TeamPeril/Sculk-Horde](https://github.com/TeamPeril/Sculk-Horde) - Sculk Hoard implements a new end-game era to your game that once activated, will force you to fight against the newly awaked ancient sculk hoard in order to survive. This ancient enemy seeks to infect
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [mrshmllow/freeze](https://github.com/mrshmllow/freeze) - freeze the tickrate of a server when there are no players online
 - [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
@@ -721,6 +724,7 @@
 - [Ramblurr/nixos-raspberrypi](https://github.com/Ramblurr/nixos-raspberrypi) - NixOS Flake providing bare bones (but ready to go!) configurations for Raspberry Pi devices.
 - [j-brn/nix-rust-template](https://github.com/j-brn/nix-rust-template) - template for rust projects with nix
 - [Vagahbond/nix-config](https://github.com/Vagahbond/nix-config) - My attempt at an understandable, replicable, NixOS config. I use NixOS BTW.
+- [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [Gerg-L/nix-templates](https://github.com/Gerg-L/nix-templates) - Simple nix templates
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
@@ -766,6 +770,8 @@
 
 ## Others 
 
+- [VPNSox/NSABlocklist](https://github.com/VPNSox/NSABlocklist) - HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers
+- [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
 - [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
 - [jazzyisj/unavailable-entities-sensor](https://github.com/jazzyisj/unavailable-entities-sensor) - Unavailable entities template sensor for Home Assistant.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -968,6 +974,7 @@
 
 ## Rust 
 
+- [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine made with wgpu, a.k.a another attempt at ripping off Minecraft (with multiplayer networking)
@@ -1216,7 +1223,7 @@
 
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source alternative to Google Sheets, Slides, and Docs
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Drag and drop HTML email designer - truly free and open source.
@@ -1262,6 +1269,7 @@
 
 ## Typst 
 
+- [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
 - [joshuabeny1999/unisg-thesis-template-typst](https://github.com/joshuabeny1999/unisg-thesis-template-typst) - 
 - [danjl1100/typst-dnd-5e](https://github.com/danjl1100/typst-dnd-5e) - 
 - [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
