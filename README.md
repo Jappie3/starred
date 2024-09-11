@@ -57,6 +57,7 @@
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Typst](#typst)
 - [Vala](#vala)
@@ -188,6 +189,7 @@
 
 ## C++ 
 
+- [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr) - 
 - [jmwislez/fli3d](https://github.com/jmwislez/fli3d) - Fli3d is a project for Fri3d Camp, to develop and launch an ESP32 payload on top of a microrocket.
@@ -771,6 +773,7 @@
 
 ## Others 
 
+- [iyzhang/misogyny](https://github.com/iyzhang/misogyny) - A tracker for misogyny issues in tech
 - [jonringer/poly-repo-roadmap](https://github.com/jonringer/poly-repo-roadmap) - Roadmap for creating a poly-repo nixpkgs fork
 - [VPNSox/NSABlocklist](https://github.com/VPNSox/NSABlocklist) - HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
@@ -976,6 +979,7 @@
 
 ## Rust 
 
+- [Sweattypalms/ferrumc](https://github.com/Sweattypalms/ferrumc) - A reimplementation of the minecraft server framework in rust.
 - [ItsEthra/typst-live](https://github.com/ItsEthra/typst-live) - Hot reloading for your typst files
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
@@ -1221,8 +1225,13 @@
 
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+
 ## TypeScript 
 
+- [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is an open-source productivity tool dev kit helping you integrate spreadsheets, docs and slides into your applications.
