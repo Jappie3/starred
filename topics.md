@@ -316,6 +316,7 @@
 
 ## awesome 
 
+- [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [coliff/awesome-website-testing-tools](https://github.com/coliff/awesome-website-testing-tools) - Resource of web-based testing and validation tools
@@ -337,6 +338,7 @@
 
 ## awesome-list 
 
+- [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [coliff/awesome-website-testing-tools](https://github.com/coliff/awesome-website-testing-tools) - Resource of web-based testing and validation tools
@@ -1120,6 +1122,7 @@
 
 ## javascript 
 
+- [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
@@ -1934,7 +1937,7 @@
 - [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it's in realtime
 - [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
 - [lukevella/rallly-selfhosted](https://github.com/lukevella/rallly-selfhosted) - Example docker configuration for running your own instance of Rallly
-- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - Girlfriend GPT is a Python project to build your own AI girlfriend using ChatGPT4.0
+- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - AI Girlfriend NSFW chatbot tool in Python - Build your own AI companion in Python using ChatGPT.
 - [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
 - [razar-dev/PowerTube](https://github.com/razar-dev/PowerTube) - PowerTube - Youtube-dl client for Android
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
