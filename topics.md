@@ -317,6 +317,7 @@
 
 ## awesome 
 
+- [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
 - [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
@@ -937,6 +938,7 @@
 
 ## graphql 
 
+- [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 
 ## hacking 
@@ -1052,6 +1054,7 @@
 
 ## home-assistant 
 
+- [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
 - [studiojw/ice-cream-benelux-ha](https://github.com/studiojw/ice-cream-benelux-ha) - This integration for Home Assistant provides a distance sensor using data from various ice cream companies' public APIs.
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 
@@ -1568,6 +1571,8 @@
 
 ## others 
 
+- [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script build an flake and pushes all its dependencies to attic
+- [kaii-lb/overskride](https://github.com/kaii-lb/overskride) - A simple yet powerful bluetooth client.
 - [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
 - [3rob3/ImmichFrame](https://github.com/3rob3/ImmichFrame) - 
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
@@ -2512,6 +2517,7 @@
 
 ## svelte 
 
+- [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
 
