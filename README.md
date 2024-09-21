@@ -167,7 +167,7 @@
 
 ## C# # 
 
-- [3rob3/ImmichFrame](https://github.com/3rob3/ImmichFrame) - 
+- [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [NotNite/ImSky](https://github.com/NotNite/ImSky) - A Bluesky client made with Dear ImGui
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) - Tunnel TCP connections through a file
@@ -591,6 +591,7 @@
 
 ## Kotlin 
 
+- [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [dovecoteescapee/ByeDPIAndroid](https://github.com/dovecoteescapee/ByeDPIAndroid) - App to bypass censorship on Android
 - [jjewuz/JustNotes](https://github.com/jjewuz/JustNotes) - JustNotes is a simple and functional note-taking application. Beautiful design, user-friendly interface, all the necessary functions - all this in JustNotes!
