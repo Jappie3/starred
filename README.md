@@ -44,6 +44,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [Prolog](#prolog)
 - [Python](#python)
 - [R](#r)
 - [Ruby](#ruby)
@@ -190,6 +191,7 @@
 
 ## C++ 
 
+- [NilsBrause/waylandpp](https://github.com/NilsBrause/waylandpp) - Wayland C++ bindings
 - [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr) - 
@@ -326,6 +328,8 @@
 
 ## Go 
 
+- [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
+- [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
 - [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - A web slideshow for Immich
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
@@ -655,7 +659,6 @@
 
 ## Nim 
 
-- [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [Anuken/animdustry](https://github.com/Anuken/animdustry) - the anime gacha rhythm game
 
 ## Nix 
@@ -875,8 +878,11 @@
 ## Perl 
 
 - [mnalis/ssh-line-mode](https://github.com/mnalis/ssh-line-mode) - Like a telnet line-by-line mode, but for ssh client (for high-latency links)
-- [luyu-wu/Config](https://github.com/luyu-wu/Config) - 
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
+
+## Prolog 
+
+- [luyu-wu/Config](https://github.com/luyu-wu/Config) - 
 
 ## Python 
 
