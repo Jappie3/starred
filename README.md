@@ -36,6 +36,7 @@
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Meson](#meson)
 - [Mustache](#mustache)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -654,6 +655,10 @@
 
 - [NotAShelf/ZenVer](https://github.com/NotAShelf/ZenVer) - A post-modern versioning scheme that does not suck.
 
+## Meson 
+
+- [misyltoad/frog-protocols](https://github.com/misyltoad/frog-protocols) - 
+
 ## Mustache 
 
 - [PoSayDone/.dotfiles_wayland](https://github.com/PoSayDone/.dotfiles_wayland) - dotfiles for archlinux
@@ -779,6 +784,7 @@
 
 ## Others 
 
+- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) - Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [localsend/protocol](https://github.com/localsend/protocol) - The LocalSend REST API
 - [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [iyzhang/misogyny](https://github.com/iyzhang/misogyny) - A tracker for misogyny issues in tech
