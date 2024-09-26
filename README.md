@@ -653,6 +653,7 @@
 
 ## Markdown 
 
+- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) - Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [NotAShelf/ZenVer](https://github.com/NotAShelf/ZenVer) - A post-modern versioning scheme that does not suck.
 
 ## Meson 
@@ -784,7 +785,6 @@
 
 ## Others 
 
-- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) - Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [localsend/protocol](https://github.com/localsend/protocol) - The LocalSend REST API
 - [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [iyzhang/misogyny](https://github.com/iyzhang/misogyny) - A tracker for misogyny issues in tech
@@ -894,6 +894,7 @@
 
 ## Python 
 
+- [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner) - QUIC interop runner
 - [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -1259,8 +1260,9 @@
 
 ## TypeScript 
 
+- [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary dashboard to manage your multiple kubernetes clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
