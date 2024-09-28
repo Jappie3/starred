@@ -401,7 +401,7 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -786,6 +786,7 @@
 
 ## Others 
 
+- [random-wizard/1d20-5e-srd](https://github.com/random-wizard/1d20-5e-srd) - 
 - [localsend/protocol](https://github.com/localsend/protocol) - The LocalSend REST API
 - [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [iyzhang/misogyny](https://github.com/iyzhang/misogyny) - A tracker for misogyny issues in tech
@@ -895,6 +896,7 @@
 
 ## Python 
 
+- [miethe/DnD-Character-Generator](https://github.com/miethe/DnD-Character-Generator) - A character creator/generator for 5e with all source races and classes and names generated via Neural Networks
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD's "Panels" app
 - [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner) - QUIC interop runner
 - [outadoc/immich-home-assistant](https://github.com/outadoc/immich-home-assistant) - Home Assistant component to display random pictures from your Immich library.
