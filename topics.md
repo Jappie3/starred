@@ -965,6 +965,7 @@
 
 ## hacktoberfest 
 
+- [Ladysnake/Requiem](https://github.com/Ladysnake/Requiem) - Revamps Minecraft's vanilla death experience and adds various related mechanics.
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [element-hq/element-x-android](https://github.com/element-hq/element-x-android) - Android Matrix messenger application using the Matrix Rust Sdk and Jetpack Compose
