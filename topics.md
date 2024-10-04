@@ -1590,6 +1590,7 @@
 
 ## others 
 
+- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
 - [sioodmy/homix](https://github.com/sioodmy/homix) - Simplest way to manage your home dir
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [random-wizard/1d20-5e-srd](https://github.com/random-wizard/1d20-5e-srd) - 
