@@ -342,7 +342,7 @@
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
-- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - A web slideshow for Immich
+- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
@@ -471,6 +471,7 @@
 
 ## Haskell 
 
+- [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
@@ -527,6 +528,7 @@
 
 ## JavaScript 
 
+- [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - Cat follow mouse real! A hacky script I wrote to put a cat on my site.
 - [steelbrain/ffmpeg-over-ip](https://github.com/steelbrain/ffmpeg-over-ip) - Connect to remote ffmpeg servers
 - [Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 - [IvarK/AntimatterDimensionsSourceCode](https://github.com/IvarK/AntimatterDimensionsSourceCode) - 
@@ -629,6 +631,7 @@
 
 ## Lua 
 
+- [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme
@@ -1322,7 +1325,6 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-- [SpacingBat3/WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and SpaceBar :electron:-based client implemented without Discord API.
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
