@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [hyprwm/hyprsunset](https://github.com/hyprwm/hyprsunset) - An application to enable a blue-light filter on Hyprland
 - [fetlang/fetlang](https://github.com/fetlang/fetlang) - Fetish-themed programming language
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [NilsBrause/waylandpp](https://github.com/NilsBrause/waylandpp) - Wayland C++ bindings
