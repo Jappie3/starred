@@ -338,6 +338,8 @@
 
 ## Go 
 
+- [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
+- [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
