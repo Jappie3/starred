@@ -414,7 +414,7 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -793,7 +793,7 @@
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [NotAShelf/nvf](https://github.com/NotAShelf/nvf) - A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
-- [raexera/yuki](https://github.com/raexera/yuki) - 雪 - Yuki | Snowflake  :snowflake:
+- [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 
 ## Nunjucks 
@@ -882,7 +882,6 @@
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [github/rest-api-description](https://github.com/github/rest-api-description) - An OpenAPI description for GitHub's REST API
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
 - [samholmes/whiskers](https://github.com/samholmes/whiskers) - Kitty alternative icon
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -1243,6 +1242,7 @@
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 - [mativ123/dot-files](https://github.com/mativ123/dot-files) - 
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+- [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
 - [beyond9thousand/dotfiles](https://github.com/beyond9thousand/dotfiles) - Opinionated BSPWM setup
 - [shalva97/kde-configuration-files](https://github.com/shalva97/kde-configuration-files) - KDE plasma configuration files
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
@@ -1291,6 +1291,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [matrix-org/mjolnir](https://github.com/matrix-org/mjolnir) - A moderation tool for Matrix
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
