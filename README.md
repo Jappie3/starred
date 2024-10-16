@@ -634,12 +634,13 @@
 
 ## Lua 
 
+- [GaetanLepage/cmp-nixpkgs-maintainers](https://github.com/GaetanLepage/cmp-nixpkgs-maintainers) - nvim-cmp source for nixpkgs maintainers GitHub handles
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a "Live Share" server in Neovim, similar to the Visual Studio Code Live Share functionality
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
-- [raexera/yoru](https://github.com/raexera/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in NeoVim ✈️
 - [askfiy/visual_studio_code](https://github.com/askfiy/visual_studio_code) - A `neovim` theme that highly restores `vscode`, so that your friends will no longer be surprised that you use `neovim`, because they will think you are using `vscode` ..
@@ -1025,6 +1026,8 @@
 
 ## Rust 
 
+- [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
+- [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
@@ -1187,6 +1190,7 @@
 
 ## Shell 
 
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [mklan/hyproled](https://github.com/mklan/hyproled) - hyprland shader to prevent OLED burn in
 - [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script build an flake and pushes all its dependencies to attic
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -1291,6 +1295,7 @@
 
 ## TypeScript 
 
+- [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [matrix-org/mjolnir](https://github.com/matrix-org/mjolnir) - A moderation tool for Matrix
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
