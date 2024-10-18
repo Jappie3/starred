@@ -841,6 +841,7 @@
 
 ## gamedev 
 
+- [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [ash-rs/ash](https://github.com/ash-rs/ash) - Vulkan bindings for Rust
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 
@@ -1434,6 +1435,7 @@
 
 ## minecraft 
 
+- [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine made with wgpu, a.k.a another attempt at ripping off Minecraft (with multiplayer networking)
@@ -1604,6 +1606,9 @@
 
 ## others 
 
+- [citizenlab/wechat-security-report](https://github.com/citizenlab/wechat-security-report) - 
+- [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
+- [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
 - [familyfriendlymikey/mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - An mpv plugin for cutting videos incredibly quickly.
 - [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
@@ -2387,6 +2392,8 @@
 
 ## rust 
 
+- [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
+- [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [orhun/dnsleaktest-tui](https://github.com/orhun/dnsleaktest-tui) - A proof-of-concept TUI for testing DNS leaks & running traceroute
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
@@ -2440,7 +2447,7 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [knarkzel/raise](https://github.com/knarkzel/raise) - Run or raise for Hyprland
+- [svelterust/raise](https://github.com/svelterust/raise) - Run or raise for Hyprland
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [fuljo/rofi-vscode-mode](https://github.com/fuljo/rofi-vscode-mode) - A Rofi plugin to open recent VSCode workspaces
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
