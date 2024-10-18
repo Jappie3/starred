@@ -339,6 +339,7 @@
 
 ## Go 
 
+- [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
 - [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
@@ -635,6 +636,7 @@
 
 ## Lua 
 
+- [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
 - [familyfriendlymikey/mpv-cut](https://github.com/familyfriendlymikey/mpv-cut) - An mpv plugin for cutting videos incredibly quickly.
 - [GaetanLepage/cmp-nixpkgs-maintainers](https://github.com/GaetanLepage/cmp-nixpkgs-maintainers) - nvim-cmp source for nixpkgs maintainers GitHub handles
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
@@ -1028,6 +1030,8 @@
 
 ## Rust 
 
+- [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
+- [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [orhun/dnsleaktest-tui](https://github.com/orhun/dnsleaktest-tui) - A proof-of-concept TUI for testing DNS leaks & running traceroute
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
 - [Supreeeme/xwayland-satellite](https://github.com/Supreeeme/xwayland-satellite) - Xwayland outside your Wayland
@@ -1141,7 +1145,7 @@
 - [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
 - [fufexan/gross](https://github.com/fufexan/gross) - Eww JSON generator
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-- [knarkzel/raise](https://github.com/knarkzel/raise) - Run or raise for Hyprland
+- [svelterust/raise](https://github.com/svelterust/raise) - Run or raise for Hyprland
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [n3oney/shadower](https://github.com/n3oney/shadower) - A simple CLI utility to add rounded borders, padding, and shadows to images.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
@@ -1298,6 +1302,7 @@
 
 ## TypeScript 
 
+- [citizenlab/wechat-security-report](https://github.com/citizenlab/wechat-security-report) - 
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [matrix-org/mjolnir](https://github.com/matrix-org/mjolnir) - A moderation tool for Matrix
