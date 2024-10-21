@@ -1200,7 +1200,7 @@
 
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [mklan/hyproled](https://github.com/mklan/hyproled) - hyprland shader to prevent OLED burn in
-- [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script build an flake and pushes all its dependencies to attic
+- [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script builds a flake and pushes all its dependencies to attic
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [numtide/NixOS-Fleet-Update-Provider](https://github.com/numtide/NixOS-Fleet-Update-Provider) - Terraform provider to update a homogeneous NixOS fleet configuration
 - [ag8/isitjoever.com](https://github.com/ag8/isitjoever.com) - 
@@ -1304,6 +1304,7 @@
 
 ## TypeScript 
 
+- [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [citizenlab/wechat-security-report](https://github.com/citizenlab/wechat-security-report) - 
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
