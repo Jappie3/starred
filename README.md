@@ -198,6 +198,7 @@
 
 ## C++ 
 
+- [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [hyprwm/hyprpolkitagent](https://github.com/hyprwm/hyprpolkitagent) - A polkit authentication agent written in QT/QML
 - [hyprwm/hyprsysteminfo](https://github.com/hyprwm/hyprsysteminfo) - A tiny qt6/qml application to display information about the running system
@@ -340,6 +341,7 @@
 
 ## Go 
 
+- [Sohimaster/Firefox-Passwords-Decryptor](https://github.com/Sohimaster/Firefox-Passwords-Decryptor) - Extracts and decrypts passwords saved in Firefox.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
@@ -1201,6 +1203,7 @@
 
 ## Shell 
 
+- [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki) - Safely shareable TLS root CA for .internal networks using Name Constraints
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [mklan/hyproled](https://github.com/mklan/hyproled) - hyprland shader to prevent OLED burn in
 - [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script builds a flake and pushes all its dependencies to attic
