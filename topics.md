@@ -1613,6 +1613,8 @@
 
 ## others 
 
+- [FrogTheFrog/moondeck](https://github.com/FrogTheFrog/moondeck) - A plugin that makes it easier to manage your gamestream sessions from the SteamDeck.
+- [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki) - Safely shareable TLS root CA for .internal networks using Name Constraints
 - [Sohimaster/Firefox-Passwords-Decryptor](https://github.com/Sohimaster/Firefox-Passwords-Decryptor) - Extracts and decrypts passwords saved in Firefox.
 - [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
@@ -2491,6 +2493,7 @@
 
 ## security 
 
+- [NotAShelf/ssa](https://github.com/NotAShelf/ssa) - Simple, streamlined and ✨ pretty ✨  aggregator for systemd-analyze security
 - [Nix-Security-WG/nix-security-tracker](https://github.com/Nix-Security-WG/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
