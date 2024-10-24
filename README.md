@@ -484,6 +484,7 @@
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
@@ -755,7 +756,6 @@
 - [Xe/wallpapers](https://github.com/Xe/wallpapers) - My public wallpapers for consumption by downstream projects
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) - An implementation of the Bottom encoding format in Nix
-- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [camillemndn/zotero-nix](https://github.com/camillemndn/zotero-nix) - Zotero built from source on Nix
 - [MatthewCroughan/nixcfg](https://github.com/MatthewCroughan/nixcfg) - My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -906,6 +906,7 @@
 
 ## PHP 
 
+- [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [lmaucoin/friendship-ended](https://github.com/lmaucoin/friendship-ended) - Friendship ended with X now Y is my best friend generator
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
 - [kiloamp/fliprep](https://github.com/kiloamp/fliprep) - receipt printable nav log
@@ -1035,6 +1036,7 @@
 
 ## Rust 
 
+- [NotAShelf/ssa](https://github.com/NotAShelf/ssa) - Simple, streamlined and ✨ pretty ✨  aggregator for systemd-analyze security
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
@@ -1310,6 +1312,7 @@
 
 ## TypeScript 
 
+- [FrogTheFrog/moondeck](https://github.com/FrogTheFrog/moondeck) - A plugin that makes it easier to manage your gamestream sessions from the SteamDeck.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [citizenlab/wechat-security-report](https://github.com/citizenlab/wechat-security-report) - 
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
