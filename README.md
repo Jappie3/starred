@@ -48,6 +48,7 @@
 - [Perl](#perl)
 - [Prolog](#prolog)
 - [Python](#python)
+- [QML](#qml)
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -533,7 +534,7 @@
 - [maruohon/litematica](https://github.com/maruohon/litematica) - A modern client-side schematic mod for Minecraft
 - [AMereBagatelle/MCG](https://github.com/AMereBagatelle/MCG) - Stores coordinates in an easy-to-access way.
 - [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [InventivetalentDev/FairySoulHelperMod](https://github.com/InventivetalentDev/FairySoulHelperMod) - Mod to help with finding Fairy Souls on Hypixel Skyblock
 
 ## JavaScript 
@@ -698,6 +699,7 @@
 
 ## Nix 
 
+- [Alyuu/dotfiles](https://github.com/Alyuu/dotfiles) - My personal dotfiles with NixOS
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
@@ -1025,6 +1027,10 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 
+## QML 
+
+- [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
+
 ## R 
 
 - [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends) - Friends don't let friends make certain types of data visualization - What are they and why are they bad.
@@ -1036,6 +1042,7 @@
 
 ## Rust 
 
+- [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK
 - [NotAShelf/ssa](https://github.com/NotAShelf/ssa) - Simple, streamlined and ✨ pretty ✨  aggregator for systemd-analyze security
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -1312,6 +1319,7 @@
 
 ## TypeScript 
 
+- [UiO-Gaming/mustaboard](https://github.com/UiO-Gaming/mustaboard) - Infoskjerm for UiO Gaming
 - [FrogTheFrog/moondeck](https://github.com/FrogTheFrog/moondeck) - A plugin that makes it easier to manage your gamestream sessions from the SteamDeck.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [citizenlab/wechat-security-report](https://github.com/citizenlab/wechat-security-report) - 
