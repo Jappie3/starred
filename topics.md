@@ -1457,7 +1457,7 @@
 - [Cubitect/cubiomes-viewer](https://github.com/Cubitect/cubiomes-viewer) - An efficient graphical Minecraft seed finder and map viewer.
 - [KaptainWutax/SeedCracker](https://github.com/KaptainWutax/SeedCracker) - Fast, Automatic In-Game Seed Cracker for Minecraft.
 - [Querz/mcaselector](https://github.com/Querz/mcaselector) - A tool to select chunks from Minecraft worlds for deletion or export.
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 - [MCCTeam/Minecraft-Console-Client](https://github.com/MCCTeam/Minecraft-Console-Client) - Lightweight console for Minecraft chat and automated scripts
 
 ## mobile 
@@ -1598,7 +1598,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dfranx/SHADERed](https://github.com/dfranx/SHADERed) - Lightweight, cross-platform & full-featured shader IDE
-- [CaffeineMC/sodium-fabric](https://github.com/CaffeineMC/sodium-fabric) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
+- [CaffeineMC/sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
 
 ## operating-system 
 
@@ -1613,6 +1613,9 @@
 
 ## others 
 
+- [Alyuu/dotfiles](https://github.com/Alyuu/dotfiles) - My personal dotfiles with NixOS
+- [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
+- [UiO-Gaming/mustaboard](https://github.com/UiO-Gaming/mustaboard) - Infoskjerm for UiO Gaming
 - [FrogTheFrog/moondeck](https://github.com/FrogTheFrog/moondeck) - A plugin that makes it easier to manage your gamestream sessions from the SteamDeck.
 - [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [nh2/internal-contstrained-pki](https://github.com/nh2/internal-contstrained-pki) - Safely shareable TLS root CA for .internal networks using Name Constraints
@@ -2408,6 +2411,7 @@
 
 ## rust 
 
+- [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
