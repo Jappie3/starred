@@ -87,7 +87,8 @@
 
 ## C 
 
-- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player for Linux.
+- [osresearch/neyes](https://github.com/osresearch/neyes) - ASCII art version of xeyes, implemented with ncurses and xterm mouse mode
+- [ravachol/kew](https://github.com/ravachol/kew) - A terminal music player.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [buzzer-re/YoRHa](https://github.com/buzzer-re/YoRHa) - A PlayStation 4 Kernel Debugger [WIP]
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
@@ -1048,6 +1049,7 @@
 
 ## Rust 
 
+- [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
 - [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK
 - [NotAShelf/ssa](https://github.com/NotAShelf/ssa) - Simple, streamlined and ✨ pretty ✨  aggregator for systemd-analyze security
@@ -1083,7 +1085,7 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [NotAShelf/microfetch](https://github.com/NotAShelf/microfetch) - Microscopic fetch tool in Rust, for NixOS systems, with special emphasis on speed
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - A brand-new language server for Typst, plus a VS Code extension
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp) - [Deprecated]  An early language server for Typst, plus a VS Code extension
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [oddlama/idmail](https://github.com/oddlama/idmail) - An email alias and account management interface for self-hosted mailservers
