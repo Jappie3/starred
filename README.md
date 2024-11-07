@@ -702,6 +702,7 @@
 
 ## Nix 
 
+- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [bddvlpr/in-your-nix-store](https://github.com/bddvlpr/in-your-nix-store) - I am inside of your Nix store.
 - [Alyuu/dotfiles](https://github.com/Alyuu/dotfiles) - My personal dotfiles with NixOS
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
@@ -1330,6 +1331,7 @@
 
 ## TypeScript 
 
+- [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [UiO-Gaming/mustaboard](https://github.com/UiO-Gaming/mustaboard) - Infoskjerm for UiO Gaming
@@ -1346,7 +1348,7 @@
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack productivity dev kit helping you integrate spreadsheets, docs and slides into your systems.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
@@ -1404,6 +1406,7 @@
 
 ## Vim Script 
 
+- [mikesmithgh/ugbi](https://github.com/mikesmithgh/ugbi) - UserGettingBored Improved Vim Plugin
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
