@@ -858,7 +858,6 @@
 - [ad-si/awesome-scanning](https://github.com/ad-si/awesome-scanning) - A curated list of awesome projects to simplify and improve paper and document scanning.
 - [quantrancse/rEFInd-minimal-themes](https://github.com/quantrancse/rEFInd-minimal-themes) - Minimalist themes for the rEFInd UEFI boot manager.
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
-- [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [NixOS/moderation](https://github.com/NixOS/moderation) - The home of the moderation team
 - [Gerg-L/nix-rants](https://github.com/Gerg-L/nix-rants) - 
 - [phisch/phinger-cursors](https://github.com/phisch/phinger-cursors) - Most likely the most over engineered cursor theme.
@@ -1037,6 +1036,7 @@
 
 ## QML 
 
+- [nydragon/nysh](https://github.com/nydragon/nysh) - 
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
 
 ## R 
@@ -1051,6 +1051,7 @@
 
 ## Rust 
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - A menu-driven Wi-Fi management interface for Linux
 - [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
