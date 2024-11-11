@@ -1051,6 +1051,7 @@
 
 ## Rust 
 
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - A menu-driven Wi-Fi management interface for Linux
 - [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
@@ -1120,7 +1121,7 @@
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 - [wayland-transpositor/wprs](https://github.com/wayland-transpositor/wprs) - 
-- [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - Find packages that you use that are currently being updated in Nixpkgs.
+- [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - 🔩 Find packages that you use that are currently being updated in Nixpkgs.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -1424,6 +1425,7 @@
 
 ## Vue 
 
+- [geauser/internetcheckpoint](https://github.com/geauser/internetcheckpoint) - An hommage to the internet checkpoint comments section.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
