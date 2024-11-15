@@ -377,6 +377,7 @@
 
 ## bash 
 
+- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -448,6 +449,9 @@
 
 ## cli 
 
+- [doprz/dipc](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
@@ -460,7 +464,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - Find packages that you use that are currently being updated in Nixpkgs.
+- [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - 🔩 Find packages that you use that are currently being updated in Nixpkgs.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
@@ -818,6 +822,7 @@
 
 ## frontend 
 
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - A menu-driven Wi-Fi management interface for Linux
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
@@ -974,6 +979,7 @@
 
 ## hacktoberfest 
 
+- [doprz/dipc](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [matrix-org/mjolnir](https://github.com/matrix-org/mjolnir) - A moderation tool for Matrix
 - [Ladysnake/Requiem](https://github.com/Ladysnake/Requiem) - Revamps Minecraft's vanilla death experience and adds various related mechanics.
@@ -991,7 +997,6 @@
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
@@ -1005,7 +1010,6 @@
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
 - [catppuccin/Kvantum](https://github.com/catppuccin/Kvantum) - 🧚 Soothing pastel theme for Kvantum
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
-- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
 - [Leantime/leantime](https://github.com/Leantime/leantime) - Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
@@ -1118,6 +1122,7 @@
 
 ## image-processing 
 
+- [doprz/dipc](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 
 ## instagram 
@@ -1251,6 +1256,9 @@
 
 ## linux 
 
+- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Nix flake providing AMD microcode updates for unsupported CPUs
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - A menu-driven Wi-Fi management interface for Linux
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -1448,6 +1456,7 @@
 
 ## minecraft 
 
+- [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
 - [williambl/blockblockdevice](https://github.com/williambl/blockblockdevice) - 💾 Create block devices on your computer backed by Redstone Memory
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
 - [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
@@ -1623,6 +1632,15 @@
 
 ## others 
 
+- [streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid.
+- [platomav/CPUMicrocodes](https://github.com/platomav/CPUMicrocodes) - Intel, AMD, VIA & Freescale CPU Microcode Repositories
+- [pilcrowonpaper/copenhagen](https://github.com/pilcrowonpaper/copenhagen) - A basic guideline on implementing auth for the web
+- [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) - ⛅ Check the forecast for today's Nix builds
+- [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
+- [nydragon/nysh](https://github.com/nydragon/nysh) - 
+- [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
+- [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
+- [mikesmithgh/ugbi](https://github.com/mikesmithgh/ugbi) - UserGettingBored Improved Vim Plugin
 - [osresearch/neyes](https://github.com/osresearch/neyes) - ASCII art version of xeyes, implemented with ncurses and xterm mouse mode
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
@@ -1722,7 +1740,7 @@
 - [NotAShelf/bgenix](https://github.com/NotAShelf/bgenix) - The thing that comes after agenix... (Or, optionally, better agenix)
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack productivity dev kit helping you integrate spreadsheets, docs and slides into your systems.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
 - [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
@@ -1829,14 +1847,13 @@
 - [Th3Whit3Wolf/onebuddy](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme
 - [bpc-clone/bypass-paywalls-firefox-clean](https://github.com/bpc-clone/bypass-paywalls-firefox-clean) - 
 - [darenliang/dsfs](https://github.com/darenliang/dsfs) - An experimental Filesystem in USErspace (FUSE) with Discord attachments
-- [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation
 - [NixOS/moderation](https://github.com/NixOS/moderation) - The home of the moderation team
 - [codelif/hyprnotify](https://github.com/codelif/hyprnotify) - DBus Implementation of Freedesktop Notification spec for 'hyprctl notify'
 - [Gerg-L/nix-rants](https://github.com/Gerg-L/nix-rants) - 
 - [shezdy/hyprsplit](https://github.com/shezdy/hyprsplit) - hyprland plugin for separate sets of workspaces on each monitor
 - [ZilchOS/core](https://github.com/ZilchOS/core) - ZilchOS Core, a decidedly tiny Nix-based distro to play with
-- [picosh/pico](https://github.com/picosh/pico) - hacker labs - open source and managed web services leveraging SSH
+- [picosh/pico](https://github.com/picosh/pico) - services that empower developers using ssh
 - [hyprwm/hyprwayland-scanner](https://github.com/hyprwm/hyprwayland-scanner) - A Hyprland implementation of wayland-scanner, in and for C++.
 - [tomkwok/svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer
 - [grahamc/r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
@@ -1951,6 +1968,7 @@
 - [wickedlyhost/LSD](https://github.com/wickedlyhost/LSD) - 
 - [SymmetricDevs/Supersymmetry](https://github.com/SymmetricDevs/Supersymmetry) - Repository for the Supersymmetry Minecraft Modpack
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
+- [teamhanko/hanko](https://github.com/teamhanko/hanko) - Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
 - [Gerg-L/nix-templates](https://github.com/Gerg-L/nix-templates) - Simple nix templates
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
@@ -2026,7 +2044,7 @@
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [TodePond/DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
-- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffoling CLI for Astal+TypeScript
 - [InderdeepBajwa/gitid](https://github.com/InderdeepBajwa/gitid) - Management of multiple Git SSH keys made easy
 - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
@@ -2427,6 +2445,9 @@
 
 ## rust 
 
+- [doprz/dipc](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration Tool
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
@@ -2460,7 +2481,7 @@
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [Peltoche/ical-rs](https://github.com/Peltoche/ical-rs) - Rust parser for ics (rfc5545) and vcard (rfc6350)
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
-- [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - Find packages that you use that are currently being updated in Nixpkgs.
+- [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - 🔩 Find packages that you use that are currently being updated in Nixpkgs.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
@@ -2639,6 +2660,7 @@
 
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
 
@@ -2648,6 +2670,7 @@
 
 ## tailwindcss 
 
+- [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
@@ -2709,6 +2732,7 @@
 
 ## typescript 
 
+- [geauser/internetcheckpoint](https://github.com/geauser/internetcheckpoint) - An hommage to the internet checkpoint comments section.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
