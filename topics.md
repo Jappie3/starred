@@ -1633,6 +1633,8 @@
 
 ## others 
 
+- [sudofox/shell-mommy](https://github.com/sudofox/shell-mommy) - Mommy is here for you on the command line ~ ❤️
+- [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
 - [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [Ninlives/minecraft.nix](https://github.com/Ninlives/minecraft.nix) - Command line Minecraft launcher managed by nix
@@ -2245,6 +2247,7 @@
 
 ## p2p 
 
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -2496,7 +2499,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [oxalica/nocargo](https://github.com/oxalica/nocargo) - [alpha] Build Rust crates with Nix Build System.
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
-- [n0-computer/iroh](https://github.com/n0-computer/iroh) - A toolkit for building distributed applications
+- [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
