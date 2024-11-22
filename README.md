@@ -344,6 +344,7 @@
 
 ## Go 
 
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare TCPoCDN (TCP over CDN)
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [Sohimaster/Firefox-Passwords-Decryptor](https://github.com/Sohimaster/Firefox-Passwords-Decryptor) - Extracts and decrypts passwords saved in Firefox.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -373,7 +374,7 @@
 - [comfysage/coffeetime](https://github.com/comfysage/coffeetime) - tiny cli for creating discord format time strings
 - [NotAShelf/tct](https://github.com/NotAShelf/tct) - Fast and minimal parallel TCP connection testing utility
 - [sweetbbak/hexxy](https://github.com/sweetbbak/hexxy) - a modern and beautiful alternative to xxd and hexdump.
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Sonne tanken ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Solar Charging ☀️🚘
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
