@@ -344,7 +344,7 @@
 
 ## Go 
 
-- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare TCPoCDN (TCP over CDN)
+- [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [Sohimaster/Firefox-Passwords-Decryptor](https://github.com/Sohimaster/Firefox-Passwords-Decryptor) - Extracts and decrypts passwords saved in Firefox.
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -390,7 +390,7 @@
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [benjojo/ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key
-- [abenz1267/walker](https://github.com/abenz1267/walker) - Application launcher similar to Rofi etc. . Wayland native.
+- [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -503,6 +503,7 @@
 
 ## Java 
 
+- [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [williambl/blockblockdevice](https://github.com/williambl/blockblockdevice) - 💾 Create block devices on your computer backed by Redstone Memory
 - [Ladysnake/Requiem](https://github.com/Ladysnake/Requiem) - Revamps Minecraft's vanilla death experience and adds various related mechanics.
 - [TeamPeril/Sculk-Horde](https://github.com/TeamPeril/Sculk-Horde) - Sculk Hoard implements a new end-game era to your game that once activated, will force you to fight against the newly awaked ancient sculk hoard in order to survive. This ancient enemy seeks to infect
@@ -1356,6 +1357,7 @@
 
 ## TypeScript 
 
+- [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [sjdonado/idonthavespotify](https://github.com/sjdonado/idonthavespotify) - Effortlessly convert Spotify links to your preferred streaming service
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
@@ -1432,6 +1434,7 @@
 
 ## Vim Script 
 
+- [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
 - [mikesmithgh/ugbi](https://github.com/mikesmithgh/ugbi) - UserGettingBored Improved Vim Plugin
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
