@@ -1644,6 +1644,11 @@
 
 ## others 
 
+- [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
+- [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
+- [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
+- [hyprwm/hyprgraphics](https://github.com/hyprwm/hyprgraphics) - Hyprland graphics / resource utilities
+- [PrismLauncher/infra](https://github.com/PrismLauncher/infra) - Our unified infrastructure configuration
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
@@ -1764,7 +1769,7 @@
 - [NotAShelf/bgenix](https://github.com/NotAShelf/bgenix) - The thing that comes after agenix... (Or, optionally, better agenix)
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an Isomorphic Full-Stack Framework for Creating and Editing Spreadsheets, Docs, and Slides Across Web and Server
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server.
 - [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
@@ -2345,6 +2350,7 @@
 
 ## python 
 
+- [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) - A from-scratch atproto PDS implementation in Python
 - [miethe/DnD-Character-Generator](https://github.com/miethe/DnD-Character-Generator) - A character creator/generator for 5e with all source races and classes and names generated via Neural Networks
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
@@ -2388,6 +2394,7 @@
 
 ## python3 
 
+- [DavidBuchanan314/millipds](https://github.com/DavidBuchanan314/millipds) - A from-scratch atproto PDS implementation in Python
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [canismarko/dungeon-sheets](https://github.com/canismarko/dungeon-sheets) - A tool to create character sheets and GM session notes for Dungeons and Dragons fifth edition (D&D 5e).
 - [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
