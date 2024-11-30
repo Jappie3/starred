@@ -1113,6 +1113,7 @@
 
 ## html5 
 
+- [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
 
 ## http 
@@ -1176,6 +1177,7 @@
 
 ## javascript 
 
+- [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
@@ -1467,6 +1469,7 @@
 
 ## minecraft 
 
+- [skywardmc/adrenaline](https://github.com/skywardmc/adrenaline) - Leading, lightweight, and unbiased performance modpack with no QoL features
 - [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
 - [williambl/blockblockdevice](https://github.com/williambl/blockblockdevice) - 💾 Create block devices on your computer backed by Redstone Memory
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -1644,6 +1647,13 @@
 
 ## others 
 
+- [PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur) - PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
+- [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) - Share your screen with one simple room code. No downloads or sign-ups required.
+- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
+- [scottdraves/electricsheep](https://github.com/scottdraves/electricsheep) - infinite evolving crowdsourced artwork
+- [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -1655,7 +1665,6 @@
 - [sudofox/shell-mommy](https://github.com/sudofox/shell-mommy) - Mommy is here for you on the command line ~ ❤️
 - [OpenRailAssociation/osrd](https://github.com/OpenRailAssociation/osrd) - An open source web application for railway infrastructure design, capacity analysis, timetabling and simulation
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
-- [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [Ninlives/minecraft.nix](https://github.com/Ninlives/minecraft.nix) - Command line Minecraft launcher managed by nix
 - [nakato/nixos-sbc](https://github.com/nakato/nixos-sbc) - Nix Flake to make managing Single Board Computers easy and repeatable.
 - [piepert/grape-suite](https://github.com/piepert/grape-suite) - Typst template suite for papers, presentation slides, exams, and more!
@@ -2106,7 +2115,7 @@
 - [Tanza3D/reddark](https://github.com/Tanza3D/reddark) - reddark, but it's in realtime
 - [LemmyNet/lemmy-ansible](https://github.com/LemmyNet/lemmy-ansible) - A docker deploy for ansible
 - [lukevella/rallly-selfhosted](https://github.com/lukevella/rallly-selfhosted) - Example docker configuration for running your own instance of Rallly
-- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - AI Girlfriend NSFW chatbot tool in Python - Build your own AI companion in Python using ChatGPT.
+- [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - OSS AI Companion Chatbot - Build your own AI companion in Python using ChatGPT.
 - [matrix-org/matrix-spec-proposals](https://github.com/matrix-org/matrix-spec-proposals) - Proposals for changes to the matrix specification
 - [razar-dev/PowerTube](https://github.com/razar-dev/PowerTube) - PowerTube - Youtube-dl client for Android
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -2601,6 +2610,8 @@
 
 ## self-hosted 
 
+- [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
+- [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
@@ -2627,6 +2638,7 @@
 
 ## server 
 
+- [querylab/lazywarden](https://github.com/querylab/lazywarden) - Automatic Bitwarden Backup
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [girlbossceo/conduwuit](https://github.com/girlbossceo/conduwuit) - a very cool, featureful fork of conduit
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
