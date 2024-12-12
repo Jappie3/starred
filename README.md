@@ -727,6 +727,7 @@
 
 ## Nix 
 
+- [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [crabdancing/nix-flamegraph](https://github.com/crabdancing/nix-flamegraph) - Various primitive scripts cobbled together to produce an easy flamegraph of nix eval
 - [PrismLauncher/infra](https://github.com/PrismLauncher/infra) - Our unified infrastructure configuration
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
@@ -1099,6 +1100,8 @@
 
 ## Rust 
 
+- [pimalaya/neverest](https://github.com/pimalaya/neverest) - CLI to synchronize, backup and restore emails
+- [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [linuxboot/uefisettings](https://github.com/linuxboot/uefisettings) - The tool to read/get/extract and write/change/modify BIOS/UEFI settings from Linux terminal.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [olekolek1000/wayvr-dashboard](https://github.com/olekolek1000/wayvr-dashboard) - 
@@ -1135,7 +1138,7 @@
 - [cafkafk/nix-weather](https://github.com/cafkafk/nix-weather) - Check Cache Availablility of NixOS Configurations
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
-- [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine made with wgpu, a.k.a another attempt at ripping off Minecraft (with multiplayer networking)
+- [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine with multiplayer networking based on wgpu (a.k.a another attempt at ripping off Minecraft)
 - [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
 - [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
