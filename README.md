@@ -17,6 +17,7 @@
 - [Cuda](#cuda)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
 - [FreeMarker](#freemarker)
@@ -88,6 +89,8 @@
 
 ## C 
 
+- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
+- [NLnetLabs/nsd](https://github.com/NLnetLabs/nsd) - The NLnet Labs Name Server Daemon (NSD) is an authoritative, RFC compliant DNS nameserver.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [scottdraves/electricsheep](https://github.com/scottdraves/electricsheep) - infinite evolving crowdsourced artwork
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
@@ -183,6 +186,7 @@
 
 ## C# # 
 
+- [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Fingerprint audio to automatically detect and skip intro/credit sequences in Jellyfin
 - [scrtwpns/mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
 - [immichFrame/ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 - [NotNite/ImSky](https://github.com/NotNite/ImSky) - A Bluesky client made with Dear ImGui
@@ -206,6 +210,8 @@
 
 ## C++ 
 
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC) - Modern VNC Server and client, web based and secure
@@ -335,6 +341,10 @@
 - [iliana/paws](https://github.com/iliana/paws) - a simple pause container 🐾
 - [snw35/ffsync](https://github.com/snw35/ffsync) - Firefox Sync Server Docker Container
 
+## Elixir 
+
+- [lun-4/vrhose](https://github.com/lun-4/vrhose) - bluesky firehose vrchat world backend
+
 ## Emacs Lisp 
 
 - [SwiftyChicken/dotfiles](https://github.com/SwiftyChicken/dotfiles) - My dotfiles
@@ -353,6 +363,7 @@
 
 ## Go 
 
+- [aquasecurity/linux-bench](https://github.com/aquasecurity/linux-bench) - Checks whether a Linux server according to security best practices as defined in the CIS Distribution-Independent Linux Benchmark
 - [vinceanalytics/vince](https://github.com/vinceanalytics/vince) - Self Hosted Alternative To Google Analytics
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
@@ -514,6 +525,8 @@
 
 ## Java 
 
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
+- [AlexModGuy/Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [williambl/blockblockdevice](https://github.com/williambl/blockblockdevice) - 💾 Create block devices on your computer backed by Redstone Memory
 - [Ladysnake/Requiem](https://github.com/Ladysnake/Requiem) - Revamps Minecraft's vanilla death experience and adds various related mechanics.
@@ -559,6 +572,7 @@
 
 ## JavaScript 
 
+- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - Cat follow mouse real! A hacky script I wrote to put a cat on my site.
@@ -603,7 +617,6 @@
 - [MattIPv4/DNS-over-Discord](https://github.com/MattIPv4/DNS-over-Discord) - 1.1.1.1 works from a Discord server, thanks to the 1.1.1.1 bot. Invite the bot to your Discord server to start using DNS over Discord.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
-- [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -632,6 +645,7 @@
 
 ## Jupyter Notebook 
 
+- [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library) - A set of symbol Libararies and a set of footprints and 3d models of the basic components from JLCPCB smt assembly
 - [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 
 ## Just 
@@ -667,6 +681,8 @@
 
 ## Lua 
 
+- [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
+- [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for fast navigation around the abstract syntax tree
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
@@ -727,6 +743,8 @@
 
 ## Nix 
 
+- [nix-community/dns.nix](https://github.com/nix-community/dns.nix) - A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
+- [feel-co/hjem](https://github.com/feel-co/hjem) - A streamlined way to manage your $HOME for NixOS systems.
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [crabdancing/nix-flamegraph](https://github.com/crabdancing/nix-flamegraph) - Various primitive scripts cobbled together to produce an easy flamegraph of nix eval
 - [PrismLauncher/infra](https://github.com/PrismLauncher/infra) - Our unified infrastructure configuration
@@ -828,7 +846,7 @@
 - [fufexan/nix-gaming](https://github.com/fufexan/nix-gaming) - Gaming on Nix
 - [hercules-ci/flake-parts](https://github.com/hercules-ci/flake-parts) - ❄️ Simplify Nix Flakes with the module system
 - [schizofox/schizofox](https://github.com/schizofox/schizofox) - Hardened Firefox flake for the delusional and the schizophrenics.
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - NixOS configuration flake, with nixpkgs as the only input
+- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [NorfairKing/nix-does-not-guarantee-reproducibility](https://github.com/NorfairKing/nix-does-not-guarantee-reproducibility) - 
 - [NotAShelf/nyx](https://github.com/NotAShelf/nyx) - My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS.
@@ -857,6 +875,7 @@
 
 ## Others 
 
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook) - About the book "Writing for Developers: Blogs That Get Read," which is all about writing more compelling engineering blog posts. Available on Amazon as well as Manning.  By Piotr Sarna & Cynthia Dunlo
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [lexicon-community/awesome-lexicons](https://github.com/lexicon-community/awesome-lexicons) - A collection of awesome lexicons
@@ -877,7 +896,7 @@
 - [VPNSox/NSABlocklist](https://github.com/VPNSox/NSABlocklist) - HOSTS file to block all known NSA / GCHQ / C.I.A. / F.B.I. spying servers
 - [ebastler/zmk-designguide](https://github.com/ebastler/zmk-designguide) - A short hardware-designguide for ZMK keyboards
 - [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
-- [jazzyisj/unavailable-entities-sensor](https://github.com/jazzyisj/unavailable-entities-sensor) - Unavailable entities template sensor for Home Assistant.
+- [jazzyisj/unavailable-entities-sensor](https://github.com/jazzyisj/unavailable-entities-sensor) - Monitor unknown and unavailable entities in your Home Assistant configuration.
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
@@ -976,6 +995,8 @@
 
 ## Python 
 
+- [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [allenporter/home-assistant-openid-auth-provider](https://github.com/allenporter/home-assistant-openid-auth-provider) - A Home Assistant Authentication Provider that can use Open ID
 - [PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur) - PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
 - [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230
@@ -1100,12 +1121,17 @@
 
 ## Rust 
 
+- [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - 170,000 player capable Minecraft game engine built in Rust.
+- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
+- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music streaming client for the terminal.
+- [JoshuaVandaele/wantyougone](https://github.com/JoshuaVandaele/wantyougone) - Recreation of the "Want You Gone" end credits from Portal 2. An excuse to exercise TUI creation.
+- [jameslzhu/roflcat](https://github.com/jameslzhu/roflcat) - A faster lolcat.
 - [pimalaya/neverest](https://github.com/pimalaya/neverest) - CLI to synchronize, backup and restore emails
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [linuxboot/uefisettings](https://github.com/linuxboot/uefisettings) - The tool to read/get/extract and write/change/modify BIOS/UEFI settings from Linux terminal.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [olekolek1000/wayvr-dashboard](https://github.com/olekolek1000/wayvr-dashboard) - 
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible VCS that is both simple and powerful
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
@@ -1117,7 +1143,7 @@
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Menu-driven Wi-Fi management interface for Linux
 - [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
-- [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK
+- [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK.
 - [NotAShelf/ssa](https://github.com/NotAShelf/ssa) - Simple, streamlined and ✨ pretty ✨  aggregator for systemd-analyze security
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -1158,7 +1184,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [YaLTeR/wl-clipboard-rs](https://github.com/YaLTeR/wl-clipboard-rs) - A safe Rust crate for working with the Wayland clipboard.
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success.
+- [BurntSushi/jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
 - [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
 - [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust
@@ -1279,7 +1305,7 @@
 
 ## Sass 
 
-- [flick0/dotfiles](https://github.com/flick0/dotfiles) - dotfiles go brrr
+- [flickowoa/dotfiles](https://github.com/flickowoa/dotfiles) - dotfiles go brrr
 
 ## Scala 
 
@@ -1287,6 +1313,7 @@
 
 ## Shell 
 
+- [ziodotsh/atfile](https://github.com/ziodotsh/atfile) - 📦➔🦋 Store and retrieve files on the ATmosphere
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [sudofox/shell-mommy](https://github.com/sudofox/shell-mommy) - Mommy is here for you on the command line ~ ❤️
 - [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
@@ -1398,6 +1425,7 @@
 
 ## TypeScript 
 
+- [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
 - [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) - Share your screen with one simple room code. No downloads or sign-ups required.
 - [udevbe/greenfield](https://github.com/udevbe/greenfield) - HTML5 Wayland compositor  :seedling:
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
@@ -1449,6 +1477,7 @@
 - [francisrstokes/githublog](https://github.com/francisrstokes/githublog) - I'm sick of complex blogging solutions, so markdown files in a git repo it is
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [ashwin-pc/hiccup](https://github.com/ashwin-pc/hiccup) - A static start page to get to your most important links, FAST.
+- [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [MSzturc/obsidian-advanced-slides](https://github.com/MSzturc/obsidian-advanced-slides) - Create markdown-based reveal.js presentations in Obsidian
@@ -1494,6 +1523,7 @@
 
 ## Vue 
 
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [geauser/internetcheckpoint](https://github.com/geauser/internetcheckpoint) - An hommage to the internet checkpoint comments section.
 - [SelfhostedPro/Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
