@@ -534,6 +534,7 @@
 
 ## Java 
 
+- [senseiwells/ChunkDebug](https://github.com/senseiwells/ChunkDebug) - ChunkDebug is a useful tool for debugging chunk loading. It provides you with a live display of all the loaded chunks in any given dimension.
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
@@ -762,7 +763,7 @@
 - [Jaculabilis/nixpkgs-gold](https://github.com/Jaculabilis/nixpkgs-gold) - For your premium derivations
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [nix-community/dns.nix](https://github.com/nix-community/dns.nix) - A Nix DSL for DNS zone files [maintainers=@raitobezarius @kirelagin @Tom-Hubrecht]
-- [feel-co/hjem](https://github.com/feel-co/hjem) - A streamlined way to manage your $HOME for NixOS systems.
+- [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [lilyinstarlight/zmk-nix](https://github.com/lilyinstarlight/zmk-nix) - Build system and configuration files for generating and building ZMK firmware with Nix
 - [crabdancing/nix-flamegraph](https://github.com/crabdancing/nix-flamegraph) - Various primitive scripts cobbled together to produce an easy flamegraph of nix eval
 - [PrismLauncher/infra](https://github.com/PrismLauncher/infra) - Our unified infrastructure configuration
@@ -1144,6 +1145,8 @@
 
 ## Rust 
 
+- [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
+- [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
 - [thkoch2001/lara](https://github.com/thkoch2001/lara) - decentralized web search engine, web archive and feed reader
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
@@ -1181,7 +1184,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [kaii-lb/overskride](https://github.com/kaii-lb/overskride) - A simple yet powerful bluetooth client.
-- [Snowiiii/Pumpkin](https://github.com/Snowiiii/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+- [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
 - [CrzPhil/SSHniff](https://github.com/CrzPhil/SSHniff) - An SSH metadata analyser used to showcase a timing-based attack on the protocol.
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
