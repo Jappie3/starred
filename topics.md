@@ -1196,6 +1196,7 @@
 
 ## java 
 
+- [sisby-folk/inventory-tabs](https://github.com/sisby-folk/inventory-tabs) - A minecraft mod that allows swapping to other in-world screens (blocks, entities, etc) via tabs. A fourth-generation rewrite of CakeWhip's InventoryTabs.
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
@@ -1519,6 +1520,8 @@
 
 ## minecraft 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+- [sisby-folk/inventory-tabs](https://github.com/sisby-folk/inventory-tabs) - A minecraft mod that allows swapping to other in-world screens (blocks, entities, etc) via tabs. A fourth-generation rewrite of CakeWhip's InventoryTabs.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [senseiwells/ChunkDebug](https://github.com/senseiwells/ChunkDebug) - ChunkDebug is a useful tool for debugging chunk loading. It provides you with a live display of all the loaded chunks in any given dimension.
@@ -1709,6 +1712,8 @@
 
 ## others 
 
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+- [caseykneale/VIMKiller](https://github.com/caseykneale/VIMKiller) - Exiting VIM is hard; sometimes we need to take drastic measures
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [jorikvanveen/nix-config](https://github.com/jorikvanveen/nix-config) - My dotfiles / nix config
 - [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - Browse and manage atproto repositories
@@ -2599,6 +2604,7 @@
 
 ## rust 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - 170,000 player capable Minecraft game engine built in Rust.
 - [JoshuaVandaele/wantyougone](https://github.com/JoshuaVandaele/wantyougone) - Recreation of the "Want You Gone" end credits from Portal 2. An excuse to exercise TUI creation.
@@ -2946,6 +2952,7 @@
 
 ## vim 
 
+- [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
