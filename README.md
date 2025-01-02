@@ -370,6 +370,7 @@
 
 ## Go 
 
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [coder/wush](https://github.com/coder/wush) - simplest & fastest way to transfer files between computers via WireGuard
 - [NotAShelf/flint](https://github.com/NotAShelf/flint) - Stupid simple utility for linting your flake inputs
 - [aquasecurity/linux-bench](https://github.com/aquasecurity/linux-bench) - Checks whether a Linux server according to security best practices as defined in the CIS Distribution-Independent Linux Benchmark
@@ -534,6 +535,7 @@
 
 ## Java 
 
+- [sisby-folk/inventory-tabs](https://github.com/sisby-folk/inventory-tabs) - A minecraft mod that allows swapping to other in-world screens (blocks, entities, etc) via tabs. A fourth-generation rewrite of CakeWhip's InventoryTabs.
 - [senseiwells/ChunkDebug](https://github.com/senseiwells/ChunkDebug) - ChunkDebug is a useful tool for debugging chunk loading. It provides you with a live display of all the loaded chunks in any given dimension.
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
@@ -654,6 +656,7 @@
 
 ## Julia 
 
+- [caseykneale/VIMKiller](https://github.com/caseykneale/VIMKiller) - Exiting VIM is hard; sometimes we need to take drastic measures
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux) - A package for creating slides in Typst
 
 ## Jupyter Notebook 
@@ -893,6 +896,7 @@
 
 ## Others 
 
+- [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [oskar456/cds-updates](https://github.com/oskar456/cds-updates) - Info about CDS update support
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook) - About the book "Writing for Developers: Blogs That Get Read," which is all about writing more compelling engineering blog posts. Available on Amazon as well as Manning.  By Piotr Sarna & Cynthia Dunlo
@@ -1145,6 +1149,7 @@
 
 ## Rust 
 
+- [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [modrinth/code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 - [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops
