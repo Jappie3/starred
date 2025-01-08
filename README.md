@@ -91,6 +91,7 @@
 
 ## C 
 
+- [epsilonrt/mbpoll](https://github.com/epsilonrt/mbpoll) - command line utility to communicate with ModBus slave (RTU or TCP)
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - Tree Sitter grammar for Typst
 - [frozolotl/muchpdf](https://github.com/frozolotl/muchpdf) - Include PDF images in your Typst document
 - [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
@@ -387,7 +388,7 @@
 - [UnnoTed/wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
 - [pojntfx/multiplex](https://github.com/pojntfx/multiplex) - Watch torrents with your friends.
 - [FiloSottile/captive-browser](https://github.com/FiloSottile/captive-browser) - A dedicated Chrome instance to log into captive portals without messing with DNS settings.
-- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [applejag/kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
@@ -540,6 +541,7 @@
 
 ## Java 
 
+- [StackDoubleFlow/MCWaylandFix](https://github.com/StackDoubleFlow/MCWaylandFix) - Run Minecraft natively using Wayland
 - [sisby-folk/inventory-tabs](https://github.com/sisby-folk/inventory-tabs) - A minecraft mod that allows swapping to other in-world screens (blocks, entities, etc) via tabs. A fourth-generation rewrite of CakeWhip's InventoryTabs.
 - [senseiwells/ChunkDebug](https://github.com/senseiwells/ChunkDebug) - ChunkDebug is a useful tool for debugging chunk loading. It provides you with a live display of all the loaded chunks in any given dimension.
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
@@ -703,6 +705,7 @@
 
 ## Lua 
 
+- [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [Nxllpointer/tide](https://github.com/Nxllpointer/tide) - The Batteries-Included Typst Notetaking IDE
 - [po5/memo](https://github.com/po5/memo) - A recent files menu for mpv
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
@@ -1026,6 +1029,7 @@
 
 ## Python 
 
+- [carlini/regex-chess](https://github.com/carlini/regex-chess) - A 2-ply mini-max search chess engine in 84,688 regular expressions.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -1468,6 +1472,7 @@
 
 ## TypeScript 
 
+- [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
 - [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - Browse and manage atproto repositories
