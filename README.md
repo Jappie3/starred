@@ -705,6 +705,7 @@
 
 ## Lua 
 
+- [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [okuuva/auto-save.nvim](https://github.com/okuuva/auto-save.nvim) - 🧶 Automatically save your changes in NeoVim
 - [Nxllpointer/tide](https://github.com/Nxllpointer/tide) - The Batteries-Included Typst Notetaking IDE
 - [po5/memo](https://github.com/po5/memo) - A recent files menu for mpv
@@ -1162,6 +1163,7 @@
 
 ## Rust 
 
+- [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
