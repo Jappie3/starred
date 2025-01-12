@@ -1607,6 +1607,7 @@
 
 ## neovim 
 
+- [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [Nxllpointer/tide](https://github.com/Nxllpointer/tide) - The Batteries-Included Typst Notetaking IDE
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
@@ -1730,6 +1731,9 @@
 
 ## others 
 
+- [TwoSpikes/ani-cli.nvim](https://github.com/TwoSpikes/ani-cli.nvim) - Watch anime directly in Vim/NeoVim
+- [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
+- [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [StackDoubleFlow/MCWaylandFix](https://github.com/StackDoubleFlow/MCWaylandFix) - Run Minecraft natively using Wayland
 - [epsilonrt/mbpoll](https://github.com/epsilonrt/mbpoll) - command line utility to communicate with ModBus slave (RTU or TCP)
 - [carlini/regex-chess](https://github.com/carlini/regex-chess) - A 2-ply mini-max search chess engine in 84,688 regular expressions.
