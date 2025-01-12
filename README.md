@@ -199,7 +199,6 @@
 - [NotNite/ImSky](https://github.com/NotNite/ImSky) - A Bluesky client made with Dear ImGui
 - [Revolutionary-Games/Thrive](https://github.com/Revolutionary-Games/Thrive) - The main repository for the development of the evolution game Thrive.
 - [fiddyschmitt/File-Tunnel](https://github.com/fiddyschmitt/File-Tunnel) - Tunnel TCP connections through a file
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays (REST API), NuGet or docker container :earth_americas:
@@ -1030,6 +1029,7 @@
 
 ## Python 
 
+- [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
 - [carlini/regex-chess](https://github.com/carlini/regex-chess) - A 2-ply mini-max search chess engine in 84,688 regular expressions.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
@@ -1515,6 +1515,7 @@
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 - [inoric/vscode-fibonacci-indent](https://github.com/inoric/vscode-fibonacci-indent) - A Visual Studio Code plugin that helps you indent code according to the Fibonacci sequence.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
@@ -1565,6 +1566,7 @@
 
 ## Vim Script 
 
+- [TwoSpikes/ani-cli.nvim](https://github.com/TwoSpikes/ani-cli.nvim) - Watch anime directly in Vim/NeoVim
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
 - [mikesmithgh/ugbi](https://github.com/mikesmithgh/ugbi) - UserGettingBored Improved Vim Plugin
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
