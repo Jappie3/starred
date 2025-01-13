@@ -266,7 +266,7 @@
 - [hyprwm/hyprland-welcome](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app, written in qt.
 - [Vagahbond/hyprspace](https://github.com/Vagahbond/hyprspace) - Woooooooooaaaa hyprland in spaaaaace
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
-- [micha4w/Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) - Hyprland plugin to invert Colors of specific windows!
+- [micha4w/Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) - Hyprland Plugin to invert Colors of specific Windows!
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -592,6 +592,7 @@
 
 ## JavaScript 
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
@@ -668,7 +669,7 @@
 
 ## Jupyter Notebook 
 
-- [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library) - A set of symbol Libararies and a set of footprints and 3d models of the basic components from JLCPCB smt assembly
+- [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library) - A set of symbols, footprints and 3d models of the basic components from JLCPCB's smt assembly
 - [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 
 ## Just 
