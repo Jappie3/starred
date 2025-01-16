@@ -72,7 +72,6 @@
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [Zig](#zig)
-- [templ](#templ)
 
 ## Assembly 
 
@@ -392,6 +391,7 @@
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
+- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
@@ -735,7 +735,7 @@
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
-- [Allaman/nvim](https://github.com/Allaman/nvim) - Straightforward and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, and, of course, YAML
+- [Allaman/nvim](https://github.com/Allaman/nvim) - Minimal, blazingly fast, and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, and, of course, YAML
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [lite-xl/lite-xl](https://github.com/lite-xl/lite-xl) - A lightweight text editor written in Lua
 - [PROxZIMA/.dotfiles](https://github.com/PROxZIMA/.dotfiles) - FBI, Open up ~/
@@ -1164,6 +1164,8 @@
 
 ## Rust 
 
+- [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
+- [Gerg-L/linker](https://github.com/Gerg-L/linker) - for hjem
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [grigio/obs-cmd](https://github.com/grigio/obs-cmd) - obs-cmd is a OBS cli for obs-websocket v5 the current obs-studio implementation. It is useful on Wayland Linux or to control OBS via terminal
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -1475,6 +1477,7 @@
 
 ## TypeScript 
 
+- [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
@@ -1597,10 +1600,6 @@
 - [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
-
-## templ 
-
-- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.
 
 
 ## License
