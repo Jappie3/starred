@@ -90,6 +90,7 @@
 
 ## C 
 
+- [any1/wlvncc](https://github.com/any1/wlvncc) - A Wayland Native VNC Client
 - [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
 - [epsilonrt/mbpoll](https://github.com/epsilonrt/mbpoll) - command line utility to communicate with ModBus slave (RTU or TCP)
 - [uben0/tree-sitter-typst](https://github.com/uben0/tree-sitter-typst) - Tree Sitter grammar for Typst
@@ -776,6 +777,7 @@
 
 ## Nix 
 
+- [samueldr/nix-build-action](https://github.com/samueldr/nix-build-action) - All-inclusive single action to *just* nix-build your project.
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [jorikvanveen/nix-config](https://github.com/jorikvanveen/nix-config) - My dotfiles / nix config
@@ -1173,6 +1175,8 @@
 
 ## Rust 
 
+- [sammwyy/mindns](https://github.com/sammwyy/mindns) - Minimal DNS server built in Rust with rule system and logging.
+- [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
@@ -1380,6 +1384,7 @@
 
 ## Shell 
 
+- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
 - [ziodotsh/atfile](https://github.com/ziodotsh/atfile) - 📦➔🦋 Store and retrieve files on the ATmosphere
 - [bluesky-social/pds](https://github.com/bluesky-social/pds) - Bluesky PDS (Personal Data Server) container image, compose file, and documentation
 - [sudofox/shell-mommy](https://github.com/sudofox/shell-mommy) - Mommy is here for you on the command line ~ ❤️
