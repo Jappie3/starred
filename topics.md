@@ -1745,6 +1745,11 @@
 
 ## others 
 
+- [any1/wlvncc](https://github.com/any1/wlvncc) - A Wayland Native VNC Client
+- [sammwyy/mindns](https://github.com/sammwyy/mindns) - Minimal DNS server built in Rust with rule system and logging.
+- [samueldr/nix-build-action](https://github.com/samueldr/nix-build-action) - All-inclusive single action to *just* nix-build your project.
+- [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
+- [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [dellamora/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub](https://github.com/dellamora/webscraper-to-identify-which-girls-and-how-many-of-them-my-boyfriend-follows-on-GitHub) - 
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
