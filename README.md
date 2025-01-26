@@ -673,7 +673,6 @@
 ## Julia 
 
 - [caseykneale/VIMKiller](https://github.com/caseykneale/VIMKiller) - Exiting VIM is hard; sometimes we need to take drastic measures
-- [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
 
 ## Jupyter Notebook 
 
@@ -723,7 +722,7 @@
 - [po5/memo](https://github.com/po5/memo) - A recent files menu for mpv
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - ☄️ Highly customisable markdown(latex & inline html) previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
@@ -1181,6 +1180,7 @@
 
 ## Rust 
 
+- [bschwind/key-ripper](https://github.com/bschwind/key-ripper) - A keyboard personalized for myself, designed in KiCad, with custom firmware and a case, both written in Rust. Can sit on top of a macbook keyboard.
 - [sammwyy/mindns](https://github.com/sammwyy/mindns) - Minimal DNS server built in Rust with rule system and logging.
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.
@@ -1584,10 +1584,12 @@
 
 ## Typst 
 
+- [ryuryu-ymj/mannot](https://github.com/ryuryu-ymj/mannot) - A package for marking and annotating in math blocks in Typst.
 - [touying-typ/touying](https://github.com/touying-typ/touying) - Touying is a powerful package for creating presentation slides in Typst.
 - [piepert/grape-suite](https://github.com/piepert/grape-suite) - Typst template suite for papers, presentation slides, exams, and more!
 - [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
 - [joshuabeny1999/unisg-thesis-template-typst](https://github.com/joshuabeny1999/unisg-thesis-template-typst) - 
+- [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
 - [danjl1100/typst-dnd-5e](https://github.com/danjl1100/typst-dnd-5e) - 
 - [drupol/master-thesis](https://github.com/drupol/master-thesis) - Pol Dellaiera's Master Thesis - Reproducibility In Software Engineering
 
