@@ -92,6 +92,7 @@
 
 ## C 
 
+- [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [rspamd/rspamd](https://github.com/rspamd/rspamd) - Rapid spam filtering system.
@@ -390,6 +391,7 @@
 
 ## Go 
 
+- [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
 - [NotAShelf/catApi](https://github.com/NotAShelf/catApi) - A scuffed website to display random pictures of random cats of people who contribute to it. No NFTs... yet.
 - [simulot/immich-go](https://github.com/simulot/immich-go) - An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -695,7 +697,6 @@
 
 ## Jupyter Notebook 
 
-- [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library) - A set of symbols, footprints and 3d models of the basic components from JLCPCB's smt assembly
 - [ionworks/how-to-debug-your-battery](https://github.com/ionworks/how-to-debug-your-battery) - A guide on how to understand the performance of your battery with modelling and improve it
 
 ## Just 
@@ -951,6 +952,7 @@
 
 ## Others 
 
+- [NotAShelf/shitlist](https://github.com/NotAShelf/shitlist) - A list, of things that I find to be shit. You could call it... a shitlist
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [notjuliet/awesome-bluesky](https://github.com/notjuliet/awesome-bluesky) - A list of tools and clients available for the Bluesky platform
@@ -1095,6 +1097,7 @@
 - [redacted/XKCD-password-generator](https://github.com/redacted/XKCD-password-generator) - Generate secure multiword passwords/passphrases, inspired by XKCD
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [corna/me_cleaner](https://github.com/corna/me_cleaner) - Tool for partial deblobbing of Intel ME/TXE firmware images
+- [CDFER/JLCPCB-Kicad-Library](https://github.com/CDFER/JLCPCB-Kicad-Library) - A set of symbols, footprints and 3d models of the basic components from JLCPCB's smt assembly
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [allenporter/home-assistant-openid-auth-provider](https://github.com/allenporter/home-assistant-openid-auth-provider) - A Home Assistant Authentication Provider that can use Open ID
 - [PyPSA/pypsa-eur](https://github.com/PyPSA/pypsa-eur) - PyPSA-Eur: A Sector-Coupled Open Optimisation Model of the European Energy System
@@ -1222,6 +1225,8 @@
 
 ## Rust 
 
+- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
+- [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [skullim/async-arp](https://github.com/skullim/async-arp) - Rust-based async ARP client library for probing hosts and sending advanced ARP requests.
@@ -1378,7 +1383,7 @@
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
@@ -1604,7 +1609,7 @@
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
-- [mayneyao/eidos](https://github.com/mayneyao/eidos) - Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.
+- [mayneyao/eidos](https://github.com/mayneyao/eidos) - An extensible framework for Personal Data Management.
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
