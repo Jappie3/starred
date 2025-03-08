@@ -36,6 +36,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Just](#just)
+- [KakouneScript](#kakounescript)
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -235,6 +236,7 @@
 
 ## C++ 
 
+- [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
 - [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 1.566% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
@@ -720,6 +722,10 @@
 - [catppuccin/Kvantum](https://github.com/catppuccin/Kvantum) - 🧚 Soothing pastel theme for Kvantum
 - [catppuccin/kitty](https://github.com/catppuccin/kitty) - 😽 Soothing pastel theme for Kitty
 
+## KakouneScript 
+
+- [PersonForSure/petrichor](https://github.com/PersonForSure/petrichor) - A colorscheme inspired by the colors of rainy days
+
 ## KiCad Layout 
 
 - [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
@@ -754,6 +760,7 @@
 
 ## Lua 
 
+- [NotAShelf/syntax-gaslighting.nvim](https://github.com/NotAShelf/syntax-gaslighting.nvim) - Gaslighting is not even a real word, you're crazy.
 - [ProHaller/night-owl.nvim](https://github.com/ProHaller/night-owl.nvim) - 🦉 🌌 Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
 - [ian-howell/ripple.nvim](https://github.com/ian-howell/ripple.nvim) - Intuitive window resizing
 - [Skardyy/neo-img](https://github.com/Skardyy/neo-img) - cross platform image viewer for neovim
@@ -822,6 +829,8 @@
 
 ## Nix 
 
+- [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
+- [numinit/MeshOS](https://github.com/numinit/MeshOS) - Fetch derivations from your friends.
 - [donovanglover/mobile-config](https://github.com/donovanglover/mobile-config) - My NixOS configuration for running Mobile NixOS on a PinePhone.
 - [cloud-gouv/securix](https://github.com/cloud-gouv/securix) - Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configu
 - [catppuccin/nix](https://github.com/catppuccin/nix) - ❄️ Soothing pastel theme for Nix
@@ -1214,7 +1223,7 @@
 - [dexpota/kitty-themes](https://github.com/dexpota/kitty-themes) - A collection of themes for kitty terminal 😻
 - [trigg/Discover](https://github.com/trigg/Discover) - Yet another discord overlay for linux
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 - [milesmcc/librenews](https://github.com/milesmcc/librenews) - A free and open breaking news notification platform
 - [whitesmith/hawkpost](https://github.com/whitesmith/hawkpost) - Generate links that users can use to submit messages encrypted with your public key.
