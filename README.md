@@ -98,6 +98,8 @@
 
 ## C 
 
+- [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
+- [diniamo/wayhibitor](https://github.com/diniamo/wayhibitor) - Manual Wayland idle inhibitor written in C
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
@@ -401,6 +403,8 @@
 
 ## Go 
 
+- [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
+- [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
 - [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
@@ -532,7 +536,6 @@
 ## HTML 
 
 - [NixOS/reproducible.nixos.org](https://github.com/NixOS/reproducible.nixos.org) - 
-- [snugnug/snugnug](https://github.com/snugnug/snugnug) - domain
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [mobile-nixos/mobile-nixos.github.io](https://github.com/mobile-nixos/mobile-nixos.github.io) - (glue to redirect to the appropriate location...)
 - [Kirilllive/tuesday-js](https://github.com/Kirilllive/tuesday-js) - simple web-based, free and open-source visual novel editor that can be used in a web browser. It is written in JavaScript without using any third party libraries and thus does not require additional s
@@ -893,7 +896,7 @@
 - [NotAShelf/diskix](https://github.com/NotAShelf/diskix) - Declarative disk management for NixOS systems
 - [K900/vscode-remote-workaround](https://github.com/K900/vscode-remote-workaround) - VSCode remote development workaround for NixOS(-WSL)
 - [gytis-ivaskevicius/high-quality-nix-content](https://github.com/gytis-ivaskevicius/high-quality-nix-content) - GitHub repository containing highest quality Nix/NixOS content
-- [jacekpoz/nte](https://github.com/jacekpoz/nte) - 
+- [imnotpoz/nte](https://github.com/imnotpoz/nte) - 
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [Infinidoge/nix-minecraft](https://github.com/Infinidoge/nix-minecraft) - An attempt to better support Minecraft-related content for the Nix ecosystem
 - [oddlama/agenix-rekey](https://github.com/oddlama/agenix-rekey) - An agenix extension adding secret generation and automatic rekeying using a YubiKey or master-identity
@@ -981,6 +984,7 @@
 
 - [NotAShelf/shitlist](https://github.com/NotAShelf/shitlist) - A list, of things that I find to be shit. You could call it... a shitlist
 - [yaelwrites/Big-Ass-Data-Broker-Opt-Out-List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) - 
+- [snugnug/snugnug](https://github.com/snugnug/snugnug) - Website source for snugroup.org domain
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [notjuliet/awesome-bluesky](https://github.com/notjuliet/awesome-bluesky) - A list of tools and clients available for the Bluesky platform
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
@@ -1254,6 +1258,7 @@
 
 ## Rust 
 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈
 - [13unk0wn/Feather](https://github.com/13unk0wn/Feather) - Feather is a lightweight, efficient YouTube Music TUI built with Rust. It provides a minimalistic, ad-free music streaming experience directly from YouTube using yt-dlp and mpv, with a focus on low me
 - [Levizor/tray-tui](https://github.com/Levizor/tray-tui) - System tray in your terminal
