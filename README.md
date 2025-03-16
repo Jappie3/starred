@@ -98,6 +98,8 @@
 
 ## C 
 
+- [ArcaneNibble/i-cant-believe-its-not-webusb](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb) - Hacking around lack of WebUSB support in Firefox
+- [randomtwdude/fumosay](https://github.com/randomtwdude/fumosay) - cowsay with fumos
 - [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
 - [diniamo/wayhibitor](https://github.com/diniamo/wayhibitor) - Manual Wayland idle inhibitor written in C
 - [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager.
@@ -399,10 +401,14 @@
 
 ## GDScript 
 
+- [m4ym4y/museum-of-all-things](https://github.com/m4ym4y/museum-of-all-things) - a nearly infinite 3d museum, dynamically generated from wikipedia
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 
 ## Go 
 
+- [patrickvane/shfmt](https://github.com/patrickvane/shfmt) - A shell formatter (sh/bash/mksh)
+- [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
@@ -452,7 +458,8 @@
 - [comfysage/coffeetime](https://github.com/comfysage/coffeetime) - tiny cli for creating discord format time strings
 - [NotAShelf/tct](https://github.com/NotAShelf/tct) - Fast and minimal parallel TCP connection testing utility
 - [sweetbbak/hexxy](https://github.com/sweetbbak/hexxy) - a modern and beautiful alternative to xxd and hexdump.
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - Solar Charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
+- [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [hyprspace/hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks (fork)
@@ -593,7 +600,7 @@
 - [senseiwells/ChunkDebug](https://github.com/senseiwells/ChunkDebug) - ChunkDebug is a useful tool for debugging chunk loading. It provides you with a live display of all the loaded chunks in any given dimension.
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 - [freerouting/freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
-- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
+- [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight keyboard for Android
 - [AlexModGuy/Ice_and_Fire](https://github.com/AlexModGuy/Ice_and_Fire) - Minecraft mystical mod
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [williambl/blockblockdevice](https://github.com/williambl/blockblockdevice) - 💾 Create block devices on your computer backed by Redstone Memory
@@ -640,10 +647,12 @@
 
 ## JavaScript 
 
+- [rhettlunn/is-odd-ai](https://github.com/rhettlunn/is-odd-ai) - Why check if something is odd simply, when you can do it with ✨AI✨
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
@@ -763,6 +772,7 @@
 
 ## Lua 
 
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [NotAShelf/syntax-gaslighting.nvim](https://github.com/NotAShelf/syntax-gaslighting.nvim) - Gaslighting is not even a real word, you're crazy.
 - [ProHaller/night-owl.nvim](https://github.com/ProHaller/night-owl.nvim) - 🦉 🌌 Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
 - [ian-howell/ripple.nvim](https://github.com/ian-howell/ripple.nvim) - Intuitive window resizing
@@ -806,6 +816,7 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
 - [petejohanson/crkbd](https://github.com/petejohanson/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
@@ -832,6 +843,9 @@
 
 ## Nix 
 
+- [lunik1/nix-wallpaper](https://github.com/lunik1/nix-wallpaper) - A configurable wallpaper for nix systems
+- [jhillyerd/agenix-template](https://github.com/jhillyerd/agenix-template) - NixOS module for templating agenix secrets
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
 - [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
 - [numinit/MeshOS](https://github.com/numinit/MeshOS) - Fetch derivations from your friends.
 - [donovanglover/mobile-config](https://github.com/donovanglover/mobile-config) - My NixOS configuration for running Mobile NixOS on a PinePhone.
@@ -989,7 +1003,6 @@
 - [notjuliet/awesome-bluesky](https://github.com/notjuliet/awesome-bluesky) - A list of tools and clients available for the Bluesky platform
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [oskar456/cds-updates](https://github.com/oskar456/cds-updates) - Info about CDS update support
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook) - About the book "Writing for Developers: Blogs That Get Read," which is all about writing more compelling engineering blog posts. By Piotr Sarna & Cynthia Dunlop.
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [lexicon-community/awesome-lexicons](https://github.com/lexicon-community/awesome-lexicons) - A collection of awesome lexicons
@@ -1001,7 +1014,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd) - continuous integration and continuous delivery
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
-- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist.
 - [random-wizard/1d20-5e-srd](https://github.com/random-wizard/1d20-5e-srd) - 
 - [localsend/protocol](https://github.com/localsend/protocol) - The LocalSend REST API
 - [robatwilliams/awesome-webhid](https://github.com/robatwilliams/awesome-webhid) - Curated list of resources relating to the WebHID (Human Interface Device) API
@@ -1111,6 +1124,7 @@
 
 ## Python 
 
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [vivaansinghvi07/dreamberd-interpreter](https://github.com/vivaansinghvi07/dreamberd-interpreter) - Interpreter for the perfect programming language
@@ -1258,6 +1272,9 @@
 
 ## Rust 
 
+- [darshanparajuli/git-wait](https://github.com/darshanparajuli/git-wait) - A simple git wrapper that waits until index.lock file is removed when present before running the command.
+- [uutils/util-linux](https://github.com/uutils/util-linux) - Rust reimplementation of the util-linux project
+- [dhth/bmm](https://github.com/dhth/bmm) - get to your bookmarks in a flash
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
 - [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈
 - [13unk0wn/Feather](https://github.com/13unk0wn/Feather) - Feather is a lightweight, efficient YouTube Music TUI built with Rust. It provides a minimalistic, ad-free music streaming experience directly from YouTube using yt-dlp and mpv, with a focus on low me
@@ -1313,7 +1330,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [cococonscious/koji](https://github.com/cococonscious/koji) - 🦊 An interactive CLI for creating conventional commits.
 - [doprz/dipc](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes
@@ -1590,7 +1607,6 @@
 
 - [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website) - The hyprland.org website
 - [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
-- [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
 
 ## Swift 
@@ -1608,6 +1624,7 @@
 
 ## TypeScript 
 
+- [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [t3dotgg/vsc-material-but-i-wont-sue-you](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) - The original owner of the Material UI theme for VS Code is grumpy, so I made a version you are safe to use as you please :)
 - [ocfox/nixpkgs-tracker](https://github.com/ocfox/nixpkgs-tracker) - Nixpkgs pr tracker, use Github API. Super fast!
@@ -1620,7 +1637,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
-- [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - atproto pds and relay web tools
+- [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - atproto explorer
 - [zbycz/osmapp](https://github.com/zbycz/osmapp) - Lets make a universal app for OpenStreetMap
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
@@ -1713,6 +1730,7 @@
 
 ## Vim Script 
 
+- [luk400/vim-lichess](https://github.com/luk400/vim-lichess) - Play lichess in (neo)vim!
 - [egberts/vim-nftables](https://github.com/egberts/vim-nftables) - Linux NFTABLES syntax highlighter and syntax checker for Vim-class editors.
 - [TwoSpikes/ani-cli.nvim](https://github.com/TwoSpikes/ani-cli.nvim) - Watch anime directly in Vim/NeoVim
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
