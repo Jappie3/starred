@@ -98,6 +98,7 @@
 
 ## C 
 
+- [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [ArcaneNibble/i-cant-believe-its-not-webusb](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb) - Hacking around lack of WebUSB support in Firefox
 - [randomtwdude/fumosay](https://github.com/randomtwdude/fumosay) - cowsay with fumos
 - [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
@@ -406,6 +407,7 @@
 
 ## Go 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers
 - [patrickvane/shfmt](https://github.com/patrickvane/shfmt) - A shell formatter (sh/bash/mksh)
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
@@ -1321,7 +1323,7 @@
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A LSP-based interative call graph generator
 - [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - 170,000 player capable Minecraft game engine built in Rust.
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
-- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Jellyfin music streaming client for the terminal.
+- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Music streaming client for the terminal.
 - [JoshuaVandaele/wantyougone](https://github.com/JoshuaVandaele/wantyougone) - Recreation of the "Want You Gone" end credits from Portal 2. An excuse to exercise TUI creation.
 - [jameslzhu/roflcat](https://github.com/jameslzhu/roflcat) - A faster lolcat.
 - [pimalaya/neverest](https://github.com/pimalaya/neverest) - CLI to synchronize, backup and restore emails
@@ -1541,7 +1543,7 @@
 - [vinceliuice/Graphite-cursors](https://github.com/vinceliuice/Graphite-cursors) - Graphite cursors theme for linux desktops
 - [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles
 - [ful1e5/BreezeX_Cursor](https://github.com/ful1e5/BreezeX_Cursor) - extended KDE cursor.
-- [drduh/config](https://github.com/drduh/config) - Various program configuration files and scripts
+- [drduh/config](https://github.com/drduh/config) - Various configuration files and scripts
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 - [NONAN23x/dotfiles](https://github.com/NONAN23x/dotfiles) - Arch dots
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
