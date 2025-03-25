@@ -98,6 +98,7 @@
 
 ## C 
 
+- [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [ArcaneNibble/i-cant-believe-its-not-webusb](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb) - Hacking around lack of WebUSB support in Firefox
 - [randomtwdude/fumosay](https://github.com/randomtwdude/fumosay) - cowsay with fumos
@@ -1133,6 +1134,7 @@
 
 ## Python 
 
+- [hippiiee/osgint](https://github.com/hippiiee/osgint) - OSINT tool to find informations about a github user (email2username, username2email, creation date ...)
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
@@ -1281,6 +1283,7 @@
 
 ## Rust 
 
+- [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) - A tool to dump exposed .git repositories
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [icann/icann-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
 - [darshanparajuli/git-wait](https://github.com/darshanparajuli/git-wait) - A simple git wrapper that waits until index.lock file is removed when present before running the command.
