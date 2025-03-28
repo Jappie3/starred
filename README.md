@@ -98,6 +98,7 @@
 
 ## C 
 
+- [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) - wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 - [mortdeus/legacy-cc](https://github.com/mortdeus/legacy-cc) - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
 - [ArcaneNibble/i-cant-believe-its-not-webusb](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb) - Hacking around lack of WebUSB support in Firefox
@@ -408,6 +409,7 @@
 
 ## Go 
 
+- [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -1135,6 +1137,7 @@
 
 ## Python 
 
+- [NixOS/nixpkgs-merge-bot](https://github.com/NixOS/nixpkgs-merge-bot) - Allows package maintainers to merge in nixpkgs
 - [hippiiee/osgint](https://github.com/hippiiee/osgint) - OSINT tool to find informations about a github user (email2username, username2email, creation date ...)
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [Thymis-io/thymis](https://github.com/Thymis-io/thymis) - Web-based platform for configuring, provisioning, updating, and monitoring (IoT-)devices and systems, powered by NixOS
@@ -1284,6 +1287,8 @@
 
 ## Rust 
 
+- [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
+- [wires-org/wire](https://github.com/wires-org/wire) - ALPHA: wire is a tool to deploy nixos systems [maintainer=@mrshmllow]
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) - A tool to dump exposed .git repositories
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [icann/icann-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
@@ -1432,7 +1437,6 @@
 - [NotAShelf/nutils](https://github.com/NotAShelf/nutils) - A collection of Nix utilities, but in a blazingly annoying language.
 - [n0-computer/iroh](https://github.com/n0-computer/iroh) - peer-2-peer that just works
 - [memorysafety/river](https://github.com/memorysafety/river) - This repository is the home of the River reverse proxy application, based on the pingora library from Cloudflare.
-- [aemogie/meower](https://github.com/aemogie/meower) - helps you generate your meow mrrrp nya
 - [Noxyntious/meower](https://github.com/Noxyntious/meower) - helps you generate your meow mrrrp nya
 - [codyd51/uefirc](https://github.com/codyd51/uefirc) - An IRC client in your motherboard
 - [viperML/activation-manager](https://github.com/viperML/activation-manager) - The missing piece for effectful operations with Nix
@@ -1471,7 +1475,7 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [viperML/nh](https://github.com/viperML/nh) - Yet another nix cli helper
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper
 - [fufexan/gross](https://github.com/fufexan/gross) - Eww JSON generator
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [svelterust/raise](https://github.com/svelterust/raise) - Run or raise for Hyprland
@@ -1583,7 +1587,7 @@
 - [ChrisTitusTech/hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus) - My config files for Hyprland Wayland Window Manager
 - [egberts/easy-admin](https://github.com/egberts/easy-admin) - Scripts for easy system administration
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
-- [ax/apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
+- [ax/apk.sh](https://github.com/ax/apk.sh) - Makes reverse engineering Android apps easier, automating repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [coredns/deployment](https://github.com/coredns/deployment) - Scripts, utilities, and examples for deploying CoreDNS.
 - [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - old-dotfiles 🖥️
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -1764,6 +1768,7 @@
 
 ## Vue 
 
+- [T-Zahil/isthisfromeu](https://github.com/T-Zahil/isthisfromeu) - Find out if a brand is European or not. A simple application to check product origins.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [geauser/internetcheckpoint](https://github.com/geauser/internetcheckpoint) - An hommage to the internet checkpoint comments section.
