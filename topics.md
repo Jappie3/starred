@@ -24,6 +24,7 @@
 - [azure](#azure)
 - [backend](#backend)
 - [bash](#bash)
+- [bioinformatics](#bioinformatics)
 - [bootstrap](#bootstrap)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -425,6 +426,10 @@
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [n3oney/discord-update-skip](https://github.com/n3oney/discord-update-skip) - A simple bash script to fix Discord wanting to update to a version that isn't in the repos.
 
+## bioinformatics 
+
+- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore human genomes in the terminal. Light, fast, vim-motion.
+
 ## bootstrap 
 
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
@@ -495,6 +500,7 @@
 
 ## cli 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [znscli/zns](https://github.com/znscli/zns) - CLI tool for querying DNS records with readable, colored output.
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [azu/license-generator](https://github.com/azu/license-generator) - A Command line tool that generate `LICENSE` file.
@@ -991,6 +997,7 @@
 
 ## go 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
@@ -1028,6 +1035,7 @@
 
 ## golang 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 - [malcolmseyd/natpunch-go](https://github.com/malcolmseyd/natpunch-go) - NAT puncher for Wireguard mesh networking.
@@ -1337,6 +1345,7 @@
 
 ## json 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
@@ -1419,7 +1428,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [surban/usb-gadget](https://github.com/surban/usb-gadget) - Expose standard or fully custom USB peripherals (gadgets) through a USB device controller (UDC) on Linux using Rust.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
-- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
+- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 - [boltgolt/howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -1847,6 +1856,8 @@
 
 ## others 
 
+- [bddvlpr/resonance](https://github.com/bddvlpr/resonance) - My opinionated Nix configurations and modules.
+- [Jappie3/wayfreeze](https://github.com/Jappie3/wayfreeze) - Tool to freeze the screen of a Wayland compositor
 - [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros simplifying ZMK's keymap configuration
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
@@ -2888,6 +2899,7 @@
 
 ## rust 
 
+- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore human genomes in the terminal. Light, fast, vim-motion.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
@@ -3378,6 +3390,7 @@
 
 ## xml 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 
 ## zig 
