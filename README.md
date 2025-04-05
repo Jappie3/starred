@@ -414,6 +414,7 @@
 
 ## Go 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
@@ -756,7 +757,7 @@
 
 ## KiCad Layout 
 
-- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - A highly integrated, high end, open source laptop. Attempt the impossible.
+- [Hello9999901/laptop](https://github.com/Hello9999901/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
 
 ## Kotlin 
 
@@ -860,6 +861,7 @@
 
 ## Nix 
 
+- [bddvlpr/resonance](https://github.com/bddvlpr/resonance) - My opinionated Nix configurations and modules.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 - [serokell/vault-secrets](https://github.com/serokell/vault-secrets) - NixOS tooling for Hashicorp Vault
@@ -1303,6 +1305,8 @@
 
 ## Rust 
 
+- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore human genomes in the terminal. Light, fast, vim-motion.
+- [Jappie3/wayfreeze](https://github.com/Jappie3/wayfreeze) - Tool to freeze the screen of a Wayland compositor
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [LordGrimmauld/nix-check-deps](https://github.com/LordGrimmauld/nix-check-deps) - scan nix packages for unused buildInputs
