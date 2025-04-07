@@ -414,6 +414,8 @@
 
 ## Go 
 
+- [Jappie3/nixpkgs-github-timeline](https://github.com/Jappie3/nixpkgs-github-timeline) - Visualize open PRs and Issues in nixos/nixpkgs over time
+- [rifelpet/github-timeline](https://github.com/rifelpet/github-timeline) - Visualize open PRs and Issues over time
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
@@ -1305,7 +1307,7 @@
 
 ## Rust 
 
-- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore human genomes in the terminal. Light, fast, vim-motion.
+- [zeqianli/tgv](https://github.com/zeqianli/tgv) - Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - [Jappie3/wayfreeze](https://github.com/Jappie3/wayfreeze) - Tool to freeze the screen of a Wayland compositor
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
