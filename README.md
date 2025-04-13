@@ -248,7 +248,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 1.803% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 1.875% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -415,7 +415,6 @@
 ## Go 
 
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-- [Jappie3/nixpkgs-github-timeline](https://github.com/Jappie3/nixpkgs-github-timeline) - Visualize open PRs and Issues in nixos/nixpkgs over time
 - [rifelpet/github-timeline](https://github.com/rifelpet/github-timeline) - Visualize open PRs and Issues over time
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
@@ -864,6 +863,7 @@
 
 ## Nix 
 
+- [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [bddvlpr/resonance](https://github.com/bddvlpr/resonance) - My opinionated Nix configurations and modules.
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
@@ -886,6 +886,7 @@
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [nixops4/nixops4-nixos](https://github.com/nixops4/nixops4-nixos) - An integration to deploy NixOS with NixOps4
 - [snugnug/micros](https://github.com/snugnug/micros) - Microscopic NixOS build designed for embedded environments. [Maintainers=@NotAShelf, @DamitusThyYeetus123]]
+- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
 - [samueldr/nix-build-action](https://github.com/samueldr/nix-build-action) - All-inclusive single action to *just* nix-build your project.
 - [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
@@ -902,7 +903,7 @@
 - [Ninlives/minecraft.nix](https://github.com/Ninlives/minecraft.nix) - Command line Minecraft launcher managed by nix
 - [nakato/nixos-sbc](https://github.com/nakato/nixos-sbc) - Nix Flake to make managing Single Board Computers easy and repeatable.
 - [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
-- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Nix flake providing AMD microcode updates for unsupported CPUs
+- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [bddvlpr/in-your-nix-store](https://github.com/bddvlpr/in-your-nix-store) - I am inside of your Nix store.
 - [Alyuu/dotfiles](https://github.com/Alyuu/dotfiles) - My personal dotfiles with NixOS
@@ -1436,7 +1437,7 @@
 - [dyc3/steamguard-cli](https://github.com/dyc3/steamguard-cli) - A linux utility for generating 2FA codes for Steam and managing Steam trade, market, and other confirmations.
 - [entailz/shhh](https://github.com/entailz/shhh) - pipe an image into shhh and add drop shadow + rounded corners to it.
 - [nikstur/bombon](https://github.com/nikstur/bombon) - Nix CycloneDX Software Bills of Materials (SBOMs)
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [catgardens/astral](https://github.com/catgardens/astral) - cli to interact with running neovim instances.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
@@ -1559,7 +1560,6 @@
 
 ## Shell 
 
-- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
 - [hedning/nix-bash-completions](https://github.com/hedning/nix-bash-completions) - Bash completion for the Nix command line tools
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
 - [ziodotsh/atfile](https://github.com/ziodotsh/atfile) - 📦➔🦋 Store and retrieve files on the ATmosphere
@@ -1590,7 +1590,7 @@
 - [Battlesquid/dotfiles](https://github.com/Battlesquid/dotfiles) - My personal dotfiles
 - [ful1e5/BreezeX_Cursor](https://github.com/ful1e5/BreezeX_Cursor) - extended KDE cursor.
 - [drduh/config](https://github.com/drduh/config) - Various configuration files and scripts
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [NONAN23x/dotfiles](https://github.com/NONAN23x/dotfiles) - Arch dots
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
@@ -1724,7 +1724,7 @@
 - [omni-media/omniclip](https://github.com/omni-media/omniclip) - Open source video editing web application
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [catppuccin/vscode-icons](https://github.com/catppuccin/vscode-icons) - 🦊 Soothing pastel icons for VSCode/VSCodium
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
