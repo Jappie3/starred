@@ -52,6 +52,7 @@
 - [database](#database)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -529,7 +530,7 @@
 - [uncenter/nixpkgs-using](https://github.com/uncenter/nixpkgs-using) - 🔩 Find packages that you use that are currently being updated in Nixpkgs.
 - [str4d/age-plugin-yubikey](https://github.com/str4d/age-plugin-yubikey) - YubiKey plugin for age
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [ouch-org/ouch](https://github.com/ouch-org/ouch) - Painless compression and decompression in the terminal
 - [emersion/slurp](https://github.com/emersion/slurp) - Select a region in a Wayland compositor
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -672,12 +673,19 @@
 - [nlewo/comin](https://github.com/nlewo/comin) - GitOps For NixOS Machines
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [IogaMaster/dotfiles](https://github.com/IogaMaster/dotfiles) - My NixOS flake.
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 
 ## design 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
+
+## development 
+
+- [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 
 ## devops 
 
@@ -1013,7 +1021,7 @@
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -1057,7 +1065,7 @@
 - [fenio/pv-mounter](https://github.com/fenio/pv-mounter) - Mount Kubernetes PVs locally using SSHFS
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy) - A general purpose HTTP reverse proxy and forwarding tool. Now written in Go!
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
@@ -1437,7 +1445,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [oracle/bpftune](https://github.com/oracle/bpftune) - bpftune uses BPF to auto-tune Linux systems
-- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Nix flake providing AMD microcode updates for unsupported CPUs
+- [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Menu-driven Wi-Fi management interface for Linux
 - [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline) - Linux Distributions Timeline
@@ -1456,7 +1464,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [K3vinb5/Unyo](https://github.com/K3vinb5/Unyo) - 🐙 Anime streaming and Manga reader desktop app without ads.
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux.
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [donovanglover/hyprdim](https://github.com/donovanglover/hyprdim) - Automatically dim windows in Hyprland when switching between them.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
@@ -1654,7 +1662,7 @@
 
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 1.803% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 1.875% - Decompilation of Minecraft: Legacy Console Edition
 - [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [BalintCsala/kaktwoos](https://github.com/BalintCsala/kaktwoos) - Search for large Minecraft cacti but with style
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -1780,7 +1788,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
 - [djobbo/corehalla](https://github.com/djobbo/corehalla) - 📈 Brawlhalla Stats & Rankings Website
@@ -1793,7 +1801,7 @@
 ## nodejs 
 
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1820,7 +1828,7 @@
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
 - [ferrumc-rs/ferrumc](https://github.com/ferrumc-rs/ferrumc) - A reimplementation of the minecraft server in rust.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
@@ -1861,7 +1869,7 @@
 
 ## others 
 
-- [Jappie3/nixpkgs-github-timeline](https://github.com/Jappie3/nixpkgs-github-timeline) - Visualize open PRs and Issues in nixos/nixpkgs over time
+- [nix-community/nixos-avf](https://github.com/nix-community/nixos-avf) - NixOS for Android Terminal (Android Virtualization Framework) [maintainers=@mkg20001]
 - [rifelpet/github-timeline](https://github.com/rifelpet/github-timeline) - Visualize open PRs and Issues over time
 - [bddvlpr/resonance](https://github.com/bddvlpr/resonance) - My opinionated Nix configurations and modules.
 - [Jappie3/wayfreeze](https://github.com/Jappie3/wayfreeze) - Tool to freeze the screen of a Wayland compositor
@@ -2853,7 +2861,7 @@
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
@@ -2883,6 +2891,7 @@
 
 ## rest-api 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays (REST API), NuGet or docker container :earth_americas:
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Icinga/icinga2](https://github.com/Icinga/icinga2) - The core of our monitoring platform with a powerful configuration language and REST API.
@@ -3035,7 +3044,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GnuPG and SSH
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [aircrack-ng/aircrack-ng](https://github.com/aircrack-ng/aircrack-ng) - WiFi security auditing tools suite
@@ -3063,7 +3072,7 @@
 - [fabaff/nix-security-box](https://github.com/fabaff/nix-security-box) - Tool set for Information security professionals and all others
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) - Backend for HTTP Observatory on MDN
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
 
@@ -3265,7 +3274,7 @@
 - [geauser/internetcheckpoint](https://github.com/geauser/internetcheckpoint) - An hommage to the internet checkpoint comments section.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, internal PKI, and SSH access.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
