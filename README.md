@@ -22,6 +22,7 @@
 - [Elixir](#elixir)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
+- [Fortran](#fortran)
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
 - [Go](#go)
@@ -98,6 +99,7 @@
 
 ## C 
 
+- [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros simplifying ZMK's keymap configuration
 - [eggert/tz](https://github.com/eggert/tz) - Time zone database and code
 - [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) - wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
@@ -251,7 +253,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 2.774% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.398% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -407,6 +409,10 @@
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
 
+## Fortran 
+
+- [wh0am1-dev/adventure](https://github.com/wh0am1-dev/adventure) - Colossal Cave Adventure source code ! (1976)
+
 ## FreeMarker 
 
 - [mozilla/send](https://github.com/mozilla/send) - Simple, private file sharing from the makers of Firefox
@@ -418,6 +424,8 @@
 
 ## Go 
 
+- [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
+- [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [rifelpet/github-timeline](https://github.com/rifelpet/github-timeline) - Visualize open PRs and Issues over time
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -497,6 +505,7 @@
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [benjojo/ssh-key-confirmer](https://github.com/benjojo/ssh-key-confirmer) - Test ssh login key acceptance without having the private key
 - [abenz1267/walker](https://github.com/abenz1267/walker) - Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.
+- [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -676,6 +685,7 @@
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
@@ -1028,6 +1038,7 @@
 
 ## Others 
 
+- [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters
 - [talwrii/ffmpeg-cookbook](https://github.com/talwrii/ffmpeg-cookbook) - A beginner's cookbook for the FFmpeg command-line video and audio editing tool
 - [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
@@ -1139,6 +1150,7 @@
 
 ## PHP 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [solcloud/Counter-Strike](https://github.com/solcloud/Counter-Strike) - Multiplayer FPS game - Counter-Strike: Football 🏉
 - [lmaucoin/friendship-ended](https://github.com/lmaucoin/friendship-ended) - Friendship ended with X now Y is my best friend generator
@@ -1308,7 +1320,7 @@
 
 ## Ruby 
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [github-linguist/linguist](https://github.com/github-linguist/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
@@ -1316,6 +1328,9 @@
 
 ## Rust 
 
+- [tokenizer-decode/email-sleuth](https://github.com/tokenizer-decode/email-sleuth) - Discover and verify professional emails using names + domains (Rust-based tool with SMTP, DNS, scraping, and scoring)
+- [mat-1/decompiled_minecraft_gen](https://github.com/mat-1/decompiled_minecraft_gen) - Generate a Git repo with commits and branches with the decompiled source code of different Minecraft versions and mappings.
+- [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
 - [blitz/hydrasect](https://github.com/blitz/hydrasect) - The tool that makes bisecting nixpkgs pleasant.
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - successor to conduwuit with stable governance
 - [Jappie3/vigiland](https://github.com/Jappie3/vigiland) - Inhibit idle behaviour of a Wayland compositor
@@ -1336,7 +1351,7 @@
 - [uutils/util-linux](https://github.com/uutils/util-linux) - Rust reimplementation of the util-linux project
 - [dhth/bmm](https://github.com/dhth/bmm) - get to your bookmarks in a flash
 - [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - Rust tool to detect cell site simulators on an orbic mobile hotspot
-- [ogxd/gxhash](https://github.com/ogxd/gxhash) - The fastest hashing algorithm 📈
+- [ogxd/gxhash](https://github.com/ogxd/gxhash) - Unsafely fast hashing algorithm 📈
 - [13unk0wn/Feather](https://github.com/13unk0wn/Feather) - Feather is a lightweight, efficient YouTube Music TUI built with Rust. It provides a minimalistic, ad-free music streaming experience directly from YouTube using yt-dlp and mpv, with a focus on low me
 - [Levizor/tray-tui](https://github.com/Levizor/tray-tui) - System tray in your terminal
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
@@ -1353,7 +1368,7 @@
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
 - [azu/license-generator](https://github.com/azu/license-generator) - A Command line tool that generate `LICENSE` file.
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
-- [NotAShelf/rns](https://github.com/NotAShelf/rns) - Exprimental library for enabling Neovim configuration in Rust, C and Zig
+- [NotAShelf/rns](https://github.com/NotAShelf/rns) - Exprimental library for enabling Neovim configuration in Rust, C, Zig, Assembly, etc.
 - [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - share one rust-analyzer server instance between multiple LSP clients to save resources
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
@@ -1397,7 +1412,7 @@
 - [getchoo/nix-forecast](https://github.com/getchoo/nix-forecast) - ⛅ Check the forecast for today's Nix builds
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Menu-driven Wi-Fi management interface for Linux
+- [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
 - [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
 - [bitwarden/sdk-internal](https://github.com/bitwarden/sdk-internal) - Bitwarden internal SDK.
@@ -1422,7 +1437,7 @@
 - [DorianRudolph/sirula](https://github.com/DorianRudolph/sirula) - Simple app launcher for wayland written in rust
 - [hyprland-rs/hyprland-rs](https://github.com/hyprland-rs/hyprland-rs) - Hyprland-rs is The Best Wayland Compositor, rewritten in Rust
 - [griffi-gh/kubi](https://github.com/griffi-gh/kubi) - Multithreaded voxel engine with multiplayer networking based on wgpu (a.k.a another attempt at ripping off Minecraft)
-- [DashieTM/hyprdock](https://github.com/DashieTM/hyprdock) - 
+- [Xetibo/hyprdock](https://github.com/Xetibo/hyprdock) - 
 - [symphorien/nixseparatedebuginfod](https://github.com/symphorien/nixseparatedebuginfod) - Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed.
 - [nix-community/nix-melt](https://github.com/nix-community/nix-melt) - A ranger-like flake.lock viewer [maintainer=@figsoda]
 - [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
@@ -1515,7 +1530,7 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another nix cli helper. [Maintainers=@viperML, @NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@viperML, @NotAShelf]
 - [fufexan/gross](https://github.com/fufexan/gross) - Eww JSON generator
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [svelterust/raise](https://github.com/svelterust/raise) - Run or raise for Hyprland
@@ -1664,6 +1679,7 @@
 
 ## Svelte 
 
+- [vaxerski/Vermilion](https://github.com/vaxerski/Vermilion) - Vermilion is a clean, minimal and simple music player for MPD, Tidal, Spotify and more.
 - [hyprwm/hyprland-website](https://github.com/hyprwm/hyprland-website) - The hyprland.org website
 - [mkitzmann/awwesome](https://github.com/mkitzmann/awwesome) - Enhanced user interface for Awesome Selfhosted
 - [yashash-pugalia/win11-svelte](https://github.com/yashash-pugalia/win11-svelte) - Recreating Windows 11 with Svelte.
@@ -1683,6 +1699,7 @@
 
 ## TypeScript 
 
+- [a-viv-a/deer-social](https://github.com/a-viv-a/deer-social) - fork of social app with toggles for niche features
 - [mary-ext/bluesky-verifier-scraping](https://github.com/mary-ext/bluesky-verifier-scraping) - Git scraping of Bluesky trusted verifiers
 - [natepmay/hose-race](https://github.com/natepmay/hose-race) - Racing on the Bluesky firehose.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -1695,7 +1712,6 @@
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
 - [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - atproto explorer
@@ -1829,7 +1845,6 @@
 ## Zig 
 
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [water-sucks/nixos](https://github.com/water-sucks/nixos) - A unified NixOS tooling replacement for nixos-* utilities
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [riverwm/river](https://github.com/riverwm/river) - [mirror] A dynamic tiling Wayland compositor
 
