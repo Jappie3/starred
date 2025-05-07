@@ -254,7 +254,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.592% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.638% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -425,6 +425,7 @@
 
 ## Go 
 
+- [crgimenes/neko](https://github.com/crgimenes/neko) - Neko is a cross-platform cursor-chasing cat. This is the reimplementation write in Go.
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -1333,6 +1334,7 @@
 
 ## Rust 
 
+- [cognitive-engineering-lab/argus](https://github.com/cognitive-engineering-lab/argus) - An IDE extension for debugging trait errors in Rust.
 - [linyinfeng/oranc](https://github.com/linyinfeng/oranc) - OCI Registry As Nix Cache
 - [tokenizer-decode/email-sleuth](https://github.com/tokenizer-decode/email-sleuth) - Discover and verify professional emails using names + domains (Rust-based tool with SMTP, DNS, scraping, and scoring)
 - [mat-1/decompiled_minecraft_gen](https://github.com/mat-1/decompiled_minecraft_gen) - Generate a Git repo with commits and branches with the decompiled source code of different Minecraft versions and mappings.
@@ -1714,7 +1716,7 @@
 - [t3dotgg/vsc-material-but-i-wont-sue-you](https://github.com/t3dotgg/vsc-material-but-i-wont-sue-you) - The original owner of the Material UI theme for VS Code is grumpy, so I made a version you are safe to use as you please :)
 - [ocfox/nixpkgs-tracker](https://github.com/ocfox/nixpkgs-tracker) - Nixpkgs pr tracker, use Github API. Super fast!
 - [NotAShelf/everysha256hash](https://github.com/NotAShelf/everysha256hash) - In case you forgot some of them
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
