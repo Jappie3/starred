@@ -817,7 +817,7 @@
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [flickowoa/dotfiles](https://github.com/flickowoa/dotfiles) - dotfiles go brrr
 - [PROxZIMA/.dotfiles](https://github.com/PROxZIMA/.dotfiles) - FBI, Open up ~/
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - old-dotfiles 🖥️
@@ -1133,6 +1133,7 @@
 
 ## hacktoberfest 
 
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -1186,7 +1187,6 @@
 - [jmhobbs/cultofthepartyparrot.com](https://github.com/jmhobbs/cultofthepartyparrot.com) - PARTY OR DIE
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
-- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1540,7 +1540,7 @@
 - [Allaman/rice](https://github.com/Allaman/rice) - My "rice" that I use for automatic configuration of my systems via Ansible and my collection of Ansible roles.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [flickowoa/dotfiles](https://github.com/flickowoa/dotfiles) - dotfiles go brrr
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -1644,6 +1644,7 @@
 
 ## markdown 
 
+- [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
@@ -1670,7 +1671,7 @@
 
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
 
 ## microsoft 
 
@@ -1896,6 +1897,7 @@
 
 ## others 
 
+- [h-banii/hypr-shader-preview](https://github.com/h-banii/hypr-shader-preview) - Preview Hyprland shaders directly in the browser!
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [NotAShelf/watt](https://github.com/NotAShelf/watt) - Modern CPU frequency and power management utility for Linux
