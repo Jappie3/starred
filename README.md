@@ -99,6 +99,7 @@
 
 ## C 
 
+- [kmatheussen/das_watchdog](https://github.com/kmatheussen/das_watchdog) - A general watchdog for the linux operating system that should run in the background at all times to ensure a realtime process won't hang the machine
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros simplifying ZMK's keymap configuration
 - [eggert/tz](https://github.com/eggert/tz) - Time zone database and code
@@ -426,6 +427,7 @@
 
 ## Go 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [water-sucks/optnix](https://github.com/water-sucks/optnix) - An options searcher for Nix module systems.
 - [crgimenes/neko](https://github.com/crgimenes/neko) - Neko is a cross-platform cursor-chasing cat. This is the reimplementation write in Go.
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
@@ -862,6 +864,7 @@
 
 ## Makefile 
 
+- [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
@@ -1343,6 +1346,7 @@
 
 ## Rust 
 
+- [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [tsowell/wiremix](https://github.com/tsowell/wiremix) - A simple TUI audio mixer for PipeWire
