@@ -259,7 +259,7 @@
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
 - [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.783% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
-- [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server, with database (MySQL, PostgreSQL), hooks, multi-threading, RADIUS, NETCONF, Kerberos and more.
+- [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial) - 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
@@ -688,6 +688,7 @@
 
 ## JavaScript 
 
+- [localmess/localmess.github.io](https://github.com/localmess/localmess.github.io) - 
 - [h-banii/hypr-shader-preview](https://github.com/h-banii/hypr-shader-preview) - Preview Hyprland shaders directly in the browser!
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [TodePond/ScreenPond](https://github.com/TodePond/ScreenPond) - screens in screens in screens
@@ -699,7 +700,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - Cat follow mouse real! A hacky script I wrote to put a cat on my site.
@@ -1346,6 +1347,7 @@
 
 ## Rust 
 
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
