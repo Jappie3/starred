@@ -262,7 +262,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.857% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.864% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -634,7 +634,7 @@
 
 ## Java 
 
-- [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse kompatible Meetup alternative
+- [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse compatible Meetup alternative
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
@@ -927,7 +927,6 @@
 - [snugnug/micros](https://github.com/snugnug/micros) - Microscopic NixOS build designed for embedded environments. [Maintainers=@NotAShelf, @DamitusThyYeetus123]]
 - [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
 - [samueldr/nix-build-action](https://github.com/samueldr/nix-build-action) - All-inclusive single action to *just* nix-build your project.
-- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [jorikvanveen/nix-config](https://github.com/jorikvanveen/nix-config) - My dotfiles / nix config.
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
@@ -1329,6 +1328,7 @@
 
 ## QML 
 
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
 - [AlephNought0/Faeryshell](https://github.com/AlephNought0/Faeryshell) - My quickshell config
 - [nydragon/nysh](https://github.com/nydragon/nysh) - 
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
@@ -1413,6 +1413,7 @@
 - [bschwind/key-ripper](https://github.com/bschwind/key-ripper) - A keyboard personalized for myself, designed in KiCad, with custom firmware and a case, both written in Rust. Can sit on top of a macbook keyboard.
 - [sammwyy/mindns](https://github.com/sammwyy/mindns) - Minimal DNS server built in Rust with rule system and logging.
 - [wavelens/gradient](https://github.com/wavelens/gradient) - nix-based continuous integration system
+- [oddlama/kanidm-provision](https://github.com/oddlama/kanidm-provision) - A small utility to help with kanidm provisioning
 - [zefr0x/ianny](https://github.com/zefr0x/ianny) - Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.
 - [Umio-Yasuno/amdgpu_top](https://github.com/Umio-Yasuno/amdgpu_top) - Tool to display AMDGPU usage
 - [milieuim/vaultix](https://github.com/milieuim/vaultix) - Secret managing scheme for NixOS
@@ -1733,6 +1734,7 @@
 
 ## TypeScript 
 
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [a-viv-a/deer-social](https://github.com/a-viv-a/deer-social) - fork of social app with toggles for niche features
