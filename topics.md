@@ -111,6 +111,7 @@
 - [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
+- [jenkins](#jenkins)
 - [json](#json)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
@@ -163,6 +164,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -294,7 +296,7 @@
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [pearofducks/ansible-vim](https://github.com/pearofducks/ansible-vim) - A vim plugin for syntax highlighting Ansible's common filetypes
 - [Allaman/rice](https://github.com/Allaman/rice) - My "rice" that I use for automatic configuration of my systems via Ansible and my collection of Ansible roles.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 
 ## api 
@@ -705,7 +707,7 @@
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [Allaman/nvim](https://github.com/Allaman/nvim) - Minimal, blazingly fast, and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, Terraform, and, of course, YAML
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -763,7 +765,7 @@
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [pfelk/pfelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
@@ -787,6 +789,7 @@
 
 ## dotfiles 
 
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
 - [donovanglover/mobile-config](https://github.com/donovanglover/mobile-config) - My NixOS configuration for running Mobile NixOS on a PinePhone.
 - [kjhoerr/dotfiles](https://github.com/kjhoerr/dotfiles) - Configuration files to provide consistent functionality across systems
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
@@ -818,7 +821,7 @@
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [flickowoa/dotfiles](https://github.com/flickowoa/dotfiles) - dotfiles go brrr
 - [PROxZIMA/.dotfiles](https://github.com/PROxZIMA/.dotfiles) - FBI, Open up ~/
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [fufexan/dotfiles](https://github.com/fufexan/dotfiles) - NixOS system config & Home-Manager user config
 - [gabrieldlima/old-dotfiles](https://github.com/gabrieldlima/old-dotfiles) - old-dotfiles 🖥️
@@ -883,6 +886,7 @@
 
 ## firefox 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [ongots/pseudo-fullscreen-firefox](https://github.com/ongots/pseudo-fullscreen-firefox) - Hides and improves Firefox and YouTube UI, giving maximum space for content and aiding concentration
@@ -981,6 +985,7 @@
 
 ## git 
 
+- [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
 - [not-an-aardvark/lucky-commit](https://github.com/not-an-aardvark/lucky-commit) - Customize your git commit hashes!
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1134,6 +1139,8 @@
 
 ## hacktoberfest 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
+- [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -1320,7 +1327,7 @@
 
 ## java 
 
-- [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse kompatible Meetup alternative
+- [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse compatible Meetup alternative
 - [BOINC/boinc](https://github.com/BOINC/boinc) - Open-source software for volunteer computing and grid computing.
 - [sisby-folk/inventory-tabs](https://github.com/sisby-folk/inventory-tabs) - A minecraft mod that allows swapping to other in-world screens (blocks, entities, etc) via tabs. A fourth-generation rewrite of CakeWhip's InventoryTabs.
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
@@ -1369,6 +1376,11 @@
 ## jekyll 
 
 - [dtinth/comic-mono-font](https://github.com/dtinth/comic-mono-font) - A legible monospace font... the very typeface you’ve been trained to recognize since childhood
+
+## jenkins 
+
+- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 ## json 
 
@@ -1452,6 +1464,8 @@
 
 ## linux 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
@@ -1544,7 +1558,7 @@
 - [Allaman/rice](https://github.com/Allaman/rice) - My "rice" that I use for automatic configuration of my systems via Ansible and my collection of Ansible roles.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [flickowoa/dotfiles](https://github.com/flickowoa/dotfiles) - dotfiles go brrr
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
@@ -1613,6 +1627,7 @@
 
 ## macos 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -1668,14 +1683,14 @@
 
 ## mastodon 
 
-- [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse kompatible Meetup alternative
+- [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse compatible Meetup alternative
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 
 ## material-design 
 
 - [InioX/matugen](https://github.com/InioX/matugen) - A material you color generation tool
 - [Templarian/MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒7000+ Material Design Icons from the Community
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - cooking...
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
 
 ## microsoft 
 
@@ -1683,10 +1698,11 @@
 
 ## minecraft 
 
+- [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 3.857% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 4.194% - Decompilation of Minecraft: Legacy Console Edition
 - [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [BalintCsala/kaktwoos](https://github.com/BalintCsala/kaktwoos) - Search for large Minecraft cacti but with style
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -1815,7 +1831,6 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
 - [djobbo/corehalla](https://github.com/djobbo/corehalla) - 📈 Brawlhalla Stats & Rankings Website
@@ -1828,7 +1843,6 @@
 ## nodejs 
 
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [nix-community/dream2nix](https://github.com/nix-community/dream2nix) - Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
@@ -1855,6 +1869,7 @@
 
 ## open-source 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [buyukakyuz/email-sleuth](https://github.com/buyukakyuz/email-sleuth) - Discover and verify professional emails using names + domains (Rust-based tool with SMTP, DNS, scraping, and scoring)
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
@@ -1901,6 +1916,9 @@
 
 ## others 
 
+- [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
+- [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
+- [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) - Minecraft server mod/plugin to monitor TPS, MSPT, and other information in the tab menu, boss bar, and action bar.
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
 - [explainers-by-googlers/local-network-access](https://github.com/explainers-by-googlers/local-network-access) - A proposal to restrict sites from accessing a users' local network without permission
 - [localmess/localmess.github.io](https://github.com/localmess/localmess.github.io) - 
@@ -2075,7 +2093,7 @@
 - [kewbish/kintsugi](https://github.com/kewbish/kintsugi) - A decentralized E2EE key recovery protocol.
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
-- [Gerg-L/smfh](https://github.com/Gerg-L/smfh) - Sleek Manifest File Handler
+- [feel-co/smfh](https://github.com/feel-co/smfh) - Sleek Manifest File Handler
 - [TwoSpikes/ani-cli.nvim](https://github.com/TwoSpikes/ani-cli.nvim) - Watch anime directly in Vim/NeoVim
 - [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
@@ -2219,7 +2237,6 @@
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script builds a flake and pushes all its dependencies to attic
 - [kaii-lb/overskride](https://github.com/kaii-lb/overskride) - A simple yet powerful bluetooth client.
-- [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
 - [giejay/Immich-Android-TV](https://github.com/giejay/Immich-Android-TV) - An Android TV app for the self hosted photos and videos backup solution.
 - [CrzPhil/SSHniff](https://github.com/CrzPhil/SSHniff) - An SSH metadata analyser used to showcase a timing-based attack on the protocol.
 - [haampie/libtree](https://github.com/haampie/libtree) - ldd as a tree
@@ -2260,10 +2277,8 @@
 - [PatrickJS/everyone-ssn-usa](https://github.com/PatrickJS/everyone-ssn-usa) - releasing everyone's SSN and the hacks used to acquire them
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [mrshmllow/freeze](https://github.com/mrshmllow/freeze) - freeze the tickrate of a server when there are no players online
-- [NotAShelf/bgenix](https://github.com/NotAShelf/bgenix) - The thing that comes after agenix... (Or, optionally, better agenix)
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
-- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 - [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
@@ -2803,6 +2818,7 @@
 
 ## privacy 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [ronynn/karui](https://github.com/ronynn/karui) - A privacy friendly, aesthetically pleasing google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system.
 - [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
@@ -2823,6 +2839,20 @@
 - [allo-/ffprofile](https://github.com/allo-/ffprofile) - A tool to create firefox profiles with personalized defaults.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## productivity 
+
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [remvze/nothing](https://github.com/remvze/nothing) - 🕳 Simply do nothing.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## programming 
 
@@ -2934,7 +2964,6 @@
 - [Lodestone-Team/lodestone](https://github.com/Lodestone-Team/lodestone) - A free, open source server hosting tool for Minecraft and other multiplayer games
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [thatmattlove/hyperglass](https://github.com/thatmattlove/hyperglass) - hyperglass is the network looking glass that tries to make the internet better.
@@ -2966,7 +2995,7 @@
 ## rest-api 
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-- [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays (REST API), NuGet or docker container :earth_americas:
+- [nager/Nager.Date](https://github.com/nager/Nager.Date) - Worldwide holidays access via WebApi, NuGet or docker container :earth_americas:
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [Icinga/icinga2](https://github.com/Icinga/icinga2) - The core of our monitoring platform with a powerful configuration language and REST API.
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
@@ -2991,6 +3020,7 @@
 
 ## rust 
 
+- [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
 - [oberblastmeister/trashy](https://github.com/oberblastmeister/trashy) - a cli system trash manager, alternative to rm and trash-cli
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
@@ -3106,6 +3136,7 @@
 
 ## security 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) - wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [dvershinin/gixy](https://github.com/dvershinin/gixy) - NGINX configuration static analyzer
@@ -3157,6 +3188,7 @@
 
 ## self-hosted 
 
+- [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -3190,6 +3222,7 @@
 
 ## server 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [dvershinin/gixy](https://github.com/dvershinin/gixy) - NGINX configuration static analyzer
@@ -3335,7 +3368,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [davidhampgonsalves/Life-Dashboard](https://github.com/davidhampgonsalves/Life-Dashboard) - Low power, E-Ink dashboard for every day life running on a hacked Kindle.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 
 ## testing 
 
@@ -3464,6 +3497,7 @@
 
 ## windows 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
