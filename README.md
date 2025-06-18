@@ -257,12 +257,13 @@
 
 ## C++ 
 
+- [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
 - [vaxerski/checkpoint](https://github.com/vaxerski/checkpoint) - Checkpoint is a tiny reverse proxy that attempts to block AI by serving a cryptographic challenge.
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 4.153% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 4.194% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -551,7 +552,7 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
@@ -899,6 +900,7 @@
 
 ## Nix 
 
+- [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
 - [nix-community/nixos-facter-modules](https://github.com/nix-community/nixos-facter-modules) - A series of NixOS modules to be used in conjunction with https://github.com/nix-community/nixos-facter [maintainer=@brianmcgee,@Mic92]
