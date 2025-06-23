@@ -583,6 +583,7 @@
 
 ## HTML 
 
+- [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [ifd3f/ooo.eeeee.ooo](https://github.com/ifd3f/ooo.eeeee.ooo) - 
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [NixOS/reproducible.nixos.org](https://github.com/NixOS/reproducible.nixos.org) - 
