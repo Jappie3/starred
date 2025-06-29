@@ -263,7 +263,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 4.248% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 5.233% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -433,6 +433,7 @@
 
 ## Go 
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [water-sucks/optnix](https://github.com/water-sucks/optnix) - An options searcher for Nix module systems.
 - [crgimenes/neko](https://github.com/crgimenes/neko) - Neko is a cross-platform cursor-chasing cat. This is the reimplementation write in Go.
@@ -707,7 +708,6 @@
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -902,6 +902,7 @@
 
 ## Nix 
 
+- [numinit/flakever](https://github.com/numinit/flakever) - Purely replacing Jenkins build numbers with Nix
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
 - [polygon/scalpel](https://github.com/polygon/scalpel) - Minimally invasive safe secret provisioning to Nix-generated service config files
 - [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
@@ -1200,6 +1201,8 @@
 
 ## Python 
 
+- [ourresearch/oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
+- [apalrd/tayga](https://github.com/apalrd/tayga) - Simple, no-fuss NAT64 for Linux
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
 - [JulienMalka/lila](https://github.com/JulienMalka/lila) - Nix hash collection software, to aggregate build reports from several builders
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
@@ -1297,7 +1300,7 @@
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 - [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [the-paperless-project/paperless](https://github.com/the-paperless-project/paperless) - Scan, index, and archive all of your paper documents
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
@@ -1338,7 +1341,7 @@
 - [AlephNought0/Faeryshell](https://github.com/AlephNought0/Faeryshell) - My quickshell config
 - [nydragon/nysh](https://github.com/nydragon/nysh) - 
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Dotfiles built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 
 ## R 
 
@@ -1360,6 +1363,7 @@
 
 ## Rust 
 
+- [VirtCode/liischte](https://github.com/VirtCode/liischte) - a blazingly fast wayland bar for my personal use
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [lettre/lettre](https://github.com/lettre/lettre) - a mailer library for Rust
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
@@ -1400,7 +1404,7 @@
 - [Levizor/tray-tui](https://github.com/Levizor/tray-tui) - System tray in your terminal
 - [davidlattimore/wild](https://github.com/davidlattimore/wild) - A very fast linker for Linux
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
-- [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
+- [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [Hawzen/hdp](https://github.com/Hawzen/hdp) - What would happen if we didn't use TCP or UDP?
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
@@ -1760,6 +1764,7 @@
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
 - [notjuliet/pdsls](https://github.com/notjuliet/pdsls) - atproto explorer
@@ -1790,7 +1795,7 @@
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [dream-num/univer](https://github.com/dream-num/univer) - Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
