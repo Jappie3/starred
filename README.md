@@ -262,7 +262,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 7.020% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 7.078% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -433,6 +433,7 @@
 
 ## Go 
 
+- [cafkafk/eepy](https://github.com/cafkafk/eepy) - A simple command-line tool to help you calibrate your sleep schedule.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -971,7 +972,7 @@
 - [numinit/nixpkcs](https://github.com/numinit/nixpkcs) - Declaratively manage keys in hardware tokens, from NixOS.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
-- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [999eagle/nixcon-meme](https://github.com/999eagle/nixcon-meme) - 
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions) - A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
 - [scottbot95/nix-steam-servers](https://github.com/scottbot95/nix-steam-servers) - Nix packages and NixOS modules for managing Steam game servers
