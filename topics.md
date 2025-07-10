@@ -1708,7 +1708,7 @@
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 6.681% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 7.078% - Decompilation of Minecraft: Legacy Console Edition
 - [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [BalintCsala/kaktwoos](https://github.com/BalintCsala/kaktwoos) - Search for large Minecraft cacti but with style
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -1923,6 +1923,9 @@
 
 ## others 
 
+- [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
+- [cafkafk/eepy](https://github.com/cafkafk/eepy) - A simple command-line tool to help you calibrate your sleep schedule.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [CollinDewey/kindle-nix](https://github.com/CollinDewey/kindle-nix) - 
 - [Sveske-Juice/declarative-jellyfin](https://github.com/Sveske-Juice/declarative-jellyfin) - Nix flake to configure Jellyfin declaratively
@@ -1931,7 +1934,7 @@
 - [apalrd/tayga](https://github.com/apalrd/tayga) - Simple, no-fuss NAT64 for Linux
 - [VirtCode/liischte](https://github.com/VirtCode/liischte) - a blazingly fast wayland bar for my personal use
 - [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
-- [Catana791/Asthosus](https://github.com/Catana791/Asthosus) - A mod adding a desert planet with it's own campaign and lots of hopefully fun additions.
+- [Catana791/Asthosus](https://github.com/Catana791/Asthosus) - A Mindustry mod adding a new planet including custom tech and a campaign: Asthosus.
 - [saitamasahil/matrix](https://github.com/saitamasahil/matrix) - A simple digital rain Matrix-inspired effect in pure Bash. Just run it. No dependencies, no setup—just vibes.
 - [gepbird/nixpkgs-patcher](https://github.com/gepbird/nixpkgs-patcher) - Using nixpkgs pull requests that haven't landed into your channel has never been easier!
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
@@ -2336,7 +2339,7 @@
 - [tiredofit/nixos-config](https://github.com/tiredofit/nixos-config) - NixOS configurations
 - [catgardens/astral](https://github.com/catgardens/astral) - cli to interact with running neovim instances.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
-- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules]
+- [nix-community/nixos-apple-silicon](https://github.com/nix-community/nixos-apple-silicon) - Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]
 - [ItsRiprod/DeskThing](https://github.com/ItsRiprod/DeskThing) - Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [999eagle/nixcon-meme](https://github.com/999eagle/nixcon-meme) - 
