@@ -433,6 +433,7 @@
 
 ## Go 
 
+- [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [cafkafk/eepy](https://github.com/cafkafk/eepy) - A simple command-line tool to help you calibrate your sleep schedule.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
@@ -699,7 +700,7 @@
 
 ## JavaScript 
 
-- [Catana791/Asthosus](https://github.com/Catana791/Asthosus) - A mod adding a desert planet with it's own campaign and lots of hopefully fun additions.
+- [Catana791/Asthosus](https://github.com/Catana791/Asthosus) - A Mindustry mod adding a new planet including custom tech and a campaign: Asthosus.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [localmess/localmess.github.io](https://github.com/localmess/localmess.github.io) - 
 - [h-banii/hypr-shader-preview](https://github.com/h-banii/hypr-shader-preview) - Preview Hyprland shaders directly in the browser!
@@ -1635,6 +1636,7 @@
 
 ## Shell 
 
+- [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [CollinDewey/kindle-nix](https://github.com/CollinDewey/kindle-nix) - 
 - [saitamasahil/matrix](https://github.com/saitamasahil/matrix) - A simple digital rain Matrix-inspired effect in pure Bash. Just run it. No dependencies, no setup—just vibes.
 - [hedning/nix-bash-completions](https://github.com/hedning/nix-bash-completions) - Bash completion for the Nix command line tools
