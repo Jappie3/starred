@@ -433,6 +433,7 @@
 
 ## Go 
 
+- [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [cafkafk/eepy](https://github.com/cafkafk/eepy) - A simple command-line tool to help you calibrate your sleep schedule.
 - [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
@@ -1570,7 +1571,6 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [moturus/motor-os](https://github.com/moturus/motor-os) - A simple, fast, and secure operating system for the cloud.
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [n3oney/anyrun-nixos-options](https://github.com/n3oney/anyrun-nixos-options) - An anyrun plugin that lets you search NixOS options.
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
