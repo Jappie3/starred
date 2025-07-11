@@ -39,7 +39,6 @@
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
-- [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -596,10 +595,6 @@
 - [drduh/config](https://github.com/drduh/config) - Configuration files and scripts used in guides and for system setup.
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [Chick2D/neofetch-themes](https://github.com/Chick2D/neofetch-themes) - Neofetch configs put into a convinient repository
-
-## continuous-integration 
-
-- [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 
 ## cpp 
 
@@ -1923,6 +1918,7 @@
 
 ## others 
 
+- [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [nixbuild/nix-quick-install-action](https://github.com/nixbuild/nix-quick-install-action) - 
 - [cafkafk/eepy](https://github.com/cafkafk/eepy) - A simple command-line tool to help you calibrate your sleep schedule.
