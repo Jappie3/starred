@@ -262,7 +262,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 8.221% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 8.302% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -563,7 +563,7 @@
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [matrix-org/matrix-federation-tester](https://github.com/matrix-org/matrix-federation-tester) - Tester for matrix federation written in golang.
-- [cloudentity/oauth2c](https://github.com/cloudentity/oauth2c) - User-friendly OAuth2 CLI
+- [SecureAuthCorp/oauth2c](https://github.com/SecureAuthCorp/oauth2c) - User-friendly OAuth2 CLI
 - [jet/kube-webhook-certgen](https://github.com/jet/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment
 - [zegl/kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kuber
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -957,7 +957,7 @@
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
 - [Ninlives/minecraft.nix](https://github.com/Ninlives/minecraft.nix) - Command line Minecraft launcher managed by nix
 - [nakato/nixos-sbc](https://github.com/nakato/nixos-sbc) - Nix Flake to make managing Single Board Computers easy and repeatable.
-- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]
+- [nix-community/robotnix](https://github.com/nix-community/robotnix) - Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]
 - [e-tho/ucodenix](https://github.com/e-tho/ucodenix) - Microcode updates for AMD CPUs on NixOS
 - [jpetrucciani/pog](https://github.com/jpetrucciani/pog) - 🤯 a new, powerful way to do bash scripts
 - [bddvlpr/in-your-nix-store](https://github.com/bddvlpr/in-your-nix-store) - I am inside of your Nix store.
