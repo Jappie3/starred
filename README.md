@@ -262,7 +262,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 8.430% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 8.453% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server. *** ISC is hiring for a full-stack developer and a QA engineer for our open source Stork GUI management application for DHCP and DNS. https://www.i
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -910,6 +910,7 @@
 
 ## Nix 
 
+- [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks.
 - [NotAShelf/nixdg-ninja](https://github.com/NotAShelf/nixdg-ninja) - Helper module system for more XDG-compliant Nix/OS environments
 - [mwlaboratories/phoneputer](https://github.com/mwlaboratories/phoneputer) - nixos on your phone
 - [nix-systems/default](https://github.com/nix-systems/default) - [ "aarch64-darwin" "aarch64-linux" "x86_64-darwin" "x86_64-linux" ]
