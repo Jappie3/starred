@@ -434,6 +434,7 @@
 
 ## Go 
 
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
@@ -910,6 +911,8 @@
 
 ## Nix 
 
+- [yvan-sraka/ricochets](https://github.com/yvan-sraka/ricochets) - 
+- [stepbrobd/router](https://github.com/stepbrobd/router) - simple and declarative nixos router
 - [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks.
 - [NotAShelf/nixdg-ninja](https://github.com/NotAShelf/nixdg-ninja) - Helper module system for more XDG-compliant Nix/OS environments
 - [mwlaboratories/phoneputer](https://github.com/mwlaboratories/phoneputer) - nixos on your phone
