@@ -704,6 +704,7 @@
 
 ## JavaScript 
 
+- [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [Catana791/Asthosus](https://github.com/Catana791/Asthosus) - A Mindustry mod adding a new planet including custom tech and a campaign: Asthosus.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
@@ -833,6 +834,7 @@
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!
 - [AMereBagatelle/AFKPeace](https://github.com/AMereBagatelle/AFKPeace) - A mod for peace of mind while AFKing!
 
 ## Lua 
@@ -1083,6 +1085,8 @@
 
 ## Others 
 
+- [vvhg1/clp-keycaps](https://github.com/vvhg1/clp-keycaps) - MX compatible low profile ergonomic keycaps
+- [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
 - [femueller/cloud-ip-ranges](https://github.com/femueller/cloud-ip-ranges) - An up-to-date export of cloud provider IP address ranges
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [zhaodice/qemu-anti-detection](https://github.com/zhaodice/qemu-anti-detection) - A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden
@@ -1155,7 +1159,7 @@
 - [skysafe/reblog](https://github.com/skysafe/reblog) - SkySafe Miscellaneous Reverse Engineering Blog
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [lee101/hidden-form-on-the-internet](https://github.com/lee101/hidden-form-on-the-internet) - I left a text field form on my site no one could see.
-- [catppuccin/Kvantum](https://github.com/catppuccin/Kvantum) - 🧚 Soothing pastel theme for Kvantum
+- [catppuccin/kvantum](https://github.com/catppuccin/kvantum) - 🧚 Soothing pastel theme for Kvantum
 - [CharlotteCross1998/linuwux](https://github.com/CharlotteCross1998/linuwux) - A collection of uwu images of distros.
 - [sudoharun/dotfiles](https://github.com/sudoharun/dotfiles) - Another Arch Linux + Hyprland Configuration
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -1314,7 +1318,7 @@
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
-- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of a YouTube channel from the command line
+- [NotJoeMartinez/yt-fts](https://github.com/NotJoeMartinez/yt-fts) - YouTube Full Text Search - Search all of YouTube from the command line
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
@@ -1353,7 +1357,7 @@
 
 ## QML 
 
-- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A very segsy desktop shell
+- [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [AlephNought0/Faeryshell](https://github.com/AlephNought0/Faeryshell) - My quickshell config
 - [nydragon/nysh](https://github.com/nydragon/nysh) - 
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
@@ -1632,6 +1636,7 @@
 
 ## SCSS 
 
+- [RaitoBezarius/arkheon](https://github.com/RaitoBezarius/arkheon) - Track your Nix closures over time
 - [mimvoid/neocities-site](https://github.com/mimvoid/neocities-site) - 
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
@@ -1730,7 +1735,6 @@
 - [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 - [PrayagS/polybar-spotify](https://github.com/PrayagS/polybar-spotify) - :musical_note: Spotify status and controls module for Polybar with text scrolling
 - [n3oney/discord-update-skip](https://github.com/n3oney/discord-update-skip) - A simple bash script to fix Discord wanting to update to a version that isn't in the repos.
-- [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
 - [westofer/monochrome-theme](https://github.com/westofer/monochrome-theme) - 
 - [janleigh/dotfiles](https://github.com/janleigh/dotfiles) - My desktop configuration files.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
@@ -1767,6 +1771,7 @@
 
 ## TypeScript 
 
+- [dnlzro/horizon](https://github.com/dnlzro/horizon) - The current sky at your approximate location, rendered as a CSS gradient
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
@@ -1810,7 +1815,7 @@
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script builds a flake and pushes all its dependencies to attic
 - [awwwsm/nothing](https://github.com/awwwsm/nothing) - 🌱 | Simply do nothing and just be.
-- [kubewall/kubewall](https://github.com/kubewall/kubewall) - A single binary kubernetes dashboard to manage your multiple clusters.
+- [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - an open-source, single binary kubernetes dashboard. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio ). To manage your multiple 
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
@@ -1857,7 +1862,6 @@
 - [benji300/joplin-note-tabs](https://github.com/benji300/joplin-note-tabs) - Allows to open several notes at once in tabs and pin them.
 - [agerardin/joplin-plugin-knowledge-graph](https://github.com/agerardin/joplin-plugin-knowledge-graph) - Notes as nodes. Explore your Joplin knowledge graph.
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!
 - [ottomated/CrewLink](https://github.com/ottomated/CrewLink) - Free, open, Among Us Proximity Chat
 - [pulse-framework/pulse](https://github.com/pulse-framework/pulse) - ✨ Pulse is a global state and logic framework for reactive Typescript & Javascript applications. Supporting frameworks like VueJS, React and React Native.
 
@@ -1917,6 +1921,7 @@
 
 ## Zig 
 
+- [comrade-T/handmade-studio](https://github.com/comrade-T/handmade-studio) - 
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
