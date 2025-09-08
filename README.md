@@ -104,6 +104,7 @@
 
 ## C 
 
+- [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 - [kmatheussen/das_watchdog](https://github.com/kmatheussen/das_watchdog) - A general watchdog for the linux operating system that should run in the background at all times to ensure a realtime process won't hang the machine
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros simplifying ZMK's keymap configuration
@@ -1935,7 +1936,7 @@
 
 ## Zig 
 
-- [water-sucks/nix-peek](https://github.com/water-sucks/nix-peek) - [mirror] - View Nix attrset values inside of a file browser-like UI
+- [water-sucks/nix-peek](https://github.com/water-sucks/nix-peek) - [mirror] - view nix attrset values inside of a file browser-like UI
 - [comrade-T/handmade-studio](https://github.com/comrade-T/handmade-studio) - 
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
