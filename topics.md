@@ -116,6 +116,7 @@
 - [jekyll](#jekyll)
 - [jenkins](#jenkins)
 - [json](#json)
+- [kali-linux](#kali-linux)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -1434,6 +1435,11 @@
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [kurtmckee/feedparser](https://github.com/kurtmckee/feedparser) - Parse feeds in Python
 
+## kali-linux 
+
+- [morrownr/USB-WiFi](https://github.com/morrownr/USB-WiFi) - USB WiFi Adapter Information for Linux
+- [codingo/Reconnoitre](https://github.com/codingo/Reconnoitre) - A security tool for multithreaded information gathering and service enumeration whilst building directory structures to store results, along with writing out recommendations for further testing.
+
 ## kotlin 
 
 - [itsvic-dev/parcel](https://github.com/itsvic-dev/parcel) - 📦 Track all your parcels with ease.
@@ -1975,6 +1981,8 @@
 
 ## others 
 
+- [sloonz/rewritefs](https://github.com/sloonz/rewritefs) - A FUSE filesystem intended to be used like Apache mod_rewrite
+- [clementgallet/libTAS](https://github.com/clementgallet/libTAS) - GNU/Linux software to (hopefully) give TAS tools to games
 - [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
@@ -1990,7 +1998,7 @@
 - [yvan-sraka/ricochets](https://github.com/yvan-sraka/ricochets) - 
 - [stepbrobd/router](https://github.com/stepbrobd/router) - simple and declarative nixos router
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
-- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - Here you will find Guides mainly for the Starr Apps (Sonarr/Radarr) and everything related to it.
+- [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks.
 - [NotAShelf/nixdg-ninja](https://github.com/NotAShelf/nixdg-ninja) - Helper module system for more XDG-compliant Nix/OS environments
 - [luciusmagn/waytemp](https://github.com/luciusmagn/waytemp) - 
@@ -2025,7 +2033,7 @@
 - [water-sucks/optnix](https://github.com/water-sucks/optnix) - [mirror] - an options searcher for nix module systems
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [andrewrk/poop](https://github.com/andrewrk/poop) - Performance Optimizer Observation Platform
-- [tsowell/wiremix](https://github.com/tsowell/wiremix) - A simple TUI audio mixer for PipeWire
+- [tsowell/wiremix](https://github.com/tsowell/wiremix) - Simple TUI audio mixer for PipeWire
 - [JulienMalka/lila](https://github.com/JulienMalka/lila) - Nix hash collection software, to aggregate build reports from several builders
 - [h-banii/hypr-shader-preview](https://github.com/h-banii/hypr-shader-preview) - Preview Hyprland shaders directly in the browser!
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
@@ -2373,6 +2381,7 @@
 - [mrshmllow/freeze](https://github.com/mrshmllow/freeze) - freeze the tickrate of a server when there are no players online
 - [TilCreator/NixOwO](https://github.com/TilCreator/NixOwO) - Cuter Nix logo (SVG)
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
+- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
 - [mikex86/LibreCuda](https://github.com/mikex86/LibreCuda) - 
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [chirlu/rawdog](https://github.com/chirlu/rawdog) - RSS Aggregator Without Delusions Of Grandeur
@@ -2937,7 +2946,6 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [remvze/nothing](https://github.com/remvze/nothing) - 🌱 | Simply do nothing and just be.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
-- [dream-num/univer](https://github.com/dream-num/univer) - Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural lan
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
