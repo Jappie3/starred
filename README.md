@@ -437,6 +437,7 @@
 
 ## Go 
 
+- [DavidBuchanan314/yubiplc](https://github.com/DavidBuchanan314/yubiplc) - A bare-bones CLI tool for signing did:plc operations with a yubikey
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
@@ -450,7 +451,6 @@
 - [crgimenes/neko](https://github.com/crgimenes/neko) - Neko is a cross-platform cursor-chasing cat. This is the reimplementation write in Go.
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [rifelpet/github-timeline](https://github.com/rifelpet/github-timeline) - Visualize open PRs and Issues over time
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
@@ -718,6 +718,7 @@
 - [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
 - [nix-community/tree-sitter-nix](https://github.com/nix-community/tree-sitter-nix) - Nix grammar for tree-sitter [maintainer=@cstrahan]
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
@@ -915,6 +916,7 @@
 
 ## Nix 
 
+- [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [nikp123/minecraft-plymouth-theme](https://github.com/nikp123/minecraft-plymouth-theme) - 
 - [yvan-sraka/ricochets](https://github.com/yvan-sraka/ricochets) - 
 - [stepbrobd/router](https://github.com/stepbrobd/router) - simple and declarative nixos router
@@ -1050,7 +1052,7 @@
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@willibutz @ma27]
 - [chayleaf/dotfiles](https://github.com/chayleaf/dotfiles) - my NixOS/home-manager config
 - [cachix/cachix-deploy-hetzner-dedicated](https://github.com/cachix/cachix-deploy-hetzner-dedicated) - Bootstrap Hetzner Dedicated machines with a single command and deploy using GitHub Actions
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [chayleaf/nixos-router](https://github.com/chayleaf/nixos-router) - A NixOS router framework
 - [nix-community/todomvc-nix](https://github.com/nix-community/todomvc-nix) - Example on how to nixify a project [maintainer=@Rizary]
 - [NixOS/templates](https://github.com/NixOS/templates) - Flake templates
@@ -1794,6 +1796,7 @@
 - [freeman-jiang/beatsync](https://github.com/freeman-jiang/beatsync) - 🔊 High-precision web player for multi-device audio playback and spatial audio.
 - [a-viv-a/deer-social](https://github.com/a-viv-a/deer-social) - fork of social app with toggles for niche features
 - [mary-ext/bluesky-verifier-scraping](https://github.com/mary-ext/bluesky-verifier-scraping) - Git scraping of Bluesky trusted verifiers
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [natepmay/hose-race](https://github.com/natepmay/hose-race) - Racing on the Bluesky firehose.
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
@@ -1805,7 +1808,6 @@
 - [alangrainger/immich-public-proxy](https://github.com/alangrainger/immich-public-proxy) - Share your Immich photos and albums in a safe way without exposing your Immich instance to the public.
 - [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards) - Taking Keyboards to the Final Frontier
 - [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [rekmarks/bluesky-account-migrator](https://github.com/rekmarks/bluesky-account-migrator) - A simple CLI for migrating Bluesky accounts from one PDS to another.
 - [kbinani/je2be-web](https://github.com/kbinani/je2be-web) - Web app to convert world data of Minecraft Java / Bedrock / Xbox360 / PS3 Edition
 - [zbycz/osmapp](https://github.com/zbycz/osmapp) - Lets make a universal app for OpenStreetMap
