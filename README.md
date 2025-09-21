@@ -646,6 +646,7 @@
 
 ## Java 
 
+- [KayDeeTee/Hollow-Knight-SaveManager](https://github.com/KayDeeTee/Hollow-Knight-SaveManager) - Manage and edit Hollow Knight saves
 - [jpenilla/TabTPS](https://github.com/jpenilla/TabTPS) - Minecraft server mod/plugin to monitor TPS, MSPT, and other information in the tab menu, boss bar, and action bar.
 - [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
 - [McPringle/komunumo](https://github.com/McPringle/komunumo) - Open Source Community Manager and Fediverse compatible Meetup alternative
@@ -706,6 +707,8 @@
 
 ## JavaScript 
 
+- [just-addwater/silksong-saveeditor](https://github.com/just-addwater/silksong-saveeditor) - Online silksong save file editor.
+- [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [ppixiv/ppixiv](https://github.com/ppixiv/ppixiv) - Better Pixiv image viewing
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
@@ -1428,7 +1431,7 @@
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [akiomik/mado](https://github.com/akiomik/mado) - A fast Markdown linter written in Rust.
 - [wires-org/wire](https://github.com/wires-org/wire) - ALPHA: wire is a tool to deploy nixos systems [maintainer=@mrshmllow]
-- [mortdeus/solana-copy-sniper-mev-trading-bot](https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot) - High speed solana mev arbitrage Sniper Copy Trading Bot, gRPC shred stream Pumpfun Bundler, Pumpfun Contract, Yellowston Geyser,  token launcher, AI raydium pool creator, volume, sandwich, raydium swa
+- [mortdeus/solana-copy-sniper-mev-trading-bot](https://github.com/mortdeus/solana-copy-sniper-mev-trading-bot) - 🆓Free High speed solana mev arbitrage Sniper Copy Trading Bot, gRPC shred stream Pumpfun Bundler, Pumpfun Contract, Yellowston Geyser,  token launcher, AI raydium pool creator, volume, sandwich, raydi
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) - A tool to dump exposed .git repositories
 - [Devolutions/IronRDP](https://github.com/Devolutions/IronRDP) - Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
 - [icann/icann-rdap](https://github.com/icann/icann-rdap) - ICANN implementation of the Registry Data Access Protocol (RDAP)
