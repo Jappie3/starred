@@ -2073,7 +2073,7 @@
 - [JulienMalka/lila](https://github.com/JulienMalka/lila) - Nix hash collection software, to aggregate build reports from several builders
 - [h-banii/hypr-shader-preview](https://github.com/h-banii/hypr-shader-preview) - Preview Hyprland shaders directly in the browser!
 - [LuckyTurtleDev/crab-hole](https://github.com/LuckyTurtleDev/crab-hole) - 🦀 Pi-Hole clone written in rust using hickory-dns/trust-dns
-- [viperML/nix-maid](https://github.com/viperML/nix-maid) - Systemd + Nix dotfile management
+- [viperML/nix-maid](https://github.com/viperML/nix-maid) - [simpler dotfile management]
 - [NotAShelf/watt](https://github.com/NotAShelf/watt) - Modern CPU frequency and power management utility for Linux
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [ArchipelagoMW-HollowKnight/Archipelago.HollowKnight](https://github.com/ArchipelagoMW-HollowKnight/Archipelago.HollowKnight) - Hollow Knight mod enabling Archipelago multiworld interoperability.
