@@ -634,6 +634,7 @@
 
 ## Haskell 
 
+- [NixOS/SC-election-2025](https://github.com/NixOS/SC-election-2025) - 2025 Election for the Steering Committee
 - [viperML/aoc2024](https://github.com/viperML/aoc2024) - Advent of code 2024 in Haskell
 - [Gabriella439/nix-diff](https://github.com/Gabriella439/nix-diff) - Explain why two Nix derivations differ
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -994,7 +995,6 @@
 - [Platonic-Systems/secrix](https://github.com/Platonic-Systems/secrix) - 
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [koiuo/xdg-override](https://github.com/koiuo/xdg-override) - Override xdg-open behavior. Because the way it already works is not confusing enough
-- [kjhoerr/dotfiles](https://github.com/kjhoerr/dotfiles) - Configuration files to provide consistent functionality across systems
 - [LovingMelody/nix-citizen](https://github.com/LovingMelody/nix-citizen) - Nix configuration for StarCitizen, optionally installs the game package.
 - [numinit/nixpkcs](https://github.com/numinit/nixpkcs) - Declaratively manage keys in hardware tokens, from NixOS.
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
