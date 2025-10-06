@@ -118,7 +118,7 @@
 - [randomtwdude/fumosay](https://github.com/randomtwdude/fumosay) - cowsay with fumos
 - [dovecot/core](https://github.com/dovecot/core) - Dovecot mail server
 - [diniamo/wayhibitor](https://github.com/diniamo/wayhibitor) - Manual Wayland idle inhibitor written in C
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Mirror of https://codeberg.org/Limine/Limine)
+- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [ading2210/doompdf](https://github.com/ading2210/doompdf) - A port of Doom (1993) that runs inside a PDF file
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
@@ -441,6 +441,7 @@
 
 ## Go 
 
+- [3timeslazy/nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - Fuzzy search for Nix packages.
 - [DavidBuchanan314/yubiplc](https://github.com/DavidBuchanan314/yubiplc) - A bare-bones CLI tool for signing did:plc operations with a yubikey
 - [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
@@ -643,7 +644,7 @@
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - VS Code and OpenVSX extensions as Nix expressions
 
 ## Haxe 
 
@@ -749,7 +750,7 @@
 - [cinnyapp/cinny-desktop](https://github.com/cinnyapp/cinny-desktop) - Yet another matrix client for desktop
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [end-4/CirnOS](https://github.com/end-4/CirnOS) - NixOS flake from a baka
@@ -1402,6 +1403,7 @@
 
 ## Rust 
 
+- [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 - [pdtpartners/nix-ninja](https://github.com/pdtpartners/nix-ninja) - Ninja-compatible incremental build system for Nix
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
@@ -1538,7 +1540,7 @@
 - [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [spikespaz/allfollow](https://github.com/spikespaz/allfollow) - A CLI tool to deduplicate your Nix flake's inputs as if you added `inputs.*.inputs.*.follows = "*"` everywhere.
-- [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents and ALS
+- [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [cafkafk/fortune-kind](https://github.com/cafkafk/fortune-kind) - Fortune favors the kind
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [NotAShelf/microfetch](https://github.com/NotAShelf/microfetch) - Microscopic fetch tool in Rust, for NixOS systems, with special emphasis on speed
@@ -1722,7 +1724,7 @@
 - [chaotic-aur/packages](https://github.com/chaotic-aur/packages) - Read-only mirror of Chaotic-AUR's main repository. Issues and bug reports welcome! 📑
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
-- [maximbaz/rebuild-detector](https://github.com/maximbaz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt
+- [max-baz/rebuild-detector](https://github.com/max-baz/rebuild-detector) - Detects which Arch Linux packages need to be rebuilt
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
