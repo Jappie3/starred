@@ -1533,6 +1533,7 @@
 
 ## linux 
 
+- [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes.
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
@@ -2007,6 +2008,7 @@
 
 ## others 
 
+- [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [NixOS/SC-election-2025](https://github.com/NixOS/SC-election-2025) - 2025 Election for the Steering Committee
 - [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat) - bongocat for your desktop ₍^. .^₎
@@ -2669,7 +2671,7 @@
 - [neunenak/sshfs](https://github.com/neunenak/sshfs) - A network filesystem client to connect to SSH servers
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - VS Code and OpenVSX extensions as Nix expressions
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
 - [sudoharun/dotfiles](https://github.com/sudoharun/dotfiles) - Another Arch Linux + Hyprland Configuration
 - [NONAN23x/dotfiles](https://github.com/NONAN23x/dotfiles) - Arch dots
 - [Earthcomputer/update-depression](https://github.com/Earthcomputer/update-depression) - Utilities for update suppression
