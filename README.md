@@ -713,6 +713,7 @@
 
 ## JavaScript 
 
+- [slaurent22/hk-split-maker](https://github.com/slaurent22/hk-split-maker) - HK Split Maker
 - [just-addwater/silksong-saveeditor](https://github.com/just-addwater/silksong-saveeditor) - Online silksong save file editor.
 - [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
@@ -1060,7 +1061,7 @@
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [ghuntley/dotfiles-nixos](https://github.com/ghuntley/dotfiles-nixos) - source drop as reference for others on how to setup nixos and share configs between multiple machines
 - [hall/kubenix](https://github.com/hall/kubenix) - Kubernetes management with Nix
-- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@willibutz @ma27]
+- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [chayleaf/dotfiles](https://github.com/chayleaf/dotfiles) - my NixOS/home-manager config
 - [cachix/cachix-deploy-hetzner-dedicated](https://github.com/cachix/cachix-deploy-hetzner-dedicated) - Bootstrap Hetzner Dedicated machines with a single command and deploy using GitHub Actions
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
@@ -1469,7 +1470,7 @@
 - [azu/license-generator](https://github.com/azu/license-generator) - A Command line tool that generate `LICENSE` file.
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [NotAShelf/rns](https://github.com/NotAShelf/rns) - Exprimental library for enabling Neovim configuration in Rust, C, Zig, Assembly, etc.
-- [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - share one rust-analyzer server instance between multiple LSP clients to save resources
+- [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - moved to https://codeberg.org/p2502/lspmux
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [snugnug/big-brother](https://github.com/snugnug/big-brother) - A Nixpkgs tracker with notifications!  [Maintainer=@Sakooooo]
 - [surban/usb-gadget](https://github.com/surban/usb-gadget) - Expose standard or fully custom USB peripherals (gadgets) through a USB device controller (UDC) on Linux using Rust.
