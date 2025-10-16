@@ -1407,6 +1407,7 @@
 
 ## Rust 
 
+- [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
