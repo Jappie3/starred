@@ -835,6 +835,7 @@
 
 ## documentation 
 
+- [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
@@ -867,7 +868,7 @@
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
-- [aa-irsya/.dots](https://github.com/aa-irsya/.dots) - Dotfiles.
+- [irsya0/.dots](https://github.com/irsya0/.dots) - Dotfiles.
 - [viperML/dotfiles](https://github.com/viperML/dotfiles) - Personal configuration files for my PC
 - [raexera/yuki](https://github.com/raexera/yuki) - Snowflake
 - [Allaman/rice](https://github.com/Allaman/rice) - My "rice" that I use for automatic configuration of my systems via Ansible and my collection of Ansible roles.
@@ -1349,6 +1350,7 @@
 
 ## http 
 
+- [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) - Backend for HTTP Observatory on MDN
 - [KoalaBear84/OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) - Indexes open directories
 
 ## https 
@@ -1562,7 +1564,7 @@
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
-- [ravachol/kew](https://github.com/ravachol/kew) - A marvelous terminal music player.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm) - Miracle is a Wayland tiling window manager built on Mir
 - [ErrorNoInternet/asmfetch](https://github.com/ErrorNoInternet/asmfetch) - A fetch tool written in x86-64 assembly for Linux
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
@@ -1626,7 +1628,7 @@
 - [hardenedlinux/Debian-GNU-Linux-Profiles](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles) - Debian GNU/Linux based Services Profiles
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
-- [aa-irsya/.dots](https://github.com/aa-irsya/.dots) - Dotfiles.
+- [irsya0/.dots](https://github.com/irsya0/.dots) - Dotfiles.
 - [K4zoku/nowm](https://github.com/K4zoku/nowm) - 🚫 Managing window without a window manager. (59 slocs)
 - [jovanlanik/gtklock](https://github.com/jovanlanik/gtklock) - GTK-based lockscreen for Wayland
 - [LekKit/RVVM](https://github.com/LekKit/RVVM) - The RISC-V Virtual Machine
@@ -1682,7 +1684,7 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
-- [aa-irsya/.dots](https://github.com/aa-irsya/.dots) - Dotfiles.
+- [irsya0/.dots](https://github.com/irsya0/.dots) - Dotfiles.
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
 - [Allaman/nvim](https://github.com/Allaman/nvim) - Minimal, blazingly fast, and pure Lua based Neovim configuration for my work as DevOps/Cloud Engineer with batteries included for Python, Golang, Terraform, and, of course, YAML
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
@@ -1710,7 +1712,7 @@
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
-- [ravachol/kew](https://github.com/ravachol/kew) - A marvelous terminal music player.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [tuna-f1sh/cyme](https://github.com/tuna-f1sh/cyme) - List system USB buses and devices. A modern cross-platform lsusb that attempts to maintain compatibility with, but also add new features
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
@@ -1848,7 +1850,7 @@
 - [yaronzz/Tidal-Media-Downloader](https://github.com/yaronzz/Tidal-Media-Downloader) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal.
-- [ravachol/kew](https://github.com/ravachol/kew) - A marvelous terminal music player.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
@@ -2013,6 +2015,7 @@
 
 ## others 
 
+- [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
 - [slaurent22/hk-split-maker](https://github.com/slaurent22/hk-split-maker) - HK Split Maker
 - [clan-lol/nix-select](https://github.com/clan-lol/nix-select) - 
@@ -2124,7 +2127,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [eggert/tz](https://github.com/eggert/tz) - Time zone database and code
 - [public-transport/transitous](https://github.com/public-transport/transitous) - Free and open public transport routing.
-- [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [BreezeWhite/oemer](https://github.com/BreezeWhite/oemer) - End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
@@ -2135,7 +2137,7 @@
 - [NixOS/nixpkgs-merge-bot](https://github.com/NixOS/nixpkgs-merge-bot) - Allows package maintainers to merge in nixpkgs [maintainers=@NixOS/nixpkgs-ci]
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
 - [T-Zahil/isthisfromeu](https://github.com/T-Zahil/isthisfromeu) - Find out if a brand is European or not. A simple application to check product origins.
-- [wires-org/wire](https://github.com/wires-org/wire) - ALPHA: wire is a tool to deploy nixos systems [maintainer=@mrshmllow]
+- [mrshmllow/wire](https://github.com/mrshmllow/wire) - ALPHA: wire is a tool to deploy nixos systems [maintainer=@mrshmllow]
 - [hippiiee/osgint](https://github.com/hippiiee/osgint) - OSINT tool to find informations about a github user (email2username, username2email, creation date ...)
 - [holly-hacker/git-dumper](https://github.com/holly-hacker/git-dumper) - A tool to dump exposed .git repositories
 - [serokell/vault-secrets](https://github.com/serokell/vault-secrets) - NixOS tooling for Hashicorp Vault
@@ -2971,6 +2973,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) - Backend for HTTP Observatory on MDN
 - [HorlogeSkynet/thunderbird-user.js](https://github.com/HorlogeSkynet/thunderbird-user.js) - Thunderbird privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
@@ -3305,6 +3308,7 @@
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) - Backend for HTTP Observatory on MDN
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [OpenSC/OpenSC](https://github.com/OpenSC/OpenSC) - Open source smart card tools and middleware. PKCS#11/MiniDriver/Tokend
@@ -3491,7 +3495,7 @@
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
-- [ravachol/kew](https://github.com/ravachol/kew) - A marvelous terminal music player.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
 - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
