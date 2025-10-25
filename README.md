@@ -467,7 +467,7 @@
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [patrickvane/shfmt](https://github.com/patrickvane/shfmt) - A shell formatter (sh/bash/mksh)
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
-- [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
 - [get-woke/woke](https://github.com/get-woke/woke) - Detect non-inclusive language in your source code.
 - [shazow/ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
@@ -1407,6 +1407,7 @@
 
 ## Rust 
 
+- [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
 - [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
@@ -1715,7 +1716,7 @@
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [dzove855/Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc...
-- [Zerodya/hyprfreeze](https://github.com/Zerodya/hyprfreeze) - Utility to suspend a game process (and other programs) in Hyprland and Sway
+- [Zerodya/hyprfreeze](https://github.com/Zerodya/hyprfreeze) - Utility to suspend a game process (and other programs) in Hyprland
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [elitak/nixos-infect](https://github.com/elitak/nixos-infect) - [GPLv3+] install nixos over the existing OS in a DigitalOcean droplet (and others with minor modifications)
 - [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
