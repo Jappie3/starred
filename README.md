@@ -898,6 +898,7 @@
 
 ## Makefile 
 
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [thirtythreeforty/businesscard-linux](https://github.com/thirtythreeforty/businesscard-linux) - A Buildroot distribution small enough to run on my business card
 - [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
@@ -1416,7 +1417,6 @@
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [desbma/shh](https://github.com/desbma/shh) - Systemd Hardening Helper - Automatic systemd service hardening guided by strace profiling
 - [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack (mirror)
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!
 - [luis-ota/swaptop](https://github.com/luis-ota/swaptop) - swap usage monitor written in rust
 - [Myriad-Dreamin/tinymist](https://github.com/Myriad-Dreamin/tinymist) - Tinymist [ˈtaɪni mɪst] is an integrated language service for Typst [taɪpst].
 - [VirtCode/liischte](https://github.com/VirtCode/liischte) - a blazingly fast wayland bar for my personal use
