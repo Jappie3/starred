@@ -1787,7 +1787,7 @@
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.250% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.331% - Decompilation of Minecraft: Legacy Console Edition
 - [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [BalintCsala/kaktwoos](https://github.com/BalintCsala/kaktwoos) - Search for large Minecraft cacti but with style
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -2637,7 +2637,7 @@
 - [j-brn/nix-rust-template](https://github.com/j-brn/nix-rust-template) - template for rust projects with nix
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [skysafe/reblog](https://github.com/skysafe/reblog) - SkySafe Miscellaneous Reverse Engineering Blog
-- [hyprwm/hyprland-welcome](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app, written in qt.
+- [hyprwm/hyprland-welcome](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app
 - [radian-software/riju](https://github.com/radian-software/riju) - ⚡ Extremely fast online playground for every programming language.
 - [Taiko2k/GTK4PythonTutorial](https://github.com/Taiko2k/GTK4PythonTutorial) - GTK4 + Python tutorial with code examples
 - [lee101/hidden-form-on-the-internet](https://github.com/lee101/hidden-form-on-the-internet) - I left a text field form on my site no one could see.
@@ -2993,7 +2993,7 @@
 
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [remvze/nothing](https://github.com/remvze/nothing) - 🌱 | Simply do nothing and just be.
+- [remvze/nothing](https://github.com/remvze/nothing) - 🌱 • Simply do nothing and just be.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [exploitoverload/PwNixOS](https://github.com/exploitoverload/PwNixOS) - PwNixOS - A Productivity Focused and Hacking-Oriented NixOS Flake
