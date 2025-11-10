@@ -108,6 +108,7 @@
 - [mchehab/rasdaemon](https://github.com/mchehab/rasdaemon) - Rasdaemon is a RAS (Reliability, Availability and Serviceability) logging tool. It records memory errors, using the EDAC tracing events. EDAC is a Linux kernel subsystem with handles detection of ECC 
 - [sloonz/rewritefs](https://github.com/sloonz/rewritefs) - A FUSE filesystem intended to be used like Apache mod_rewrite
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
+- [apalrd/tayga](https://github.com/apalrd/tayga) - Simple, no-fuss NAT64 for Linux
 - [kmatheussen/das_watchdog](https://github.com/kmatheussen/das_watchdog) - A general watchdog for the linux operating system that should run in the background at all times to ensure a realtime process won't hang the machine
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
 - [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros simplifying ZMK's keymap configuration
@@ -269,7 +270,7 @@
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.250% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.331% - Decompilation of Minecraft: Legacy Console Edition
 - [nots1dd/inLimbo](https://github.com/nots1dd/inLimbo) - TUI Music player that keeps you in Limbo.
 - [isc-projects/kea](https://github.com/isc-projects/kea) - A modern, scalable, robust DHCPv4 and DHCPv6 server.
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
@@ -319,7 +320,7 @@
 - [levnikmyskin/hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) - A plugin for the Hyprland compositor, implementing virtual-desktop functionality.
 - [nuttyartist/notes](https://github.com/nuttyartist/notes) - Fast and beautiful note-taking app written in C++. Write down your thoughts.
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
-- [hyprwm/hyprland-welcome](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app, written in qt.
+- [hyprwm/hyprland-welcome](https://github.com/hyprwm/hyprland-welcome) - Hyprland's welcome app
 - [Vagahbond/hyprspace](https://github.com/Vagahbond/hyprspace) - Woooooooooaaaa hyprland in spaaaaace
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
 - [micha4w/Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) - Hyprland Plugin to invert Colors of specific Windows!
@@ -931,7 +932,6 @@
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
-- [nikp123/minecraft-plymouth-theme](https://github.com/nikp123/minecraft-plymouth-theme) - 
 - [yvan-sraka/ricochets](https://github.com/yvan-sraka/ricochets) - 
 - [stepbrobd/router](https://github.com/stepbrobd/router) - simple and declarative nixos router
 - [Maroka-chan/VPN-Confinement](https://github.com/Maroka-chan/VPN-Confinement) - A NixOS module that lets you route traffic from systemd services through a VPN while preventing DNS leaks.
@@ -1247,7 +1247,6 @@
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes.
 - [ourresearch/oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
-- [apalrd/tayga](https://github.com/apalrd/tayga) - Simple, no-fuss NAT64 for Linux
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
 - [JulienMalka/lila](https://github.com/JulienMalka/lila) - Nix hash collection software, to aggregate build reports from several builders
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
@@ -1689,6 +1688,7 @@
 ## Shell 
 
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
+- [nikp123/minecraft-plymouth-theme](https://github.com/nikp123/minecraft-plymouth-theme) - 
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [TRaSH-Guides/Guides](https://github.com/TRaSH-Guides/Guides) - TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications.
 - [CollinDewey/kindle-nix](https://github.com/CollinDewey/kindle-nix) - 
@@ -1856,7 +1856,7 @@
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage) - The homepage of Phosphor Icons, a flexible icon family for everyone
 - [Svenum/attic-builder](https://github.com/Svenum/attic-builder) - This Program/Script builds a flake and pushes all its dependencies to attic
-- [remvze/nothing](https://github.com/remvze/nothing) - 🌱 | Simply do nothing and just be.
+- [remvze/nothing](https://github.com/remvze/nothing) - 🌱 • Simply do nothing and just be.
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono) - A monospaced pixel font with a lo-fi, techy vibe
 - [jwngr/sdow](https://github.com/jwngr/sdow) - Six Degrees of Wikipedia
