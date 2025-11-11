@@ -111,7 +111,7 @@
 - [apalrd/tayga](https://github.com/apalrd/tayga) - Simple, no-fuss NAT64 for Linux
 - [kmatheussen/das_watchdog](https://github.com/kmatheussen/das_watchdog) - A general watchdog for the linux operating system that should run in the background at all times to ensure a realtime process won't hang the machine
 - [mkj/dropbear](https://github.com/mkj/dropbear) - Dropbear SSH
-- [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros simplifying ZMK's keymap configuration
+- [urob/zmk-helpers](https://github.com/urob/zmk-helpers) - Convenience macros for ZMK configs
 - [eggert/tz](https://github.com/eggert/tz) - Time zone database and code
 - [wolfSSL/wolfssh](https://github.com/wolfSSL/wolfssh) - wolfSSH is a small, fast, portable SSH implementation, including support for SCP and SFTP.
 - [util-linux/util-linux](https://github.com/util-linux/util-linux) - 
@@ -501,7 +501,7 @@
 - [chrisns/kubectl-passman](https://github.com/chrisns/kubectl-passman) - kubectl plugin that provides the missing link/glue between common password managers and kubectl
 - [sergelogvinov/proxmox-cloud-controller-manager](https://github.com/sergelogvinov/proxmox-cloud-controller-manager) - Kubernetes cloud controller manager for Proxmox
 - [sergelogvinov/proxmox-csi-plugin](https://github.com/sergelogvinov/proxmox-csi-plugin) - Proxmox CSI Plugin
-- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices
+- [damongolding/immich-kiosk](https://github.com/damongolding/immich-kiosk) - Highly configurable slideshows for displaying Immich assets on browsers and devices.
 - [paololazzari/play](https://github.com/paololazzari/play) - A TUI playground to experiment with your favorite programs, such as grep, sed, awk, jq and yq
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner written in Go. With notifications, history, export to Grafana
 - [JonasHiltl/openchangelog](https://github.com/JonasHiltl/openchangelog) - Easy to configure & self hostable Changelog Website
