@@ -1789,7 +1789,7 @@
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.400% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.406% - Decompilation of Minecraft: Legacy Console Edition
 - [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [BalintCsala/kaktwoos](https://github.com/BalintCsala/kaktwoos) - Search for large Minecraft cacti but with style
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -2021,6 +2021,7 @@
 
 ## others 
 
+- [tinted-theming/home](https://github.com/tinted-theming/home) - Style systems and smart build tooling for crafting high fidelity color schemes and easily using them in all your favorite apps.
 - [nix-community/cache-nix-action](https://github.com/nix-community/cache-nix-action) - Cache Nix Store in GitHub Actions to speed up workflows [maintainer=@deemp]
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
 - [slaurent22/hk-split-maker](https://github.com/slaurent22/hk-split-maker) - HK Split Maker
