@@ -1499,7 +1499,7 @@
 - [thkoch2001/lara](https://github.com/thkoch2001/lara) - decentralized web search engine, web archive and feed reader
 - [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - Minecraft game engine for massive custom events
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers
-- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal.
+- [dhonus/jellyfin-tui](https://github.com/dhonus/jellyfin-tui) - 🪼 Modern music streaming client for the terminal
 - [JoshuaVandaele/wantyougone](https://github.com/JoshuaVandaele/wantyougone) - Recreation of the "Want You Gone" end credits from Portal 2. An excuse to exercise TUI creation.
 - [jameslzhu/roflcat](https://github.com/jameslzhu/roflcat) - A faster lolcat.
 - [pimalaya/neverest](https://github.com/pimalaya/neverest) - CLI to synchronize, backup and restore emails
