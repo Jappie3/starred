@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -38,6 +39,7 @@
 - [code](#code)
 - [code-quality](#code-quality)
 - [coding](#coding)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [config](#config)
@@ -249,6 +251,10 @@
 - [kubewall/kubewall](https://github.com/kubewall/kubewall) - kubewall - Single-Binary Kubernetes Dashboard with Multi-Cluster Management & AI Integration. (OpenAI / Claude 4 / Gemini / DeepSeek / OpenRouter / Ollama / Qwen / LMStudio)
 - [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+
+## algorithms 
+
+- [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 
 ## analytics 
 
@@ -610,6 +616,26 @@
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [sachin-source/top-github-repositories-which-everyone-should-look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look) - This repository contains a list of important and useful github repos which a developer, coder, a student should never miss to look at.
+
+## command-line 
+
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [talwrii/ffmpeg-cookbook](https://github.com/talwrii/ffmpeg-cookbook) - A beginner's cookbook for the FFmpeg command-line video and audio editing tool
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [darwindarak/rallyup](https://github.com/darwindarak/rallyup) - rallyup is a lightweight Wake-On-LAN (WOL) scheduler and dependency manager designed for small businesses and homelabs.
+- [ravachol/kew](https://github.com/ravachol/kew) - Music for the Shell.
+- [Svetlitski/fcp](https://github.com/Svetlitski/fcp) - A significantly faster alternative to the classic Unix cp(1) command, copying large files and directories in a fraction of the time.
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [sweetbbak/hexxy](https://github.com/sweetbbak/hexxy) - a modern and beautiful alternative to xxd and hexdump.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
+- [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
+- [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 
 ## compiler 
 
@@ -2148,7 +2174,6 @@
 - [BreezeWhite/oemer](https://github.com/BreezeWhite/oemer) - End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.
 - [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) - 
 - [thebabush/mcp-job-security](https://github.com/thebabush/mcp-job-security) - LLVM Pass to save Reverse Engineers from Automation
-- [talwrii/ffmpeg-cookbook](https://github.com/talwrii/ffmpeg-cookbook) - A beginner's cookbook for the FFmpeg command-line video and audio editing tool
 - [yaqwsx/PcbDraw](https://github.com/yaqwsx/PcbDraw) - Convert your KiCAD board into a nicely looking 2D drawing suitable for pinout diagrams
 - [numtide/blueprint](https://github.com/numtide/blueprint) - Standard folder structure for Nix projects
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
