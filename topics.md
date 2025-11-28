@@ -1827,7 +1827,7 @@
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
 - [FrozenBlock/WilderWild](https://github.com/FrozenBlock/WilderWild) - A Minecraft mod that overhauls the Wild Update
 - [WearBlackAllDay/SeedCandy](https://github.com/WearBlackAllDay/SeedCandy) - A selection of useful tools regarding SeedFinding, packed in an (hopefully) accessible UI.
-- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 9.833% - Decompilation of Minecraft: Legacy Console Edition
+- [GRAnimated/MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 10.131% - Decompilation of Minecraft: Legacy Console Edition
 - [owengage/fastnbt](https://github.com/owengage/fastnbt) - Fast serde serializer and deserializer for Minecraft's NBT and Anvil formats
 - [BalintCsala/kaktwoos](https://github.com/BalintCsala/kaktwoos) - Search for large Minecraft cacti but with style
 - [louis-e/arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
@@ -1958,6 +1958,7 @@
 
 ## nextjs 
 
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -3152,6 +3153,7 @@
 
 ## react 
 
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
 - [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne) - A version of LiveSplit that works on a lot of platforms.
 - [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -3584,6 +3586,7 @@
 
 ## typescript 
 
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
 - [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne) - A version of LiveSplit that works on a lot of platforms.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
