@@ -1957,7 +1957,7 @@
 
 ## nextjs 
 
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
@@ -2760,7 +2760,7 @@
 - [LaniJ/invoice-dragon](https://github.com/LaniJ/invoice-dragon) - Open source application for creating free invoices and receipts
 - [mozilla/standards-positions](https://github.com/mozilla/standards-positions) - 
 - [askfiy/visual_studio_code](https://github.com/askfiy/visual_studio_code) - A `neovim` theme that highly restores `vscode`, so that your friends will no longer be surprised that you use `neovim`, because they will think you are using `vscode` ..
-- [laosteven/fluffy-octo-eureka](https://github.com/laosteven/fluffy-octo-eureka) - Personalized keymap for the Corne keyboard (crkbd)
+- [laosteven/corne-keymap](https://github.com/laosteven/corne-keymap) - Personalized keymap for the Corne keyboard (crkbd)
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
@@ -3153,7 +3153,7 @@
 
 ## react 
 
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne) - A version of LiveSplit that works on a lot of platforms.
 - [bloodorca/hollow](https://github.com/bloodorca/hollow) - Online Hollow Knight save file editor .
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -3585,7 +3585,7 @@
 
 ## typescript 
 
-- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source payments + billing infrastructure
+- [flowglad/flowglad](https://github.com/flowglad/flowglad) - Open source, zero webhooks payment provider
 - [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne) - A version of LiveSplit that works on a lot of platforms.
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
