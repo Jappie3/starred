@@ -2069,6 +2069,7 @@
 
 ## others 
 
+- [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [hyprwm/hyprtavern](https://github.com/hyprwm/hyprtavern) - A modern, simple and consistent session bus for IPC discovery.
 - [hyprwm/hyprwire](https://github.com/hyprwm/hyprwire) - A fast and consistent wire protocol for IPC
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
