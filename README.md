@@ -1414,6 +1414,7 @@
 
 ## Rust 
 
+- [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
 - [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
 - [samestep/npc](https://github.com/samestep/npc) - Nixpkgs channel history CLI
