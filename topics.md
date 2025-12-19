@@ -1832,6 +1832,7 @@
 
 ## minecraft 
 
+- [CaffeineMC/lithium](https://github.com/CaffeineMC/lithium) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
 - [MCHPR/MCHPRS](https://github.com/MCHPR/MCHPRS) - A multithreaded Minecraft server built for redstone.
 - [pcal43/fastback](https://github.com/pcal43/fastback) - Fast, incremental Minecraft world backups.  Powered by Git.
 - [ArchipelagoMW/Archipelago](https://github.com/ArchipelagoMW/Archipelago) - Archipelago Multi-Game Randomizer and Server
@@ -2760,7 +2761,7 @@
 - [uwu/neptune](https://github.com/uwu/neptune) - an experimental client mod for TIDAL
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More!
 - [kiloamp/fliprep](https://github.com/kiloamp/fliprep) - receipt printable nav log
-- [drk1wi/portspoof](https://github.com/drk1wi/portspoof) - Portspoof
+- [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
 - [foostan/kbd](https://github.com/foostan/kbd) - for building keyboard libraries
 - [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) - KiCAD footprint library for kailh choc and MX-style mechanical switches and their associated sockets
