@@ -1439,7 +1439,7 @@
 - [NotAShelf/watt](https://github.com/NotAShelf/watt) - Modern CPU frequency and power management utility for Linux
 - [cognitive-engineering-lab/argus](https://github.com/cognitive-engineering-lab/argus) - An IDE extension for debugging trait errors in Rust.
 - [linyinfeng/oranc](https://github.com/linyinfeng/oranc) - OCI Registry As Nix Cache
-- [buyukakyuz/email-sleuth](https://github.com/buyukakyuz/email-sleuth) - Discover and verify professional emails using names + domains (Rust-based tool with SMTP, DNS, scraping, and scoring)
+- [buyukakyuz/email-sleuth](https://github.com/buyukakyuz/email-sleuth) - Discover and verify professional emails using names + domains
 - [mat-1/decompiled_minecraft_gen](https://github.com/mat-1/decompiled_minecraft_gen) - Generate a Git repo with commits and branches with the decompiled source code of different Minecraft versions and mappings.
 - [danyspin97/wpaperd](https://github.com/danyspin97/wpaperd) - Modern wallpaper daemon for Wayland
 - [blitz/hydrasect](https://github.com/blitz/hydrasect) - The tool that makes bisecting nixpkgs pleasant.
