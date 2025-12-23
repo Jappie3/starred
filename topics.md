@@ -2078,6 +2078,8 @@
 
 ## others 
 
+- [1attila/QsweMaker](https://github.com/1attila/QsweMaker) - Schematic maker & guide for the QSWE
+- [SmylerMC/litemapy](https://github.com/SmylerMC/litemapy) - Litemapy's goal is to provide an easy to use way to read and edit Litematica's schematic file format
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [hyprwm/hyprtavern](https://github.com/hyprwm/hyprtavern) - A modern, simple and consistent session bus for IPC discovery.
 - [hyprwm/hyprwire](https://github.com/hyprwm/hyprwire) - A fast and consistent wire protocol for IPC
