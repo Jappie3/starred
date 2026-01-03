@@ -937,6 +937,7 @@
 
 ## Nix 
 
+- [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
 - [clan-lol/nix-select](https://github.com/clan-lol/nix-select) - 
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
@@ -1255,7 +1256,7 @@
 
 - [1attila/QsweMaker](https://github.com/1attila/QsweMaker) - Schematic maker & guide for the QSWE
 - [SmylerMC/litemapy](https://github.com/SmylerMC/litemapy) - Litemapy's goal is to provide an easy to use way to read and edit Litematica's schematic file format
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes.
 - [ourresearch/oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
