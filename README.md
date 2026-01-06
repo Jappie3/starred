@@ -1417,6 +1417,7 @@
 
 ## Rust 
 
+- [andrewbaxter/filterway](https://github.com/andrewbaxter/filterway) - Wayland proxy that filters/modifies requests
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [Mic92/direnv-instant](https://github.com/Mic92/direnv-instant) - Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
