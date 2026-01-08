@@ -104,6 +104,8 @@
 
 ## C 
 
+- [hn1fsLandfill/google-balls-kernel](https://github.com/hn1fsLandfill/google-balls-kernel) - Google Balls Kernel
+- [weeniemount/googleballs-app](https://github.com/weeniemount/googleballs-app) - port of the remake of the 2010 google doodle for desktop, mobile, PS Vita, 3DS Tizen, and others, too.
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat) - bongocat for your desktop ₍^. .^₎
 - [mchehab/rasdaemon](https://github.com/mchehab/rasdaemon) - Rasdaemon is a RAS (Reliability, Availability and Serviceability) logging tool. It records memory errors, using the EDAC tracing events. EDAC is a Linux kernel subsystem with handles detection of ECC 
@@ -331,7 +333,7 @@
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
 - [horriblename/hyprgrass](https://github.com/horriblename/hyprgrass) - hyprland plugin for touch screen gestures
 - [tapparelj/gr-lora_sdr](https://github.com/tapparelj/gr-lora_sdr) - This is the fully-functional GNU Radio software-defined radio (SDR) implementation of a LoRa transceiver with all the necessary receiver components to operate correctly even at very low SNRs. This wor
-- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
+- [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@takeokunn,@Aleksanaa]
 - [drk1wi/Portspoof](https://github.com/drk1wi/Portspoof) - Portspoof
 - [uowuo/abaddon](https://github.com/uowuo/abaddon) - An alternative Discord client with voice support made with C++ and GTK 3
 - [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland) - xdg-desktop-portal backend for Hyprland
@@ -428,7 +430,7 @@
 
 ## Fennel 
 
-- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
+- [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - MOVED TO CODEBERG - Neovim's answer to the mouse 🦘
 
 ## Fortran 
 
