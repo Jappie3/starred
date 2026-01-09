@@ -32,6 +32,7 @@
 - [Hack](#hack)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -659,6 +660,10 @@
 
 - [saharan/works](https://github.com/saharan/works) - The code of several works on oimo.io/works
 
+## JSON 
+
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
+
 ## Java 
 
 - [CaffeineMC/lithium](https://github.com/CaffeineMC/lithium) - A Fabric mod designed to improve the general performance of Minecraft without breaking things
@@ -744,7 +749,6 @@
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
 - [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - Cat follow mouse real! A hacky script I wrote to put a cat on my site.
 - [Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
 - [IvarK/AntimatterDimensionsSourceCode](https://github.com/IvarK/AntimatterDimensionsSourceCode) - 
