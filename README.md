@@ -608,7 +608,7 @@
 
 ## HTML 
 
-- [Flomp/wanderer](https://github.com/Flomp/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
+- [open-wanderer/wanderer](https://github.com/open-wanderer/wanderer) - wanderer is a self-hosted trail database. Save your adventures!
 - [ifd3f/ooo.eeeee.ooo](https://github.com/ifd3f/ooo.eeeee.ooo) - 
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [NickCao/flakes](https://github.com/NickCao/flakes) - the deterministic
