@@ -1598,7 +1598,7 @@
 ## linux 
 
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
-- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes.
+- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes. ⚠️ TRANSLATORS: Pull requests for translations can no longer be accepted. Inclusion into https://l10n.gnome.org is pending. ⚠️
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
@@ -2759,7 +2759,7 @@
 - [neunenak/sshfs](https://github.com/neunenak/sshfs) - A network filesystem client to connect to SSH servers
 - [deadbeefsociety/sshfs](https://github.com/deadbeefsociety/sshfs) - A network filesystem client to connect to SSH servers
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp,@ameertaweel]
 - [sudoharun/dotfiles](https://github.com/sudoharun/dotfiles) - Another Arch Linux + Hyprland Configuration
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [NONAN23x/dotfiles](https://github.com/NONAN23x/dotfiles) - Arch dots
