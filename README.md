@@ -822,7 +822,6 @@
 ## Just 
 
 - [skywardmc/adrenaline](https://github.com/skywardmc/adrenaline) - Leading, lightweight, and unbiased performance modpack with no QoL features
-- [catppuccin/kitty](https://github.com/catppuccin/kitty) - 😽 Soothing pastel theme for Kitty
 
 ## KakouneScript 
 
@@ -1224,6 +1223,7 @@
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [samholmes/whiskers](https://github.com/samholmes/whiskers) - Kitty alternative icon
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
+- [catppuccin/kitty](https://github.com/catppuccin/kitty) - 😽 Soothing pastel theme for Kitty
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [SlackingVeteran/frija](https://github.com/SlackingVeteran/frija) - 
 - [Anuken/MindustryBuilds](https://github.com/Anuken/MindustryBuilds) - Latest builds for Mindustry
