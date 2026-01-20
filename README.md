@@ -27,6 +27,7 @@
 - [FreeMarker](#freemarker)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HTML](#html)
 - [Hack](#hack)
@@ -66,7 +67,6 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smali](#smali)
-- [Smarty](#smarty)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -602,6 +602,10 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
+
+## Go Template 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Groovy 
 
@@ -1260,10 +1264,11 @@
 
 ## Python 
 
+- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) - NTP servers with NTS support
 - [1attila/QsweMaker](https://github.com/1attila/QsweMaker) - Schematic maker & guide for the QSWE
 - [SmylerMC/litemapy](https://github.com/SmylerMC/litemapy) - Litemapy's goal is to provide an easy to use way to read and edit Litematica's schematic file format
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
-- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes. ⚠️ TRANSLATORS: Pull requests for translations can no longer be accepted. Inclusion into https://l10n.gnome.org is pending. ⚠️
+- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes. ⚠️ TRANSLATORS: Please submit your translations through https://l10n.gnome.org/module/Constrict/ ⚠️
 - [ourresearch/oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
 - [Mic92/nix-hyperfine](https://github.com/Mic92/nix-hyperfine) - A command-line tool that uses hyperfine to benchmark Nix derivation builds and evaluations.
 - [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
@@ -1801,10 +1806,6 @@
 ## Smali 
 
 - [phhusson/treble_experimentations](https://github.com/phhusson/treble_experimentations) - Notes about tinkering with Android Project Treble
-
-## Smarty 
-
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Svelte 
 
