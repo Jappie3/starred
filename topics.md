@@ -149,6 +149,7 @@
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
+- [neovim-colorscheme](#neovim-colorscheme)
 - [nestjs](#nestjs)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -978,6 +979,7 @@
 
 ## firefox 
 
+- [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
@@ -1598,7 +1600,7 @@
 ## linux 
 
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
-- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes. ⚠️ TRANSLATORS: Pull requests for translations can no longer be accepted. Inclusion into https://l10n.gnome.org is pending. ⚠️
+- [Wartybix/Constrict](https://github.com/Wartybix/Constrict) - Compress videos to target sizes. ⚠️ TRANSLATORS: Please submit your translations through https://l10n.gnome.org/module/Constrict/ ⚠️
 - [elliot40404/bonk](https://github.com/elliot40404/bonk) - The blazingly fast touch alternative with a sprinkle of mkdir written in rust.
 - [mumble-voip/mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
@@ -1971,6 +1973,10 @@
 - [Blacksuan19/Dotfiles](https://github.com/Blacksuan19/Dotfiles) - KDE Plasma for twm users.
 - [umgbhalla/dotstow](https://github.com/umgbhalla/dotstow) - dotfiles managed with stow
 
+## neovim-colorscheme 
+
+- [typicode/bg.nvim](https://github.com/typicode/bg.nvim) - Automatically sync your terminal background with your Neovim colorscheme 🎆
+
 ## nestjs 
 
 - [gflohr/e-invoice-eu](https://github.com/gflohr/e-invoice-eu) - 🇪🇺 💶 Generate e-invoices (E-Rechnung in German) conforming to EN16931 (Factur-X/ZUGFeRD, UBL, CII, XRechnung aka X-Rechnung) from LibreOffice Calc/Excel data or JSON.
@@ -2083,6 +2089,7 @@
 
 ## others 
 
+- [jauderho/nts-servers](https://github.com/jauderho/nts-servers) - NTP servers with NTS support
 - [hn1fsLandfill/google-balls-kernel](https://github.com/hn1fsLandfill/google-balls-kernel) - Google Balls Kernel
 - [weeniemount/googleballs-app](https://github.com/weeniemount/googleballs-app) - port of the remake of the 2010 google doodle for desktop, mobile, PS Vita, 3DS Tizen, and others, too.
 - [andrewbaxter/filterway](https://github.com/andrewbaxter/filterway) - Wayland proxy that filters/modifies requests
@@ -2128,7 +2135,6 @@
 - [ErikMcClure/bad-licenses](https://github.com/ErikMcClure/bad-licenses) - A compendium of absurd "open-source" licenses.
 - [nikp123/minecraft-plymouth-theme](https://github.com/nikp123/minecraft-plymouth-theme) - 
 - [Abdess/retroarch_system](https://github.com/Abdess/retroarch_system) - Compilation of BIOSes for various emulation platforms
-- [CosmoCreeper/Sine](https://github.com/CosmoCreeper/Sine) - The ultimate theme manager for Firefox-based browsers.
 - [RaitoBezarius/arkheon](https://github.com/RaitoBezarius/arkheon) - Track your Nix closures over time
 - [comrade-T/handmade-studio](https://github.com/comrade-T/handmade-studio) - 
 - [yvan-sraka/ricochets](https://github.com/yvan-sraka/ricochets) - 
