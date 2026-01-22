@@ -2766,7 +2766,7 @@
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
 - [sudoharun/dotfiles](https://github.com/sudoharun/dotfiles) - Another Arch Linux + Hyprland Configuration
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [NONAN23x/dotfiles](https://github.com/NONAN23x/dotfiles) - Arch dots
 - [Earthcomputer/update-depression](https://github.com/Earthcomputer/update-depression) - Utilities for update suppression
 - [fufexan/gross](https://github.com/fufexan/gross) - Eww JSON generator
