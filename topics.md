@@ -2089,6 +2089,8 @@
 
 ## others 
 
+- [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
+- [emilyselwood/self_deleting_repo](https://github.com/emilyselwood/self_deleting_repo) - A repo that deletes it self when it opens in an editor.
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) - NTP servers with NTS support
 - [hn1fsLandfill/google-balls-kernel](https://github.com/hn1fsLandfill/google-balls-kernel) - Google Balls Kernel
 - [weeniemount/googleballs-app](https://github.com/weeniemount/googleballs-app) - port of the remake of the 2010 google doodle for desktop, mobile, PS Vita, 3DS Tizen, and others, too.
