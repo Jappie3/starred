@@ -105,6 +105,7 @@
 
 ## C 
 
+- [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [hn1fsLandfill/google-balls-kernel](https://github.com/hn1fsLandfill/google-balls-kernel) - Google Balls Kernel
 - [weeniemount/googleballs-app](https://github.com/weeniemount/googleballs-app) - port of the remake of the 2010 google doodle for desktop, mobile, PS Vita, 3DS Tizen, and others, too.
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
@@ -266,6 +267,7 @@
 
 ## C++ 
 
+- [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [hyprwm/hyprtavern](https://github.com/hyprwm/hyprtavern) - A modern, simple and consistent session bus for IPC discovery.
 - [hyprwm/hyprwire](https://github.com/hyprwm/hyprwire) - A fast and consistent wire protocol for IPC
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
@@ -884,7 +886,7 @@
 - [po5/memo](https://github.com/po5/memo) - A recent files menu for mpv
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) - A neovim plugin for moving around your code in a syntax tree aware manner
-- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & YAML previewer for Neovim
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - A hackable markdown, Typst, latex, html(inline) & Asciidoc previewer for Neovim
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [po5/thumbfast](https://github.com/po5/thumbfast) - High-performance on-the-fly thumbnailer script for mpv
@@ -898,6 +900,7 @@
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in NeoVim ✈️
 - [askfiy/visual_studio_code](https://github.com/askfiy/visual_studio_code) - A `neovim` theme that highly restores `vscode`, so that your friends will no longer be surprised that you use `neovim`, because they will think you are using `vscode` ..
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Lassebq/dots](https://github.com/Lassebq/dots) - My dotfiles (WIP)
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
@@ -1100,7 +1103,6 @@
 - [Waayway/nixos-config](https://github.com/Waayway/nixos-config) - 
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Suya1671/commafiles](https://github.com/Suya1671/commafiles) - My new dots, since my old ones broke
 - [jsw08/dots](https://github.com/jsw08/dots) - Jsw's nixos dotfiles.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
@@ -1429,6 +1431,7 @@
 
 ## Rust 
 
+- [emilyselwood/self_deleting_repo](https://github.com/emilyselwood/self_deleting_repo) - A repo that deletes it self when it opens in an editor.
 - [andrewbaxter/filterway](https://github.com/andrewbaxter/filterway) - Wayland proxy that filters/modifies requests
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
 - [Mic92/direnv-instant](https://github.com/Mic92/direnv-instant) - Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.
@@ -1657,7 +1660,7 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [yaxitech/ragenix](https://github.com/yaxitech/ragenix) - age-encrypted secrets for NixOS; drop-in replacement for agenix
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
+- [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf, @faukah]
 - [fufexan/gross](https://github.com/fufexan/gross) - Eww JSON generator
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [svelterust/raise](https://github.com/svelterust/raise) - Run or raise for Hyprland
