@@ -2089,6 +2089,7 @@
 
 ## others 
 
+- [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [emilyselwood/self_deleting_repo](https://github.com/emilyselwood/self_deleting_repo) - A repo that deletes it self when it opens in an editor.
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) - NTP servers with NTS support
