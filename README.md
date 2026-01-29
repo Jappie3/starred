@@ -598,7 +598,7 @@
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
+- [kubernetes-retired/dashboard](https://github.com/kubernetes-retired/dashboard) - General-purpose web UI for Kubernetes clusters
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
@@ -988,7 +988,7 @@
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [nixops4/nixops4-nixos](https://github.com/nixops4/nixops4-nixos) - An integration to deploy NixOS with NixOps4
 - [snugnug/micros](https://github.com/snugnug/micros) - Microscopic NixOS build designed for embedded environments. [Maintainers=@NotAShelf, @DamitusThyYeetus123]]
-- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - 
+- [mkellyxp/nixbook](https://github.com/mkellyxp/nixbook) - A set-and-forget modern operating system designed for simplicity, speed, and peace of mind.
 - [samueldr/nix-build-action](https://github.com/samueldr/nix-build-action) - All-inclusive single action to *just* nix-build your project.
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [jorikvanveen/nix-config](https://github.com/jorikvanveen/nix-config) - My dotfiles / nix config.
