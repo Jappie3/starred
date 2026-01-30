@@ -2096,6 +2096,7 @@
 
 ## others 
 
+- [NixOS/nixpkgs-vet](https://github.com/NixOS/nixpkgs-vet) - Tool to vet (check) Nixpkgs, including its pkgs/by-name directory
 - [NotAShelf/nix-evaluator-stats](https://github.com/NotAShelf/nix-evaluator-stats) - 
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
