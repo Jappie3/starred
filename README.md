@@ -899,7 +899,6 @@
 - [po5/mpv_sponsorblock](https://github.com/po5/mpv_sponsorblock) - mpv script to skip sponsored segments of YouTube videos
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) - Fly through your tabs in NeoVim ✈️
 - [askfiy/visual_studio_code](https://github.com/askfiy/visual_studio_code) - A `neovim` theme that highly restores `vscode`, so that your friends will no longer be surprised that you use `neovim`, because they will think you are using `vscode` ..
-- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Lassebq/dots](https://github.com/Lassebq/dots) - My dotfiles (WIP)
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
@@ -1101,6 +1100,7 @@
 - [Waayway/nixos-config](https://github.com/Waayway/nixos-config) - 
 - [nix-community/nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) - Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]
 - [tazjin/nix-1p](https://github.com/tazjin/nix-1p) - A (more or less) one page introduction to Nix, the language.
+- [Aylur/dotfiles](https://github.com/Aylur/dotfiles) - My personal config files
 - [Suya1671/commafiles](https://github.com/Suya1671/commafiles) - My new dots, since my old ones broke
 - [jsw08/dots](https://github.com/jsw08/dots) - Jsw's nixos dotfiles.
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
@@ -1430,6 +1430,7 @@
 
 ## Rust 
 
+- [NixOS/nixpkgs-vet](https://github.com/NixOS/nixpkgs-vet) - Tool to vet (check) Nixpkgs, including its pkgs/by-name directory
 - [emilyselwood/self_deleting_repo](https://github.com/emilyselwood/self_deleting_repo) - A repo that deletes it self when it opens in an editor.
 - [andrewbaxter/filterway](https://github.com/andrewbaxter/filterway) - Wayland proxy that filters/modifies requests
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
