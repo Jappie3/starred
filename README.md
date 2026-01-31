@@ -1407,7 +1407,7 @@
 - [AlephNought0/Faeryshell](https://github.com/AlephNought0/Faeryshell) - My quickshell config
 - [nydragon/nysh](https://github.com/nydragon/nysh) - 
 - [pterror/config-quickshell](https://github.com/pterror/config-quickshell) - quickshell config
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles with a corporate-ish-level cleanliness
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
 
 ## R 
 
