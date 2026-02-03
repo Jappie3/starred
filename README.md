@@ -107,7 +107,7 @@
 
 - [sched-ext/scx](https://github.com/sched-ext/scx) - sched_ext schedulers and tools
 - [hn1fsLandfill/google-balls-kernel](https://github.com/hn1fsLandfill/google-balls-kernel) - Google Balls Kernel
-- [weeniemount/googleballs-app](https://github.com/weeniemount/googleballs-app) - port of the remake of the 2010 google doodle for desktop, mobile, PS Vita, 3DS Tizen, and others, too.
+- [weeniemount/googleballs-app](https://github.com/weeniemount/googleballs-app) - port of the remake of the 2010 google doodle for desktop, mobile, PS Vita, 3DS, Tizen, and others, too.
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
 - [saatvik333/wayland-bongocat](https://github.com/saatvik333/wayland-bongocat) - bongocat for your desktop ₍^. .^₎
 - [mchehab/rasdaemon](https://github.com/mchehab/rasdaemon) - Rasdaemon is a RAS (Reliability, Availability and Serviceability) logging tool. It records memory errors, using the EDAC tracing events. EDAC is a Linux kernel subsystem with handles detection of ECC 
@@ -266,6 +266,7 @@
 
 ## C++ 
 
+- [DanielAdolfsson/ndppd](https://github.com/DanielAdolfsson/ndppd) - NDP Proxy Daemon
 - [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) - Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]
 - [hyprwm/hyprtavern](https://github.com/hyprwm/hyprtavern) - A modern, simple and consistent session bus for IPC discovery.
 - [hyprwm/hyprwire](https://github.com/hyprwm/hyprwire) - A fast and consistent wire protocol for IPC
@@ -754,7 +755,6 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [tree-sitter-grammars/tree-sitter-hyprlang](https://github.com/tree-sitter-grammars/tree-sitter-hyprlang) - hyprlang grammar for tree-sitter
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
-- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [arcjet/well-known-bots](https://github.com/arcjet/well-known-bots) - List of well-known bots and user-agent patterns to detect them
 - [adryd325/oneko.js](https://github.com/adryd325/oneko.js) - Cat follow mouse real! A hacky script I wrote to put a cat on my site.
 - [Lyfhael/DeleteTweets](https://github.com/Lyfhael/DeleteTweets) - Delete / Remove all your tweets
@@ -904,7 +904,6 @@
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [suconakh/awesome-awesome-rc](https://github.com/suconakh/awesome-awesome-rc) - Modularized AwesomeWM rc.lua
 - [cufta22/dotfiles](https://github.com/cufta22/dotfiles) - [AwesomeWM] Outer Wilds - change branch for old rices
-- [irsya0/.dots](https://github.com/irsya0/.dots) - Dotfiles.
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [jdhao/nvim-config](https://github.com/jdhao/nvim-config) - A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua.
@@ -948,6 +947,7 @@
 
 ## Nix 
 
+- [karpfediem/rx.nix](https://github.com/karpfediem/rx.nix) - Reactive Nix: Enabling Functional Reactive Configuration with mgmt
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
 - [clan-lol/nix-select](https://github.com/clan-lol/nix-select) - 
 - [andre4ik3/agefs](https://github.com/andre4ik3/agefs) - FUSE filesystem that decrypts age secrets on the fly
@@ -1767,6 +1767,7 @@
 - [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [hardenedlinux/Debian-GNU-Linux-Profiles](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles) - Debian GNU/Linux based Services Profiles
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
+- [irsya0/.dots](https://github.com/irsya0/.dots) - Dotfiles.
 - [CptPotato/helix-themes](https://github.com/CptPotato/helix-themes) - A few themes for the helix editor
 - [druskus20/eugh](https://github.com/druskus20/eugh) - The various eww configs that I've made
 - [internetwache/GitTools](https://github.com/internetwache/GitTools) - A repository with 3 tools for pwn'ing websites with .git repositories available
@@ -1864,6 +1865,7 @@
 - [zbycz/osmapp](https://github.com/zbycz/osmapp) - Lets make a universal app for OpenStreetMap
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - Generate interactive call graphs for various languages
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. Don't be shy, join here: 
 - [ckabalan/visualsubnetcalc](https://github.com/ckabalan/visualsubnetcalc) - Visual Subnet Calculator
 - [olekolek1000/wayvr-dashboard](https://github.com/olekolek1000/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
 - [tonghohin/screen-sharing](https://github.com/tonghohin/screen-sharing) - Share your screen with one simple room code. No downloads or sign-ups required.
