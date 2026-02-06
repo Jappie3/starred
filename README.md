@@ -947,6 +947,7 @@
 
 ## Nix 
 
+- [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [karpfediem/rx.nix](https://github.com/karpfediem/rx.nix) - Reactive Nix: Enabling Functional Reactive Configuration with mgmt
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
