@@ -2065,7 +2065,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [privacytests/privacytests.org](https://github.com/privacytests/privacytests.org) - Source code for privacytests.org. Includes browser testing code and site rendering.
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
-- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics
+- [fastenhealth/fasten-onprem](https://github.com/fastenhealth/fasten-onprem) - Fasten is an open-source, self-hosted, personal/family electronic medical record manager
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
@@ -2100,6 +2100,7 @@
 
 ## others 
 
+- [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [DanielAdolfsson/ndppd](https://github.com/DanielAdolfsson/ndppd) - NDP Proxy Daemon
 - [karpfediem/rx.nix](https://github.com/karpfediem/rx.nix) - Reactive Nix: Enabling Functional Reactive Configuration with mgmt
@@ -2399,7 +2400,7 @@
 - [wtsxDev/reverse-engineering](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [lexicon-community/awesome-lexicons](https://github.com/lexicon-community/awesome-lexicons) - A collection of awesome lexicons
-- [olekolek1000/wayvr-dashboard](https://github.com/olekolek1000/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
+- [oo8dev/wayvr-dashboard](https://github.com/oo8dev/wayvr-dashboard) - Launch your favorite desktop applications and games seamlessly within your VR environment (wlx-overlay-s addon)
 - [toasterofbread/spmp](https://github.com/toasterofbread/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [crabdancing/nix-flamegraph](https://github.com/crabdancing/nix-flamegraph) - Various primitive scripts cobbled together to produce an easy flamegraph of nix eval
 - [jpt/meow](https://github.com/jpt/meow) - Meow: a font for cats
