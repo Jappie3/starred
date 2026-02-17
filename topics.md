@@ -884,7 +884,7 @@
 
 - [Lassulus/wrappers](https://github.com/Lassulus/wrappers) - A Nix library to create wrapped executables via the module system
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
-- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @GetPsyched]
 - [donovanglover/mobile-config](https://github.com/donovanglover/mobile-config) - My NixOS configuration for running Mobile NixOS on a PinePhone.
 - [ifd3f/infra](https://github.com/ifd3f/infra) - Personal cloud, dotfiles, and configurations omnirepo
 - [niksingh710/gdots](https://github.com/niksingh710/gdots) - The Graphical Interface that i Like to interact with. [Hyprland+Waybar+Much tools].
@@ -1614,7 +1614,7 @@
 - [Foxboron/sbctl](https://github.com/Foxboron/sbctl) - :computer: :lock: :key: Secure Boot key manager
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
-- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @GetPsyched]
 - [surban/usb-gadget](https://github.com/surban/usb-gadget) - Expose standard or fully custom USB peripherals (gadgets) through a USB device controller (UDC) on Linux using Rust.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible.
