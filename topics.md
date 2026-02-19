@@ -2752,7 +2752,7 @@
 - [Gerg-L/nix-templates](https://github.com/Gerg-L/nix-templates) - Simple nix templates
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [hyprwm/hyprland-plugins](https://github.com/hyprwm/hyprland-plugins) - Official plugins for Hyprland
-- [micha4w/Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) - Hyprland Plugin to invert Colors of specific Windows!
+- [micha4w/Hypr-DarkWindow](https://github.com/micha4w/Hypr-DarkWindow) - Hyprland Plugin to customize Shaders of specific Windows!
 - [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
 - [ghuntley/dotfiles-nixos](https://github.com/ghuntley/dotfiles-nixos) - source drop as reference for others on how to setup nixos and share configs between multiple machines
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
