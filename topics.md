@@ -2708,7 +2708,7 @@
 - [snowfallorg/icicle](https://github.com/snowfallorg/icicle) - A gtk4/libadwaita installer for NixOS based distributions
 - [VortexCoyote/hyprfocus](https://github.com/VortexCoyote/hyprfocus) - a focus animation plugin for Hyprland inspired by Flashfocus
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
-- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks]
+- [nix-community/nixos-cli](https://github.com/nix-community/nixos-cli) - A unified NixOS tooling replacement for nixos-* utilities [maintainer=@water-sucks,@Sporif]
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [end-4/CirnOS](https://github.com/end-4/CirnOS) - NixOS flake from a baka
 - [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
