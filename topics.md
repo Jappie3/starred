@@ -2686,7 +2686,7 @@
 - [nix-community/nixpkgs-update](https://github.com/nix-community/nixpkgs-update) - Updating nixpkgs packages since 2018
 - [symphorien/nix-du](https://github.com/symphorien/nix-du) - Visualise which gc-roots to delete to free some space in your nix store
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
-- [morr0ne/cake](https://github.com/morr0ne/cake) - 🍰 The Portal ending screen in your browser
+- [puppymati/cake](https://github.com/puppymati/cake) - 🍰 The Portal ending screen in your browser
 - [camillemndn/zotero-nix](https://github.com/camillemndn/zotero-nix) - Zotero built from source on Nix
 - [A1exxander/KVM-Spoofing](https://github.com/A1exxander/KVM-Spoofing) - A guide for spoofing KVM
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
