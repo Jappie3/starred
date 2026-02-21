@@ -1911,7 +1911,7 @@
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 - [inoric/vscode-fibonacci-indent](https://github.com/inoric/vscode-fibonacci-indent) - A Visual Studio Code plugin that helps you indent code according to the Fibonacci sequence.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
-- [morr0ne/cake](https://github.com/morr0ne/cake) - 🍰 The Portal ending screen in your browser
+- [puppymati/cake](https://github.com/puppymati/cake) - 🍰 The Portal ending screen in your browser
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
