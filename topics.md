@@ -1877,7 +1877,7 @@
 - [AppliedEnergistics/Applied-Energistics-2](https://github.com/AppliedEnergistics/Applied-Energistics-2) - A Minecraft Mod about Matter, Energy and using them to conquer the world..
 - [meyfa/CobolCraft](https://github.com/meyfa/CobolCraft) - A Minecraft server written in COBOL
 - [hyperion-mc/hyperion](https://github.com/hyperion-mc/hyperion) - Minecraft game engine for massive custom events
-- [skywardmc/adrenaline](https://github.com/skywardmc/adrenaline) - Leading, lightweight, and unbiased performance modpack with no QoL features
+- [skywardmc/adrenaline](https://github.com/skywardmc/adrenaline) - Leading, lightweight performance modpack with no QoL features
 - [Diegiwg/PrismLauncher-Cracked](https://github.com/Diegiwg/PrismLauncher-Cracked) - This project is a Fork of Prism Launcher, which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account. No other modifications were applied to t
 - [williambl/blockblockdevice](https://github.com/williambl/blockblockdevice) - 💾 Create block devices on your computer backed by Redstone Memory
 - [feather-rs/feather](https://github.com/feather-rs/feather) - A Minecraft server implementation in Rust
@@ -2103,6 +2103,7 @@
 
 ## others 
 
+- [oddlama/nixos-config-tui](https://github.com/oddlama/nixos-config-tui) - A TUI to browse and diff NixOS configurations at the config-level
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [DanielAdolfsson/ndppd](https://github.com/DanielAdolfsson/ndppd) - NDP Proxy Daemon
