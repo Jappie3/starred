@@ -272,6 +272,7 @@
 
 ## android 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - [M0Rf30/android-udev-rules](https://github.com/M0Rf30/android-udev-rules) - Android udev rules list aimed to be the most comprehensive on the net
 - [itsvic-dev/parcel](https://github.com/itsvic-dev/parcel) - 📦 Track all your parcels with ease.
@@ -3066,6 +3067,7 @@
 
 ## privacy 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [PrivSec-dev/banking-apps-compat-report](https://github.com/PrivSec-dev/banking-apps-compat-report) - Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [ronynn/karui](https://github.com/ronynn/karui) - A privacy friendly, aesthetically pleasing google tasks alternative to do list app, inspired by system-24 theme and windows mobile design system.
