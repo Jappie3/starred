@@ -840,6 +840,7 @@
 
 ## Kotlin 
 
+- [yjeanrenaud/yj_nearbyglasses](https://github.com/yjeanrenaud/yj_nearbyglasses) - attempting to detect smart glasses nearby and warn you
 - [swiyu-admin-ch/eidch-android-wallet](https://github.com/swiyu-admin-ch/eidch-android-wallet) - Android wallet for the Swiss e-ID
 - [itsvic-dev/parcel](https://github.com/itsvic-dev/parcel) - 📦 Track all your parcels with ease.
 - [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
