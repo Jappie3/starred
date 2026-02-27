@@ -2409,7 +2409,7 @@
 - [toasterofbread/spmp](https://github.com/toasterofbread/spmp) - Note: Mostly non-functional, see README --- A YouTube Music client with a focus on customisation of colours and song metadata. Built with Compose Multiplatform for Android and desktop.
 - [crabdancing/nix-flamegraph](https://github.com/crabdancing/nix-flamegraph) - Various primitive scripts cobbled together to produce an easy flamegraph of nix eval
 - [jpt/meow](https://github.com/jpt/meow) - Meow: a font for cats
-- [octoshrimpy/quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
+- [quik-sms/quik](https://github.com/quik-sms/quik) - The most beautiful SMS messenger for Android - Revived
 - [scrtwpns/mixbox](https://github.com/scrtwpns/mixbox) - Mixbox is a library for natural color mixing based on real pigments.
 - [viperML/aoc2024](https://github.com/viperML/aoc2024) - Advent of code 2024 in Haskell
 - [Earthcomputer/aoc2024](https://github.com/Earthcomputer/aoc2024) - These are my advent of code 2024 solutions in Clojure
