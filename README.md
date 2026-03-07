@@ -178,7 +178,7 @@
 - [hexchat/hexchat](https://github.com/hexchat/hexchat) - GTK+ IRC client
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [libgit2/libgit2](https://github.com/libgit2/libgit2) - A cross-platform, linkable library implementation of Git that you can use in your application.
-- [jirutka/swaylock-effects](https://github.com/jirutka/swaylock-effects) - Swaylock, with fancy effects
+- [jirutka/swaylock-effects](https://github.com/jirutka/swaylock-effects) - Swaylock, with fancy effects (unmaintained)
 - [tio/tio](https://github.com/tio/tio) - A serial device I/O tool
 - [milkv-duo/duo-buildroot-sdk](https://github.com/milkv-duo/duo-buildroot-sdk) - Milk-V Duo Official buildroot SDK
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
@@ -301,7 +301,7 @@
 - [remipch/solar_concentrator](https://github.com/remipch/solar_concentrator) - Homemade automated solar concentrator 🔧 ☀️ 🔎
 - [zuidwijk/dsmr](https://github.com/zuidwijk/dsmr) - 
 - [jmwislez/fli3d](https://github.com/jmwislez/fli3d) - Fli3d is a project for Fri3d Camp, to develop and launch an ESP32 payload on top of a microrocket.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
 - [Cockatrice/Cockatrice](https://github.com/Cockatrice/Cockatrice) - A cross-platform virtual tabletop for multiplayer card games
@@ -477,7 +477,7 @@
 - [BeryJu/gravity](https://github.com/BeryJu/gravity) - Fully-replicated DNS and DHCP Server with ad-blocking powered by etcd
 - [sinclairtarget/git-who](https://github.com/sinclairtarget/git-who) - Git blame for file trees
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human opera
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [patrickvane/shfmt](https://github.com/patrickvane/shfmt) - A shell formatter (sh/bash/mksh)
 - [tidwall/jj](https://github.com/tidwall/jj) - JSON Stream Editor (command line utility)
@@ -703,7 +703,7 @@
 - [Ladysnake/Requiem](https://github.com/Ladysnake/Requiem) - Revamps Minecraft's vanilla death experience and adds various related mechanics.
 - [TeamPeril/Sculk-Horde](https://github.com/TeamPeril/Sculk-Horde) - Sculk Hoard implements a new end-game era to your game that once activated, will force you to fight against the newly awaked ancient sculk hoard in order to survive. This ancient enemy seeks to infect
 - [mrshmllow/freeze](https://github.com/mrshmllow/freeze) - freeze the tickrate of a server when there are no players online
-- [Helium314/HeliBoard](https://github.com/Helium314/HeliBoard) - Customizable and privacy-conscious open-source keyboard
+- [HeliBorg/HeliBoard](https://github.com/HeliBorg/HeliBoard) - Customizable and privacy-conscious open-source keyboard
 - [00-Evan/shattered-pixel-dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dun
 - [Earthcomputer/update-depression](https://github.com/Earthcomputer/update-depression) - Utilities for update suppression
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
@@ -1270,6 +1270,7 @@
 ## Python 
 
 - [jauderho/nts-servers](https://github.com/jauderho/nts-servers) - NTP servers with NTS support
+- [Mic92/direnv-instant](https://github.com/Mic92/direnv-instant) - Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.
 - [1attila/QsweMaker](https://github.com/1attila/QsweMaker) - Schematic maker & guide for the QSWE
 - [SmylerMC/litemapy](https://github.com/SmylerMC/litemapy) - Litemapy's goal is to provide an easy to use way to read and edit Litematica's schematic file format
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
@@ -1440,7 +1441,6 @@
 - [emilyselwood/self_deleting_repo](https://github.com/emilyselwood/self_deleting_repo) - A repo that deletes it self when it opens in an editor.
 - [andrewbaxter/filterway](https://github.com/andrewbaxter/filterway) - Wayland proxy that filters/modifies requests
 - [faukah/dix](https://github.com/faukah/dix) - Diff Nix
-- [Mic92/direnv-instant](https://github.com/Mic92/direnv-instant) - Non-blocking direnv integration daemon with tmux support that provides instant shell prompts by running direnv asynchronously in the background.
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
 - [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
