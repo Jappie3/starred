@@ -1351,7 +1351,7 @@
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [dmunozv04/iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) - SponsorBlock client for all YouTube TV clients.
 - [Matoking/protontricks](https://github.com/Matoking/protontricks) - A wrapper that does winetricks things for Proton enabled games, requires Winetricks.
-- [NyarchLinux/CatgirlDownloader](https://github.com/NyarchLinux/CatgirlDownloader) - A GTK4 application that downloads images of catgirl based on https://nekos.moe
+- [NyarchLinux/CatgirlDownloader](https://github.com/NyarchLinux/CatgirlDownloader) - A GTK4 application that downloads images of catgirl and waifus from multiple sources
 - [GradienceTeam/Gradience](https://github.com/GradienceTeam/Gradience) - Change the look of Adwaita, with ease
 - [NixOS/nixops](https://github.com/NixOS/nixops) - NixOps is a tool for deploying to NixOS machines in a network or cloud.
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
