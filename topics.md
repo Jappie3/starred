@@ -2772,7 +2772,7 @@
 - [milkv-duo/duo-buildroot-sdk](https://github.com/milkv-duo/duo-buildroot-sdk) - Milk-V Duo Official buildroot SDK
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [chayleaf/dotfiles](https://github.com/chayleaf/dotfiles) - my NixOS/home-manager config
-- [NyarchLinux/CatgirlDownloader](https://github.com/NyarchLinux/CatgirlDownloader) - A GTK4 application that downloads images of catgirl based on https://nekos.moe
+- [NyarchLinux/CatgirlDownloader](https://github.com/NyarchLinux/CatgirlDownloader) - A GTK4 application that downloads images of catgirl and waifus from multiple sources
 - [cachix/cachix-deploy-hetzner-dedicated](https://github.com/cachix/cachix-deploy-hetzner-dedicated) - Bootstrap Hetzner Dedicated machines with a single command and deploy using GitHub Actions
 - [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [valhalla/valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap
