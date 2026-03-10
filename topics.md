@@ -164,7 +164,6 @@
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
-- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -317,7 +316,7 @@
 - [opengapps/opengapps](https://github.com/opengapps/opengapps) - The main repository of the Open GApps Project
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The premium audio player for React Native
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 
 ## angular 
 
@@ -1449,7 +1448,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [rust-windowing/winit](https://github.com/rust-windowing/winit) - Window handling library in pure Rust
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The premium audio player for React Native
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 
 ## iot 
 
@@ -2077,10 +2076,6 @@
 - [MonoGame/MonoGame](https://github.com/MonoGame/MonoGame) - One framework for creating powerful cross-platform games.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
-
-## openai 
-
-- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 
 ## opencv 
 
@@ -3248,7 +3243,7 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The premium audio player for React Native
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 
 ## reactjs 
 
@@ -3866,7 +3861,7 @@
 - [Fedict/eid-mw](https://github.com/Fedict/eid-mw) - eID Middleware (main repository)
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The premium audio player for React Native
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 
 ## xml 
 
