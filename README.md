@@ -870,7 +870,7 @@
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
 - [minecraft-dev/MinecraftDev](https://github.com/minecraft-dev/MinecraftDev) - Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
-- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The premium audio player for React Native
+- [doublesymmetry/react-native-track-player](https://github.com/doublesymmetry/react-native-track-player) - The best audio player ever built for React Native. Built on the New Architecture — Android Auto, caching, preloading, background playback, and more.
 - [AMereBagatelle/AFKPeace](https://github.com/AMereBagatelle/AFKPeace) - A mod for peace of mind while AFKing!
 
 ## Lua 
