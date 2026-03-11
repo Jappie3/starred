@@ -2275,7 +2275,7 @@
 - [SlimeVR/SlimeVR-Tracker-ESP](https://github.com/SlimeVR/SlimeVR-Tracker-ESP) - SlimeVR tracker firmware for ESP32/ESP8266 and different IMUs
 - [NotAShelf/syntax-gaslighting.nvim](https://github.com/NotAShelf/syntax-gaslighting.nvim) - Gaslighting is not even a real word, you're crazy.
 - [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux
-- [limine-bootloader/limine](https://github.com/limine-bootloader/limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
+- [Limine-Bootloader/Limine](https://github.com/Limine-Bootloader/Limine) - Modern, advanced, portable, multiprotocol bootloader and boot manager. (Official mirror of https://codeberg.org/Limine/Limine)
 - [2No2Name/worldthreader](https://github.com/2No2Name/worldthreader) - Worldthreader is Minecraft mod that speeds up servers by safely running each dimension on a separate thread.
 - [AlephNought0/Faeryshell](https://github.com/AlephNought0/Faeryshell) - My quickshell config
 - [ProHaller/night-owl.nvim](https://github.com/ProHaller/night-owl.nvim) - 🦉 🌌 Night Owl colorscheme implementation for Neovim with support for Treesitter and semantic tokens
