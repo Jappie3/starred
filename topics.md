@@ -2485,7 +2485,7 @@
 - [NixOS/nixos-homepage](https://github.com/NixOS/nixos-homepage) - Sources for nixos.org
 - [random-wizard/1d20-5e-srd](https://github.com/random-wizard/1d20-5e-srd) - 
 - [NixOS/SC-election-2024](https://github.com/NixOS/SC-election-2024) - 2024 Election for the Steering Committee
-- [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner) - QUIC interop runner
+- [quic-interop/quic-interop-runner](https://github.com/quic-interop/quic-interop-runner) - QUIC / WebTransport Interop Runner
 - [mdn/translated-content-de](https://github.com/mdn/translated-content-de) - Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [misyltoad/frog-protocols](https://github.com/misyltoad/frog-protocols) - 
 - [localsend/protocol](https://github.com/localsend/protocol) - The LocalSend REST API
@@ -3284,7 +3284,6 @@
 
 ## rust 
 
-- [weyl-ai/nimi](https://github.com/weyl-ai/nimi) - Tini-like PID 1 for containers and target for NixOS modular services
 - [LiveSplit/LiveSplitOne](https://github.com/LiveSplit/LiveSplitOne) - A version of LiveSplit that works on a lot of platforms.
 - [lennart-k/rustical](https://github.com/lennart-k/rustical) - a calendar server aiming to be simple, fast and passwordless
 - [grouzen/framework-tool-tui](https://github.com/grouzen/framework-tool-tui) - A TUI for controlling and monitoring Framework Computers hardware built in Rust
